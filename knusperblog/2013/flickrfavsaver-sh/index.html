@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>flickrfavsaver.sh</title>
+  <link media="all" href="/knusperblog/style.css" rel="stylesheet" />
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+  <link href="/knusperblog/" rel="home start" />
+  <link href="/knusperblog/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/knusperblog/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <meta name="description" content="Bildschirmschoner, wie
+z.B. [xscreensaver](https:/..." />
+    <meta name="keywords" content="playground" />
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans'
+	rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Enriqueta:400,700'
+      rel='stylesheet' type='text/css'>
+  <link rel="icon" href="http://knusper.net/cookies.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <h1><a href="/knusperblog/" rel="home start" class="blogtitle">Knusperblog</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/knusperblog/" rel="home start">blog</a></li>
+        <!-- <li><a href="/knusperblog/rss/" rel="alternate">rss</a></li> -->
+        <li><a href="/knusperblog/articles/" rel="contents">archiv</a></li>
+        <li><a href="/knusperblog/atom/" rel="alternate">feed</a></li>
+      </ul>
+    </nav>
+  </header>
+    
+        <article>
+    <header>
+        <time datetime="2013-12-08">08.12.2013, 17:24</time>
+        <h1>
+            <a href="/knusperblog/2013/flickrfavsaver-sh/" rel="bookmark canonical">flickrfavsaver.sh</a>
+        </h1>
+    </header>
+    <p>Bildschirmschoner, wie
+z.B. <a href="https://en.wikipedia.org/wiki/XScreenSaver">xscreensaver</a>,
+bieten einen Diashow-Modus, bei dem nach Aktivierung des
+Bildschirmschoners nacheinander (und wahlweise zufällig) Bilder aus
+einem bestimmten Verzeichnis angezeigt werden.</p>
+
+<p>Mit meinem Bash-Script <code>flickrfavsaver.sh</code> ist es möglich, ein
+Verzeichnis automatisch mit Fotos aus einem Flickr!-Favoriten Stream
+zu befüllen. Dabei achtet das Skript zum sowohl darauf, dass Bilder,
+die nur in geringer Auflösung herunterladbar sind, nicht im gewählten
+Verzeichnis landen, als auch darauf, dass alte Bilder nach einer
+gewissen Zeitspanne wieder gelöscht werden und somit das Verzeichnis
+nicht vollgemüllt wird.</p>
+
+<p>Lässt man <code>flickrfavsaver.sh</code> mit seinen <a href="http://www.flickr.com/photos/knusper/favorites">persönlichen
+Flickr!-Favoriten</a>
+regelmäßig als <a href="https://de.wikipedia.org/wiki/Cron">cronjob</a> auf
+seinem Rechner laufen und wählt man nun für den Diashow-Modus seines
+Bildschirmschoners das entsprechende Verzeichnis aus, so hat man einen
+wahrlich individuellen Bildschirmschoner.</p>
+
+<p>Link zum Script: <a href="http://knusper.net/flickrfavsaver/flickrfavsaver.html">http://knusper.net/flickrfavsaver/flickrfavsaver.html</a></p>
+
+<p>(<em>Hinweis</em>: Benötigt <code>xsltproc</code> &amp; die Datei
+<a href="http://lincgeek.org/bashpodder/parse_enclosure.xsl"><code>parse_enclosure.xsl</code></a>)</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/playground/" rel="tag">playground</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+        <a href="/knusperblog/2013/keep-calm-and-love-pandas//" class="page floatright">
+        Keep Calm and Love Pandas &raquo;
+        </a>
+    
+    
+        <a href="/knusperblog/2013/knuspermix-2013-12-just-a-knuspermix//" class="page floatleft">
+        &laquo; Knuspermix 2013-12 - Just a Knuspermix
+        </a>
+<footer>
+    <!-- 
+     -->
+    <!-- <p>written by <a href="mailto:cherenz@aip.de">Christian Herenz</a></p> -->
+    <!-- <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license"> -->
+    <!--     <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" /> -->
+    <!-- </a> -->
+    <!-- 
+    
+ -->
+  </footer>
+</body>
+</html>

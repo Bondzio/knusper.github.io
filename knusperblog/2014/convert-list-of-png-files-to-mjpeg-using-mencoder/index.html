@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Convert List of PNG Files to MJPEG using mencoder</title>
+  <link media="all" href="/knusperblog/style.css" rel="stylesheet" />
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+  <link href="/knusperblog/" rel="home start" />
+  <link href="/knusperblog/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/knusperblog/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <meta name="description" content="Suppose you have list of single frames
+
+    0001.p..." />
+    <meta name="keywords" content="playground, english" />
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans'
+	rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Enriqueta:400,700'
+      rel='stylesheet' type='text/css'>
+  <link rel="icon" href="http://knusper.net/cookies.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <h1><a href="/knusperblog/" rel="home start" class="blogtitle">Knusperblog</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/knusperblog/" rel="home start">blog</a></li>
+        <!-- <li><a href="/knusperblog/rss/" rel="alternate">rss</a></li> -->
+        <li><a href="/knusperblog/articles/" rel="contents">archiv</a></li>
+        <li><a href="/knusperblog/atom/" rel="alternate">feed</a></li>
+      </ul>
+    </nav>
+  </header>
+    
+        <article>
+    <header>
+        <time datetime="2014-05-16">16.05.2014, 23:54</time>
+        <h1>
+            <a href="/knusperblog/2014/convert-list-of-png-files-to-mjpeg-using-mencoder/" rel="bookmark canonical">Convert List of PNG Files to MJPEG using mencoder</a>
+        </h1>
+    </header>
+    <p>Suppose you have list of single frames</p>
+
+<pre><code>0001.png
+0002.png
+...
+4203.png
+</code></pre>
+
+<p>from which you want to generate a
+<a href="https://en.wikipedia.org/wiki/Motion_JPEG">Motion JPEG</a> (MJpeg)
+movie.</p>
+
+<p>Assuming you have <a href="https://en.wikipedia.org/wiki/MEncoder">mencoder</a>
+(part of mplayer), the following command does the trick:</p>
+
+<pre><code>mencoder mf://*png -ovc lavc -lavcopts vcodec=mjpeg -mf fps=35 -o movie.mjpg
+</code></pre>
+
+<p>Explanation:</p>
+
+<ul>
+<li><code>mf://*png</code> &ndash; expands to an ordered list of png files</li>
+<li><code>-ovc lavc</code> &ndash; use libavc for encoding (note: <code>-ovc help</code> lists available encoders)</li>
+<li><code>-lavcdopts vcodec=mjpeg</code> &ndash; tell libavc to encode in MJpeg</li>
+<li><code>-mf fps=35</code> &ndash; use 35 input files for one second (i.e. framerate will be 35 frames per second)</li>
+<li><code>-o movie.mjpg</code> &ndash; save output to <code>movie.mjpg</code></li>
+</ul>
+
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/playground/" rel="tag">playground</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+        <a href="/knusperblog/2014/hot-in-the-mix-2014-week-19//" class="page floatright">
+        Hot In The Mix - 2014 Week 19 &raquo;
+        </a>
+    
+    
+        <a href="/knusperblog/2014/knuspermix-2014-05-3-friedrichsfelde-ost//" class="page floatleft">
+        &laquo; Knuspermix 2014-05 / 3 - Friedrichsfelde Ost
+        </a>
+<footer>
+    <!-- 
+     -->
+    <!-- <p>written by <a href="mailto:cherenz@aip.de">Christian Herenz</a></p> -->
+    <!-- <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license"> -->
+    <!--     <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" /> -->
+    <!-- </a> -->
+    <!-- 
+    
+ -->
+  </footer>
+</body>
+</html>

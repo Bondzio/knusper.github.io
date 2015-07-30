@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Knusperblog</title>
+  <link media="all" href="/knusperblog/style.css" rel="stylesheet" />
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+  <link href="/knusperblog/" rel="home start" />
+  <link href="/knusperblog/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/knusperblog/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans'
+	rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Enriqueta:400,700'
+      rel='stylesheet' type='text/css'>
+  <link rel="icon" href="http://knusper.net/cookies.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <h1><a href="/knusperblog/" rel="home start" class="blogtitle">Knusperblog</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/knusperblog/" rel="home start">blog</a></li>
+        <!-- <li><a href="/knusperblog/rss/" rel="alternate">rss</a></li> -->
+        <li><a href="/knusperblog/articles/" rel="contents">archiv</a></li>
+        <li><a href="/knusperblog/atom/" rel="alternate">feed</a></li>
+      </ul>
+    </nav>
+  </header>
+    
+        <article>
+    <header>
+        <time datetime="2014-09-09">09.09.2014, 18:44</time>
+        <h1>
+            <a href="/knusperblog/2014/urlview/" rel="bookmark canonical">urlview</a>
+        </h1>
+    </header>
+    <p><code>urlview</code>, auf Text losegelassen, extrahiert alle URLs aus dem Text
+und präsentiert sie in einem Menü. Durchaus nützlich!</p>
+
+<p>Mehr Infos dazu: <a href="http://mutt.blackfish.org.uk/following-links/">http://mutt.blackfish.org.uk/following-links/</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2014-08-18">18.08.2014, 23:53</time>
+        <h1>
+            <a href="/knusperblog/2014/firefox-gtk-dark-theme-fix/" rel="bookmark canonical">Firefox - GTK Dark Theme Fix</a>
+        </h1>
+    </header>
+    <h2>Problem:</h2>
+
+<p>Using a dark KDE (or GTK native) color theme
+(e.g. <a href="http://kde-look.org/content/show.php/?content=66209">zenburn</a>)
+causes content in form input elements to be illegible. This
+<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=70315">known Firefox bug</a>
+basically renders the browser unusable on many webpages, that do not
+come with custom CSS rules for their forms.</p>
+
+<h2>Solution:</h2>
+
+<p>Use the <a href="https://userstyles.org/">Stylish</a> Firefox add-on to create a
+custom global rule <em>no dark forms and buttons</em>:</p>
+
+<pre><code>    input:not(.urlbar-input):not(.textbox-input) {
+        -moz-appearance: none !important;
+        background-color: white;
+        color: black;
+    }
+
+    #downloads-indicator-counter {
+        color: white;
+    }
+
+    textarea {
+        -moz-appearance: none !important;
+        background-color: white;
+        color: black;
+    }
+
+    select {
+        -moz-appearance: none !important;
+        background-color: white;
+        color: black;
+    }
+</code></pre>
+
+<p>Succsesfully tested with Firefox version 31.</p>
+
+<p>Source: <a href="https://wiki.archlinux.org/index.php/Firefox#Unreadable_input_fields_with_dark_GTK.2B_themes">Arch Linux Wiki &ndash; Retrived 19.08.2014</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/just-playing/" rel="tag">just playing</a>,
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2014-08-17">17.08.2014, 21:45</time>
+        <h1>
+            <a href="/knusperblog/2014/discogs-google-duckduckgo-dark-themes/" rel="bookmark canonical">Discogs, Google & DuckDuckGo - Dark Themes</a>
+        </h1>
+    </header>
+    <p>I prefer using a dark theme on my desktop. However, now most of the
+brighter styled web-sites look &ldquo;alien&rdquo; when opened in my browser. The
+solution is &ldquo;re-theming&rdquo; those sites using custom
+CSS styles. The Firefox (or Chrome) plug-in
+<a href="https://addons.mozilla.org/firefox/addon/stylish/">Stylish</a> helps to
+manage such custom styles, and ten-thousands of styles are available
+on <a href="https://userstyles.org/">userstyles.org</a>.</p>
+
+<p><strong>Examples:</strong></p>
+
+<ul>
+<li><p>Discogs Dark Ultimate</p>
+
+<p>  <img src="http://i.imgur.com/MDAhle1l.png" alt="Discogs Dark Theme Example"/></p>
+
+<p>  <a href="https://userstyles.org/styles/44530/discogs-dark-ultimate">Discogs Dark Ultimate @ userstyles.org</a></p></li>
+<li><p>Dark Google FTW</p>
+
+<p>  <img src="http://i.imgur.com/EfMnzill.png" alt="Dark Google FTW Example"/></p>
+
+<p>  <a href="https://userstyles.org/styles/50113/dark-google-ftw">Dark Google FTW @ userstyles.org</a></p></li>
+<li><p>New DuckDuckGo Dark</p>
+
+<p>  <img src="http://i.imgur.com/Cqa0ATAl.png" alt="New DuckDuckGo Dark Example"/></p>
+
+<p>  <a href="https://userstyles.org/styles/101431/new-duckduckgo-dark-theme">New DuckDuckGo Dark @ userstyles.org</a></p></li>
+</ul>
+
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2014-08-16">16.08.2014, 17:42</time>
+        <h1>
+            <a href="/knusperblog/2014/cubehelix-as-default-in-ds9/" rel="bookmark canonical">Cubehelix as Default in ds9</a>
+        </h1>
+    </header>
+    <p>I love Dave Green&rsquo;s
+<a href="http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/"><code>cubehelix</code> color scheme</a>
+for visualization of astronomical intensity datasets (e.g. images).</p>
+
+<p>In fact, I love it so much, that I want it to be the default in
+<a href="http://ds9.si.edu/site/Home.html">SAOImage ds9</a>. A little alias does
+the trick for me:</p>
+
+<pre><code>alias ds9='~/local/bin/ds9 -cmap file ~/local/lib/cubehelix00.ds9'
+</code></pre>
+
+<p>Here the file <code>cubehelix00.ds9</code> must be obtained from
+<a href="http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/cubewedges.html">this page</a>.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>,
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                    and
+                    
+                <a href="/knusperblog/tag/work/" rel="tag">work</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2014-04-26">26.04.2014, 20:48</time>
+        <h1>
+            <a href="/knusperblog/2014/krename/" rel="bookmark canonical">KRename</a>
+        </h1>
+    </header>
+    <p>Aufgabenstellung: Eine größere Anzahl von Dateien soll mittels eines
+bestimmten Musters umbenannt werden.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Krename_main.png" alt="KRename Screenshot)"/></p>
+
+<p>Die Hackerlösung besteht jetzt natürlich darin, einen Shellbefehl mit
+regulären Ausdrücken eintippen, vielleicht sogar unter Benutzung
+eines kleinen Loops und der eingebauten Shellarithmetik. Für alle
+anderen bietet sich KRename an. Tatsächlich ist das Programm sogar in
+der Lage bestimmte Informationen, welche für das Umbenennungsmuster
+gebraucht werden könnten, direkt aus einer Vielzahl von verschiedenen
+Dateiformaten auszulesen (z.B. MP3, PDF, JPG usw.). Das wäre auf der
+Shell auch nur unter Benutzung von zusätzlichen, teils exotischen,
+Tools möglich.</p>
+
+<p><a href="http://www.krename.net/">http://www.krename.net/</a></p>
+
+<p>Wikipedia: <a href="https://en.wikipedia.org/wiki/KRename">https://en.wikipedia.org/wiki/KRename</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2014-03-24">24.03.2014, 12:41</time>
+        <h1>
+            <a href="/knusperblog/2014/rssowl/" rel="bookmark canonical">RSSOwl</a>
+        </h1>
+    </header>
+    <p>Bester Desktop RSS Reader!  Cross-Platform dank Java. Habe viele
+getestet, auch Online-Only, aber das Teil hängt die Konkurrenz um
+Längen ab.  Wer professionell mit via
+<a href="https://de.wikipedia.org/wiki/RSS">RSS</a> beziehbaren Inhalten arbeiten
+muss, sollte RSSOwl unbedingt mal ausprobieren.</p>
+
+<p><img src="http://knusper.net/images/rss_owl.png" alt="Screenshot"/></p>
+
+<p>Web: <a href="http://www.rssowl.org/">www.rssowl.org</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2013-11-03">03.11.2013, 12:48</time>
+        <h1>
+            <a href="/knusperblog/2013/qpdfview/" rel="bookmark canonical">qpdfview</a>
+        </h1>
+    </header>
+    <p>Einfacher PDF Betrachter mit Reitern (aka Tabs). Basiert auf Qt4, fügt
+sich also prima in eine KDE 4 Arbeitsumgebung ein. Falls man
+schnell(!!!) durch hunderte PDFs mit Diagrammen navigieren muss
+(siehe Screenshot) mehr als ideal.</p>
+
+<p><img src="http://knusper.net/images/qpdfview.png" alt="qpdfview screenshot"/></p>
+
+<p>Homepage: <a href="https://launchpad.net/qpdfview">https://launchpad.net/qpdfview</a></p>
+
+<p>Kann bald (ab Version 0.4.7) auch in PDF eingebettete Filme
+starten. Ein Feature, welches <a href="https://answers.launchpad.net/qpdfview/+question/237323">ich in der aktuellen, stabilen Version
+0.4.6 noch
+vermisse</a>.</p>
+
+<p>Pakete für openSUSE (oder Fedora, oder CentOS) gibt es im <a href="https://build.opensuse.org/package/show?project=X11%3AQtDesktop&amp;package=qpdfview">openSUSE
+Build Service QT Desktop
+Repository</a>.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2013-07-22">22.07.2013, 23:05</time>
+        <h1>
+            <a href="/knusperblog/2013/matplotlib-animation-as-animated-gif/" rel="bookmark canonical">Matplotlib Animation as Animated GIF</a>
+        </h1>
+    </header>
+    <p>First save <a href="http://wiki.scipy.org/Cookbook/Matplotlib/Animations">matplotlib animation</a> in python code with:</p>
+
+<p><code>ani.save('animation.mp4', fps=10)</code></p>
+
+<p>Use <a href="http://ffmpeg.org/">ffmpeg</a> to decode single frames to gif:</p>
+
+<p><code>mkdir gifs &amp;&amp; ffmpeg -i animation.mp4 -r 10 gifs/%04d.gif</code></p>
+
+<p>Use <a href="http://www.lcdf.org/gifsicle/">gifsicle</a> to create animated gif:</p>
+
+<p><code>gifsicle --use-colormap 'bw' --delay=10 --loop ./*gif &gt; animation.gif</code></p>
+
+<p>See also <a href="http://dtbaker.net/random-linux-posts/convert-video-avi-mpeg-mp4-to-a-gif-animation-on-linux/">this
+entry</a>
+at
+<a href="http://dtbaker.net/random-linux-posts/">dtbaker.net/random-linux-posts</a>.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/just-playing/" rel="tag">just playing</a>,
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2013-07-21">21.07.2013, 18:29</time>
+        <h1>
+            <a href="/knusperblog/2013/radio-tray/" rel="bookmark canonical">Radio Tray</a>
+        </h1>
+    </header>
+    <p>Minimalistischer Internetradio Abspieler.</p>
+
+<p><img src="http://media.cdn.ubuntu-de.org/wiki/attachments/23/12/radio.png" alt="Radio Tray Icon"/></p>
+
+<p>Nistet sich nach Start dem im &ldquo;Systemabschnitt der Kontrolleiste&rdquo; (KDE
+Eindeutschung von &ldquo;System Tray&rdquo;) ein und nervt nicht
+weiter.</p>
+
+<p>Web: <a href="http://radiotray.sourceforge.net/">radiotray.sourceforge.net</a></p>
+
+<p>Radio Tray Pro-Tips gibt es z.B. im
+<a href="http://wiki.ubuntuusers.de/Radio_Tray">Ubunutusers-Wiki</a>.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
+        <time datetime="2013-07-14">14.07.2013, 21:19</time>
+        <h1>
+            <a href="/knusperblog/2013/minitube/" rel="bookmark canonical">Minitube</a>
+        </h1>
+    </header>
+    <p>Stand-alone Youtube Videoplayer-App für gegen Werbung allergische
+Couch-Potatoes.</p>
+
+<p><img src="http://i.imgur.com/FBEvNJ4.png" alt="Minitube Screenshot"/></p>
+
+<p>Web: <a href="http://flavio.tordini.org/minitube">http://flavio.tordini.org/minitube</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+        <a href="/knusperblog/tag/software-i-use/3//" class="page floatright">
+        Previous &raquo;
+        </a>
+    
+    
+        <a href="/knusperblog/tag/software-i-use//" class="page floatleft">
+        &laquo; Next
+        </a>
+<footer>
+    <!-- 
+     -->
+    <!-- <p>written by <a href="mailto:cherenz@aip.de">Christian Herenz</a></p> -->
+    <!-- <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license"> -->
+    <!--     <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" /> -->
+    <!-- </a> -->
+    <!-- 
+    
+ -->
+  </footer>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Matplotlib Animation as Animated GIF</title>
+  <link media="all" href="/knusperblog/style.css" rel="stylesheet" />
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+  <link href="/knusperblog/" rel="home start" />
+  <link href="/knusperblog/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/knusperblog/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <meta name="description" content="First save [matplotlib animation](http://wiki.scip..." />
+    <meta name="keywords" content="just playing, software I use, english" />
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans'
+	rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Enriqueta:400,700'
+      rel='stylesheet' type='text/css'>
+  <link rel="icon" href="http://knusper.net/cookies.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <h1><a href="/knusperblog/" rel="home start" class="blogtitle">Knusperblog</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/knusperblog/" rel="home start">blog</a></li>
+        <!-- <li><a href="/knusperblog/rss/" rel="alternate">rss</a></li> -->
+        <li><a href="/knusperblog/articles/" rel="contents">archiv</a></li>
+        <li><a href="/knusperblog/atom/" rel="alternate">feed</a></li>
+      </ul>
+    </nav>
+  </header>
+    
+        <article>
+    <header>
+        <time datetime="2013-07-22">22.07.2013, 23:05</time>
+        <h1>
+            <a href="/knusperblog/2013/matplotlib-animation-as-animated-gif/" rel="bookmark canonical">Matplotlib Animation as Animated GIF</a>
+        </h1>
+    </header>
+    <p>First save <a href="http://wiki.scipy.org/Cookbook/Matplotlib/Animations">matplotlib animation</a> in python code with:</p>
+
+<p><code>ani.save('animation.mp4', fps=10)</code></p>
+
+<p>Use <a href="http://ffmpeg.org/">ffmpeg</a> to decode single frames to gif:</p>
+
+<p><code>mkdir gifs &amp;&amp; ffmpeg -i animation.mp4 -r 10 gifs/%04d.gif</code></p>
+
+<p>Use <a href="http://www.lcdf.org/gifsicle/">gifsicle</a> to create animated gif:</p>
+
+<p><code>gifsicle --use-colormap 'bw' --delay=10 --loop ./*gif &gt; animation.gif</code></p>
+
+<p>See also <a href="http://dtbaker.net/random-linux-posts/convert-video-avi-mpeg-mp4-to-a-gif-animation-on-linux/">this
+entry</a>
+at
+<a href="http://dtbaker.net/random-linux-posts/">dtbaker.net/random-linux-posts</a>.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/just-playing/" rel="tag">just playing</a>,
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+        <a href="/knusperblog/2013/blogroll-7-2013//" class="page floatright">
+        Blogroll 7/2013 &raquo;
+        </a>
+    
+    
+        <a href="/knusperblog/2013/knuspermix-2013-08-10-back-on-tech//" class="page floatleft">
+        &laquo; Knuspermix 2013-08-10 - Back on Tech
+        </a>
+<footer>
+    <!-- 
+     -->
+    <!-- <p>written by <a href="mailto:cherenz@aip.de">Christian Herenz</a></p> -->
+    <!-- <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license"> -->
+    <!--     <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" /> -->
+    <!-- </a> -->
+    <!-- 
+    
+ -->
+  </footer>
+</body>
+</html>
