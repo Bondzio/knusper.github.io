@@ -1,0 +1,16 @@
+TITLE: The Dark Knight
+AUTHOR: Christian Herenz
+DATE: 25.08.2008 04:39 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Hab heute den neuen Batman gesehen:
+
+*...dieselbe abgestandene Brühe in Schwarz...*
+
+Wenn ich gute Kritiken schreiben könnte, würde sich das ungefähr so lesen wie die Kritik im Spreeblick - kurz: Der Film ist schlecht und langweilig.
+
+[Link zur Kritik bei Spreeblick](http://www.spreeblick.com/feeder/?FeederAction=clicked&feed=Articles+%28RSS2%29&seed=http%3A%2F%2Fwww.spreeblick.com%2F2008%2F08%2F19%2Fthe-dark-knight%2F&seed_title=The+Dark+Knight)
+END-----

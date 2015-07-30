@@ -1,0 +1,12 @@
+TITLE: Kleinstes Schwarzes Loch entdeckt 
+AUTHOR: Christian Herenz
+DATE: 03.04.2008 07:59 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*NASA-Forscher haben das kleinste bislang bekannte Schwarze Loch aufgespürt: Die Schwerkraftfalle hat nur die etwa 3,8-fache Masse unserer Sonne und einen Durchmesser von rund 24 Kilometern*
+
+[Astronews.com](http://www.astronews.com/news/artikel/2008/04/0804-003.shtml)
+END-----

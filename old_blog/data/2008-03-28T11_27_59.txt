@@ -1,0 +1,16 @@
+TITLE: The "Podcast Chicks" 
+AUTHOR: Christian Herenz
+DATE: 28.03.2008 11:27 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich finde ja das Wort "Podcast" im Zusammenhang mit Videos immer irgendwie merkwürdig, aber egal...
+
+*A long weekend usually means less news, but for those looking for a new and quite often attractive take on news, the ongoing battle for geek chick supremacy offers a bountiful choice.*
+
+[Techcrunch](http://www.techcrunch.com/2008/03/21/battle-of-the-podcasting-geek-chicks/)
+
+News aus der Welt der Technik von <strike>sexy</strike> kompetenten Moderatorinen präsentiert, was will man (Mann) mehr...? 
+END-----

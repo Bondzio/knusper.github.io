@@ -1,0 +1,52 @@
+TITLE: xorg.conf für iMac G3 unter Debian Lenny
+AUTHOR: Christian Herenz
+DATE: 04.03.2009 16:08 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Die Installation mittels der PowerPC Netinstall-CD von Debian Lenny
+installiert einem noch kein X11 und keinen Windowmanager. Sobald man
+dann allerdings in Aptitude einen Windowmanager auswählt, wird
+automatisch X11 mitinstalliert. Einen Loginmanager sollte man auch
+noch selektieren, so dass gleich eine graphische Anmeldung möglich
+ist. Besonders komfortabel ist natürlich *kdm*, minimalistischer und
+schlichter ist *xdm*. Möchte man gar keine KDE Bibliotheken auf seinem
+System haben, sollte man letzteren wählen.
+
+Sobald die Installation dieser Komponenten abgeschlossen ist, kann man
+das System rebooten. Zumindest auf meinem iMac habe ich dann aber
+einen kleinen Schreck bekommen, denn an der Stelle wo der Bootvorgang
+normalerweise abgeschlossen ist und der graphische Loginmanager
+startet, schaltete sich der Bildschirm bei mir schwarz. Dies liegt
+aber nur daran, dass die Standardeinstellungen in der xorg.conf nicht
+mit dem eingebauten iMac Monitor kompatibel sind und diesen in einer
+Grafikauflösung ansteuern, die er nicht mehr mitmacht. Eine
+Schutzvorrichtung sorgt offenbar dafür, dass er sich aus diesem
+Grund einfach abschaltet, was die restliche iMac Hardware offenbar als
+"Standby" Modus interpretiert, dies wird nämlich vom orangen Leuchten
+des Powerknopfes signalisiert.
+
+Tatsächlich befindet er sich allerdings nicht im Standby, durch
+drücken der Tastenkombination Strg+Alt+F2 kann man sich nämlich noch
+ganz normal im Textmodus anmelden. Somit kann man dann die Datei
+/etc/X11/xorg.conf derart abändern, dass der Monitor
+funktioniert. Folgende Zeilen in den für die Anzeige zuständigen
+Abschnitten führten bei mir zum Erfolg:
+
+
+    Section "Monitor"
+    Identifier "Configured Monitor"
+    Horizsync 30-65
+    Vertrefresh 50-75
+    EndSection
+    Section "Screen"
+    Identifier "Default Screen"
+    Monitor "Configured Monitor"
+    Device "Configured Video Device"
+    SubSection "Display"
+    Modes "1024x768" "800x600" "640x480"
+    EndSubSection
+    EndSection
+END-----

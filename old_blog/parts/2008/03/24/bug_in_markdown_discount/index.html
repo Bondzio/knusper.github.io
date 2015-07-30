@@ -1,0 +1,63 @@
+<h2 class="date">
+	24.03.2008 19:46 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-03-24T19_46_34.txt"></a>
+	<h3 class="title">Bug in Markdown (Discount)</h3>
+	<p><em>Und ich hab ihn gefunden</em>  <img src="../../../../../moods/smilies/smiley.gif" alt=":)" /></p>
+
+<p>Hier die Kopie meiner eMail Korospondenz:</p>
+
+<blockquote><p>Hi,</p>
+
+<blockquote><p>If I have text like:</p>
+
+<pre><code> &lt;img src="test.gif" alt="test.gif" /&gt;
+
+    ![test.gif](test.gif)|
+</code></pre>
+
+<p>Shouldnt markdown then generate:</p>
+
+<pre><code> &lt;img src="test.gif" alt="test.gif" /&gt;
+</code></pre>
+
+<p> <img src="test.gif" alt="test.gif" /></p>
+
+<p>??</p>
+
+<p>Here discount generates:</p>
+
+<pre><code>&lt;p&gt;&lt;img src=&amp;ldquo;test.gif&amp;rdquo; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="test.gif" alt="test.gif" /&gt;&lt;/p&gt;
+</code></pre>
+
+<p>||???</p>
+
+<p>I understand that these are smartypants translations, which I normally 
+would like, but not inside html elements.
+Do I miss something here??</p></blockquote>
+
+<p>No, you've found a bug in how I handle the contents of a html element.
+Thanks for pointing it out to me &mdash; I'll try and fix that bug in the
+next release of the code.</p>
+
+<pre><code>-david parsons
+</code></pre></blockquote>
+
+<p>Ich sag Bescheid, wenn die neue Version draußen ist:
+<a href="http://www.pell.portland.or.us/%7Eorc/Code/markdown/">http://www.pell.portland.or.us/%7Eorc/Code/markdown/</a> </p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/03/24/bug_in_markdown_discount/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../../archives/2008/03/24/bug_in_markdown_discount/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/03/24/bug_in_markdown_discount/index.html');" target="_self"><script type="text/javascript">postCount('2008/03/24/bug_in_markdown_discount/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/03/24/bug_in_markdown_discount/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/03/24/bug_in_markdown_discount/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

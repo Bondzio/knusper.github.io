@@ -1,0 +1,18 @@
+TITLE: Aufstehen mit Godzilla 
+AUTHOR: Christian Herenz
+DATE: 18.03.2008 20:07 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Jeden Morgen sendet die NASA an die ISS einen Song um die Astronauten zu wecken.
+Bei der akutellen Mission ist ein Japaner mit von der Partie, weshalb man sich den Spaß
+nicht nehmen hat lassen und die Jungs da oben am Tag 3 der aktuellen Mission mit
+diesem schönen Stück Filmmusik zu wecken:<br><br>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/5HzomHcgEN4&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/5HzomHcgEN4&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<br><br>Quelle: <a href="http://spaceflight.nasa.gov/gallery/audio/shuttle/sts-123/html/ndxpage1.html">
+NASA Archive - STS-123 Wakeup Calls</a><br><br>
+Notiz an mich: Liste kurioser Wakeupcalls bei <a href="http://de.wikipedia.org/wiki/Wake-Up-Call_(NASA)">
+Wikipedia</a> updaten!
+END-----

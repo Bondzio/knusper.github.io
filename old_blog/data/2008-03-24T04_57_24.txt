@@ -1,0 +1,94 @@
+TITLE: Linux Mint 4.0 KDE Community Edition - kurz angetestet 
+AUTHOR: Christian Herenz
+DATE: 24.03.2008 04:57 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe heute bei einem Freund [Linux Mint][1] installiert.  Der Gute ist
+schon seit 2 Jahren Linuxbenutzer, zuletzt [openSUSE][2] 10.2. Aber irgendwie
+war das System nicht so der Spaß auf seinem Rechner. Orginalzitat: "Lahm, Lahm und nochmal
+Lahm". Der Grund dafür ist, dass die Leute bei Novell allen möglichen Kram in
+das System packen, den kein "Normalanwender" wirklich braucht und wenn man dann
+einen älteren Rechner mit nicht so dickem RAM und Prozessor hat, dann schaut man eben etwas
+dumm aus der Wäsche - so brauchte ein Systemstart bei ihm ca. 5 Minuten und
+nochmal ungefähr 3 Minuten musste man warten bevor Open Office einsatzbereit
+war. Der Witz bei der Sache ist der, dass die wirklich wichtigen Sachen für
+einen Endanwender bei openSUSE (Flash, DVD Playback, MP3 Playback) nur durch
+kompliziertere Kunstgriffe zu erledigen sind, die den meisten
+Otto-Normal-Computeranwender eher davon abhalten Linux zu installieren.
+
+[1]: http://linuxmint.com/
+[2]: http://www.opensuse.org/
+
+Durch den [Linux Link Tech-Show][3] Podcast wurde ich auf [Linux Mint][1]
+ vor einiger Zeit aufmerksam gemacht, eine Linuxdistribution die gerade oben
+ genannte Probleme adressiert. So beschlossen wir heute beide einfach mal auf einen Schuss ins Blaue eine Installation zu wagen. Da er in KDE geübt ist, entschieden wir uns für die [KDE Community Edition](http://linuxmint.com/rel_daryna_kde.php).
+
+[3]: http://tllts.org
+
+Die Downloadmirror erwiesen sich alle 3 als sehr langsam (3 und mehr Stunden
+für die CD), so dass wir uns für den Torrent entschieden, mit dem die ca. 700 MB
+große ISO Datei in ca. 1 Stunde auf die Festplatte geladen war.
+
+Der Installationsprozess ansich war sehr einfach - auf der Website ist sogar
+eine Anleitung zu finden, die beschreibt wie man ein bestehendes
+Home-Verzeichnis migrieren kann. Für einen derzeitigen Windowsbenutzer
+ist der Partitionsprozess meines Erachtens auch sehr simpel gestalltet, man kann einfach
+per Schieberegler festlegen wieviel Prozent seiner Festplatte man Linux geben
+möchte, und dann steht der Installation nichts mehr im Weg. Einziger
+Kritikpunkt den ich am Installationsprozess habe, ist das der Installer von
+einer LiveCD läuft, dass heißt das komplette System wird zuerst von einer CD in
+den RAM geladen, inklusive KDE-Desktop. Der Vorteil einer LiveCD ist
+natürlich, das man das ganze System wunderbar ausprobieren kann, ohne
+irgendetwas zu installieren. Der Haken bei der Sache ist jedoch, dass es
+eine ganze Weile dauert bevor alles von der CD geladen ist. Vorallem auf
+Rechnern die nicht so dick mit RAM bestückt sind, kann dies zu einer echten
+Geduldsprobe mutieren. Wenn die Installation dann aber erst einmal ins Rollen
+gekommen ist, geht es allerdings sehr sehr flott.
+
+Noch flotter bootet das System. Nicht nur meine Kinnlade bewegte sich in
+Richtung Tischkannte, als nach weniger als 30 Sekunden der Login-Bildschirm
+erschien, nocheinmal solange dauert es dann bis zur vollständigen
+Einsatzbereitschaft von KDE. Flash im Browser funktioniert genauso wie MP3s
+anhören und DVDs abspielen auf Anhieb. Wie eingangs erwähnt, dass ist in der
+Linux Welt definitv nicht Standard!
+
+Es fehlte allerdings OpenOffice, welches man aber mit
+einem sehr einfach gehaltenen Installationsprogramm und ein paar Klicks
+nachinstallieren konnte. Schönheitsfehler dabei war aber, dass die Icons bei
+OpenOffice nicht mitinstalliert wurden. Hier half ein Blick ins Forum auf der
+LinuxMint Website aber weiter - ein zusätzliches Paket muss mit einem schon
+etwas komplizierter aussehenden Paketmanager nachgerüstet werden, der Fehler
+soll in der nächsten Version von Linux Mint behoben sein. Auch die
+KDE-Integration von Firefox ist nicht standardmäßig aktiviert, was man bei
+einer KDE Community Edition aber erwarten würde. Hier ist schon etwas mehr
+Handarbeit notwendig, ein Neuling würde das sicherlich nicht auf Anhieb
+hinkriegen, wobei aber bemerkt sei, dass ein Neuling derartiges auch nicht
+unbedingt merken würde - allerdings hatte besagter Freund schon openSUSE am
+laufen und da ist die KDE-Integration aller Programme fast perfekt gelößt.
+
+Weitere Programme die seinen Computeralltag ausmachen (XMMS und ein Radiotuner
+für Internetradio - die Wahl viel hier auf [Tunapi](http://tunapie.sourceforge.net/)) wurden nun noch mit dem einfachen
+Paketmanager installiert, kein Problem.
+
+ Etwas verwirrend könnten aber die 3 Paketmanager sein, die man im Systemmenü
+zu Gesicht bekommt. Sie spiegeln sowas wie die 3 Level des "Know-Hows" wieder,
+die man braucht um sie zu bedienen. Der Ansatz dahinter ist Prinzipiell gut
+gemeint und ich kann mir vorstellen, dass einige Neulinge auch gute Erfahrung
+mit dem "sich hocharbeiten" gemacht haben, aber wenn man schon weiß, was man
+eigentlich will, nur nicht womit man das erreichen kann, kann man etwas in
+Verwirrung geraten - zumindest war das bei mir der Fall.
+
+Ein weiterer "Downer" war dann die anschließende Onlineaktuallisierung, die
+alle Pakete auf den neusten Stand gebracht hat. Dieser Prozess dauerte doch
+glatt mal 1 Stunde. Die Meldung "Bitte haben Sie einen Moment Geduld"
+erscheint mal wieder wie blanker Hohn.
+
+Neben ein paar Punkten, die durchaus in zukünftigeren Versionen noch
+verbesserungswürdig sind, bleibt aber doch ein sehr positiver
+Gesamteindruck. Mein Freund jedenfalls meinte, das ich ihm "ein schönes
+Ostergeschenk" gemacht habe und er mit diesem Betriebssystem sicherlich viel
+mehr Spass haben wird, als mit openSUSE.
+END-----

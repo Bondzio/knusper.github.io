@@ -1,0 +1,14 @@
+TITLE: Tokyo, Shibuya (Anim. Gif)
+AUTHOR: Christian Herenz
+DATE: 07.01.2009 22:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ah, bestes gelooptes Gif seit langem... Genial!
+
+![Tokyo, Shibuya](http://io-soup-assets.s3.amazonaws.com/asset/0208/1427_0b67.gif)
+
+[via [green neutrino](http://sofias.soup.io/post/10748106/Tokyo-Shibuya)]
+END-----

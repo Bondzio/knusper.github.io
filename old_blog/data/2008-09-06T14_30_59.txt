@@ -1,0 +1,12 @@
+TITLE: Emacs 22.3 veröffentlicht...
+AUTHOR: Christian Herenz
+DATE: 06.09.2008 14:30 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Es handelt sich um ein Bugfix-Release. Eine Sicherheitslücke wurde auch geschlossen... Update also empfehlenswert!
+
+<http://www.gnu.org/software/emacs/>
+END-----

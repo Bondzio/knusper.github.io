@@ -1,0 +1,41 @@
+<h2 class="date">
+	02.04.2008 22:30 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-04-02T22_30_25.txt"></a>
+	<h3 class="title">Discount - immer noch Buggy </h3>
+	<p>Heute <a href="http://amor.cms.hu-berlin.de/%7Eherenzed/blog/archives/2008/04/02/discount_markdown_in_c_-_neue_version/index.html">Vormittag erst darüber berichtet</a>, das es eine neue Version 
+von Discount gibt, dem Markdown-Parser in C, so hab ich nach bisschen Testen gerade
+den nächsten Bug gefunden. String-Parsing in C ist Hölle! Es geht immer noch
+um eingebetteten HTML Code innerhalb von reinem Markdown:</p>
+
+<p>Folgendes:</p>
+
+<pre><code> &lt;img src="./sad.gif" alt=":("&gt;
+</code></pre>
+
+<p>produziert fälschlicherweise (aber nur wenn Smartypants angeschaltet ist,
+lässt sich beim kompilieren aber disablen und wenns mitkompiliert wurde mit
+durch starten mit dem Flag -F 0x4):</p>
+
+<pre><code>&lt;p&gt;&lt;img src="./sad.gif" alt=":(&amp;ldquo;&gt;&lt;/p&gt;
+</code></pre>
+
+<p>Still some work to do! Innerhalb des HTML-Blocks sollte Smartypants eigentlich
+nicht &ldquo; nach \$ldquo; und \$rdquo; umwandeln, was bei normalem Text durchaus ein
+typographisch besseres Schriftbild liefert. Normalerweise klappt das in der
+neuen Version auch, aber sobald man innerhalb des alt-Attributs eine Klammer
+hat, kommt der durcheinander  <img src="../../../../../moods/smilies/sad.gif" alt=":(" /></p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/04/02/discount_-_immer_noch_buggy/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../../archives/2008/04/02/discount_-_immer_noch_buggy/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/02/discount_-_immer_noch_buggy/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/02/discount_-_immer_noch_buggy/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/02/discount_-_immer_noch_buggy/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/02/discount_-_immer_noch_buggy/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

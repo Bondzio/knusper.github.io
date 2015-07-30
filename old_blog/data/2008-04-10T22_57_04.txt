@@ -1,0 +1,23 @@
+TITLE: history 
+AUTHOR: Christian Herenz
+DATE: 10.04.2008 22:57 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Weil das Spielchen offenbar gerade angesagt ist, reihe ich mich ein:
+
+    knusper@KnusperStation:~>history | \\
+    awk '{a[$2]++ } END{for(i in a){print a[i] " " i}}'|sort -rn|head
+    252 cd
+    172 ls
+    136 nb
+    44 emacs
+    41 cat
+    31 ./bashpodder.shell
+    23 rm
+    21 xsltproc
+    17 zile
+    16 wget
+END-----

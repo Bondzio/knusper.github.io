@@ -1,0 +1,13 @@
+TITLE: Zwei College-Studenten entdecken Asteroid 
+AUTHOR: Christian Herenz
+DATE: 18.03.2008 12:37 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<i>Two Texas college students discovered an asteroid while examining images of space on a computer, a report said.</i>
+<br><br>
+
+[<a href="http://www.physorg.com/news125036617.html">Physorg.com</a>]
+END-----

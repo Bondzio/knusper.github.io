@@ -1,0 +1,26 @@
+TITLE: Blöde Aprilscherze 
+AUTHOR: Christian Herenz
+DATE: 01.04.2008 21:53 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Angeblich gibts eine neue Folge von LOST, die bei FOX geleaked ist bereits im
+Internet.
+*gähn*
+
+Schweinkram.com ist jetzt Beinkram.com und berichtet nur noch über Fussball.
+*schnarch*
+
+Auf Tagesschau.de steht was von einer Verfassungsklage wegen der Sommerzeit.
+*zzzzzzzzzzZZZZZZ*
+
+[Google hat ein paar nette Scherze am Start.](http://en.wikipedia.org/wiki/Google's_hoaxes#2008)
+
+Mal schauen, was gibts bei Heise.de:
+*Die Administration Publique des Réseaux IP in Luxemburg hat einfach das
+Prinzip der Vanity-Telefonnummern auf IPv6-Adressen übertragen.*
+
+Langweilig... Gottseidank isses ja bald vorbei!
+END-----

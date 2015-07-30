@@ -1,0 +1,29 @@
+TITLE: Runde Ecken
+AUTHOR: Christian Herenz
+DATE: 16.11.2008 13:26 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hab mal die Ecken etwas abgerundet.
+
+Für die leichte assymetrie oben habe ich im css-File einfach der Klasse #header hinzugefügt:
+
+
+         	-moz-border-radius-bottomleft:39px;
+	        -moz-border-radius-bottomright:39px;
+        	-moz-border-radius-topleft:20px;
+	        -moz-border-radius-topright:20px;
+
+Die Ecken links habe ich durch hinzufügen der Zeile:
+
+
+        	-moz-border-radius: 29px;
+
+
+in der Klasse #links erreicht.
+
+Mir gefällts, dennoch sind Kommentare natürlich gern gesehen...
+
+END-----

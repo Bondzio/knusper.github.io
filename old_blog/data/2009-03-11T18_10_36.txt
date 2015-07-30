@@ -1,0 +1,18 @@
+TITLE: NYC Taxi Photo
+AUTHOR: Christian Herenz
+DATE: 11.03.2009 18:10 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![NYC Taxiphoto](http://farm4.static.flickr.com/3617/3329521291_03c2cdc1a6_m_d.jpg)
+
+"photo and word blog." eines New Yorker Taxifahrers.
+
+Neben wunderschönen, unter CreativeCommons Lizenz stehenden, Fotos von
+New York aus der Sicht eines Taxifahrers bietet dieses Blog auch
+wunderschön erzählte Geschichten aus dem New Yorker Taxifahreralltag.
+
+<http://www.nyctaxiphoto.com/>
+END-----

@@ -1,0 +1,30 @@
+TITLE: Gegen die Intuition
+AUTHOR: Christian Herenz
+DATE: 17.05.2008 11:57 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Man stelle sich vor, das man ein Seil hat, welches genau die Länge besitzt das
+man es einmal komplett um die Erde (welche näherungsweise Kugelförmig
+angenommen werden kann) längs des Äquators wickeln könnte. Nun verlängern wir
+dieses Seil um 1 m und sorgen dafür, das keine Überlappung an beiden Enden
+entsteht. Damit dies Realisierbar ist muss sich also eine Lücke zwischen Seil
+und Erdoberfläche bilden.
+
+Was nun besonders faszinierend und wider der Intuition erscheint, ist die
+Tatsache, dass wenn wir ein Seil nehmen, welches genau von der Länge ist, dass
+man es um einen Fusball längs eines Großkreises wickeln kann und dieses Seil
+um 1 m verlängern, dass der Abstand zwischen Seil und Fussball identisch dem
+zwischen Erde und um 1 m verlängertem Seil ist.
+
+Pro m Umfang (also Länge des Seils) gewinnt man nämlich linear an Radius dazu
+und zwar 1/2pi m, was ungefähr 16 cm sind. Das heißt, wenn ich den Durchmesser
+der Erde magisch um 32 cm vergrößern würde, bräuchte ich nur 1 m mehr Seil als
+beim jetzigen Radius und genauso ist es beim Fussball - wenn ich dessen
+Durchmesser um 32 cm erhöhen würde, bräuchte ich 1 m mehr Seil als ich
+ursprünglich zum Umwickeln des Balles gebraucht hätte.
+
+Faszinierend!
+END-----

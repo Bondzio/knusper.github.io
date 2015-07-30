@@ -1,0 +1,15 @@
+TITLE: Geisterstationen
+AUTHOR: Christian Herenz
+DATE: 29.03.2008 11:42 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich steh ja auf "verlassene Plätze", hat ich ja schonmal [hier erwähnt.](http://amor.rz.hu-berlin.de/~herenzed/blog/archives/2008/03/19/lostplaces/index.html)
+Insofern ist auch folgender Artikel mit Linksammlung aus dem [wired Blog](http://blog.wired.com/) für mich von besonderem Interesse:
+
+*Sometimes pitch black is not what's directly outside a subway car's window. You may notice an empty, dark, dusty platform as your train speeds forward. Or you might see the tunnel's wall switch from cast iron tube to a brick wall. In major subway systems throughout the world, there are abandoned stations that one wouldn't necessarily notice unless one were to be staring outside the subway window.*
+
+[Link](http://blog.wired.com/cars/2008/03/ghost-stations.html)
+END-----

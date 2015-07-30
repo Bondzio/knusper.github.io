@@ -1,0 +1,14 @@
+TITLE: My Bookmars on Connotea - Browser Friendly Feed
+AUTHOR: Christian Herenz
+DATE: 01.11.2008 12:19 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe für meine [Connotea Bookmarks](http://www.connotea.org/) einen "Browser Friendly Feed" mit Feedburner generiert.
+
+<http://feeds.feedburner.com/ConnoteaKnuspersBookmarks>
+
+Ich brauchs, falls jemand anderes auch nützlich findet... Feel Free 2 Subscribe!
+END-----

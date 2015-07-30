@@ -1,0 +1,15 @@
+TITLE: ig-Nobel Preis
+AUTHOR: Christian Herenz
+DATE: 05.10.2008 13:59 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Auf die Vergabe des ig-Nobel Preises muss ich natürlich auch aufmerksam machen:
+
+["Verrückte" Wissenschaft
+Feldforschung im Striptease-Schuppen @ Tagesschau.de](http://www.tagesschau.de/schlusslicht/ignobel100.html)
+
+thx [fefe](http://blog.fefe.de/?ts=b61977a0)
+END-----

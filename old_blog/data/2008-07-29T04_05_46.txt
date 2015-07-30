@@ -1,0 +1,56 @@
+TITLE: Update Erfolgreich
+AUTHOR: Christian Herenz
+DATE: 29.07.2008 04:05 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Nun gut... So lange hat das alles nicht gedauert. Aber ich hab noch bisschen
+rumgepspielert.
+
+openSUSE 11.0 sieht sehr gut aus, und KDE4 fühlt sich auch flotter an. Ob ich
+nun KDE4 als Standarddesktop benutze, weiß ich noch nicht. Jetzt kommt der
+Part, den ich beim Installieren eines Betriebssystems am meisten hasse, meine
+ganze Software zu installieren. Nun gut, das meiste geht ja mit meiner Liste
+und dem Packetmanager ziemlich schnell... Der eingebaute Paketmanager von
+OpenSUSE 11 ist übrigens wirklich ganz flott, wenn er nicht immer jedesmal
+sämtliche Repos aktualisieren wollte. Naja, ich werd dann wohl doch wieder auf
+[Smart](http://de.opensuse.org/Smart_Package_Manager) wechseln... Vielleicht
+schaffen es die Novell Jungs ja irgendwann mal, einen ordentlichen
+Paketmanager zu basteln. Und gerade so beim Schreiben hier merke ich, dass das
+Farbschema des KDE4 Terminals nicht gerade sehr Augenfreundlich ist. Aber mit
+Farben hab ich es ja so oder so, denn da benutze ich schon seit ca. 1 Jahr
+sogar meine eigene Tabelle für dircolors - villeicht sollten die
+Ergonomiespezis sich die mal anschauen, denn bekanntermaßen ist dunkelblau auf
+schwarz für Verzeichnisse eher nicht die beste Wahl.
+
+Super Positiv ist allerdings wie einfach man nun den ganzen Multimediakram
+installieren kann - Wenn man eine Datei öffnen will, dessen Format nicht
+unterstützt wird, öffnet ein Webbrowser, wo man mittels Klick die Codecs
+sofort nachinstallieren kann - im Prinzip.... Hat bei mir nämlich leider nicht
+funktioniert, da er meinte ich wäre nicht mit dem Netzwerk verbunden - ist
+schon fast wie bei Windows - jedenfalls hab ich dann die entsprechende Seite
+im openSUSE Wiki selber aufgerufen und die Codecs installiert. Genauso einfach
+installiert man jetzt auch die NVIDIA Treiber. Überhaupt der gesamte
+Installtionsprozess ist schon ziemlich gut, aber hier und da sollten auf dem
+Weg zu 11.0 noch ein paar Sachen verbessert werden. Eher ästhetischer Natur
+ist da noch die Tatsache, dass man die Diashow während des
+Installationsvorganges ("Wussten Sie schon, dass Sie mit ihrem Computer im
+Internet surfen, Emails lesen und Chatten können - dank Opensuse") in English
+präsentiert bekommt. Die Paketauswahl während der Installation versucht
+allerdings Anfänger wie PowerUser gleichermaßen zu befriedigen, nervte mich
+dann aber eher mehr, als dass Sie mir gefallen hat.
+
+Dennoch, openSUSE 11.0 repräsentiert die Zukunft des Linuxdesktops - und ich
+denke jedem halbwegs begabten Menschen wird es damit ein leichtes sein,
+problemlos ein Linuxsystem (im Notfall zumindest) parallel
+aufzusezten. Allerdings, wenn man noch mittelalterliche Hardware hat, sollte
+man es garnicht erst versuchen, denke ich... Das hat ja schon mit der 10er
+Serie für mehr Frust als Lust gesorgt.
+
+So, genug über Software gequatscht... Wenn ich heute noch dazu komme, erzähle
+ich noch, wie cool der ["Antec Spot
+Cool"](http://www.xsreviews.co.uk/reviews/misc-coolers/antec-spot-cool/) ist
+
+END-----

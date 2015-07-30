@@ -1,0 +1,15 @@
+TITLE: Argh... 
+AUTHOR: Christian Herenz
+DATE: 26.03.2008 09:00 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+Notiz an mich:
+
+Zwischen 23 und 1 Uhr 3 Tassen Kaffe trinken macht das aufstehen um 7 Uhr nahezu unmöglich.
+
+Gerade versuche ich restliche Kopfschmerzen mit Kaffe abzutöten, ich hoffe das hilft.
+
+Lustigerweise wollte ich gestern garnicht soviel Kaffe trinken, aber irgendwie hab ich die Maschine ohne Nachdenken befüllt... Mit Senseo wäre das nicht passiert!
+END-----

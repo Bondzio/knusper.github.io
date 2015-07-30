@@ -1,0 +1,11 @@
+TITLE: Simpsons Charakter
+AUTHOR: Christian Herenz
+DATE: 15.03.2008 03:30 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+Oh gott... Aber ich wusste es schon immer...
+<br>
+<a href="http://www.nohomers.net/content/fun/quiz/"><img src="http://www.nohomers.net/content/fun/quiz/lisasimpson.gif" border="0" width="271" height="123" alt="I'm just like Lisa!"></a><br><font face="verdana" size="-2"><a href="http://www.nohomers.net/content/fun/quiz/">I'm Lisa, who are you?</a> by <a href="http://www.nohomers.net">NoHomers.net</a></font>
+END-----

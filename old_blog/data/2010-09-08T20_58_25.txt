@@ -1,0 +1,87 @@
+TITLE: Magic Tokens - neues Spiel für den Sinclair ZX Spectrum
+AUTHOR: Christian Herenz
+DATE: 08.09.2010 20:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![ZX Spectrum](http://www.kehosoft.de/spectrum_1.jpg)
+
+640 kB Arbeitsspeicher sein genug für jedermann, meinte Bill Gates
+1981. Allerdings: Auch im Jahre 2010 gibt es noch eine Gruppe von
+enthausiastischen Programmierern, für die 48 kB genug sein
+müssen. Mehr steckt nämlich nicht drin im [Sinclair ZX Spectrum](http://de.wikipedia.org/wiki/ZX_Spectrum). Auf
+einem solchen "Speccy", wie das Computermodell liebevoll von seinen
+Fans genannt wird, machte auch ich (sogar noch vor dem Fall der Mauer!) meine
+ersten Kontakte mit der Welt der Bits und Bytes.
+
+Umso wärmer wird es mir ums Herz, wenn ich den wunderbaren Puzzler
+"Magic Tokens" des aus Moskau stammenden Programmierers
+[Shiru](http://shiru.untergrund.net/) auf meinem Spectrum-Emulator
+spiele. Gut, das Spielprinzip ist zwar im wesentlichen bei
+[Bejeweled](http://de.wikipedia.org/wiki/Bejeweled)
+abgekupfert. Einige Modifikationen hier und da sorgen aber dafür, das
+Magic Tokens soviel eigenen Charakter besitzt, dass es falsch wäre von
+einem Clone zu sprechen.
+
+![Titelbildschirm Magic Tokens](http://img155.imageshack.us/img155/9416/shot1d.png)
+
+Wie bei Bejeweled geht es darum, farbige Steine die auf einem
+quadratischen Spielfeld verteilt sind, so anzuordnen, dass jeweils 3
+oder mehr Steine eine wage- bzw. senkrechte Linie bilden. Dies hat zur
+Folge, das diese Steine sich auflösen und von oben neue, mit zufällig
+ausgewählten Farben herabregnen, die die Lücken ausfüllen. Erlaubt
+sind dabei aber nur Züge, bei denen man benachbarte Steine austauscht
+und die zu einer steinauflösenden Kombination führen. Die richtige
+Kombination aus Strategie und Glück führt zu wie von selbst
+ablaufenden Kettenreaktionen. Richtig hektisch wird es bei Magic
+Tokens nun aber dadurch, das am rechten Bildrand konstant eine Uhr
+rückwärts abläuft, die einem die verbleibende Zeitspanne anzeigt, in
+der man sogenannte "Gems" vom Spielbrett entfernenen muss. Diese
+Steine unterscheiden sich von den normalen Steinen durch ein Funkeln
+in der Mitte. Auch sind sie nicht von Anfang an auf dem
+Spielfeld. Schafft man es nicht die gewünschte Anzahl der "Gems"
+einzusammeln, bevor der Timer abgelaufen ist (die letzen 20 Sekunden
+werden durch ein nerviges Ticken noch stressiger gemacht), verliert
+man ein Leben und muss den Level nocheinmal versuchen. Insgesamt hat
+man 10 Leben und genausoviele Level gibt es auch. Mit jedem Level
+steigt der Schwierigkeit etwas an, sei es durch eine höhere Anzahl von
+"Gems" die es zu entfernen gilt, mehr Farben (Anfangs nur 4, ab Level
+6 sind es 6), oder eine knappere Zeitvorgabe. In den höheren Leveln
+kann man aber durch geschicktes Einleiten von Kettenreaktionen
+Bonussteine herabregnen lassen, die, sofern man sie dann vom Brett
+entfernt kriegt, einem ein paar Sekunden zum Luftholen
+gutschreiben. Nachdem man eine Weile Magic Tokens gespielt hat, wird
+einem Bejeweled im Vergleich nur noch lahm und langweilig erscheinen.
+
+![In-Game Screen](http://shiru.untergrund.net/temp1/magic_tokens.png)
+
+Jedem, der ein Faible für hektische Puzzelein am Computer hat, kann
+ich nur wärmstens empfehlen diese Perle mal auf einem
+Spectrum-Emulator auszuprobieren. Die Soundeffekte, die Grafik und das
+Gameplay sind (nicht nur) für Spectrum-Verhältnisse vom feinsten. Die
+Liebe zum Detail die in Magic Tokens steckt ist beeindruckend und man
+kann sich nur ehrfürchtig vor dem Programmierer Shiru verneigen, dass
+er dies in 48kB Arbeitsspeicher auf einem 3,5 MHz Prozessor flüssig zu
+laufen bekommen hat.
+
+**Gameplay-Video**
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/10Ik6h9-6Ww?fs=1&amp;hl=de_DE&amp;color1=0x234900&amp;color2=0x4e9e00"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/10Ik6h9-6Ww?fs=1&amp;hl=de_DE&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+
+**Thread im World of Spectrum Forum (m. Download):**
+
+<http://www.worldofspectrum.org/forums/showthread.php?t=30753>
+
+
+**Spectrum-Emulatoren**:
+
+* [Spectemu](http://www.inf.bme.hu/~mszeredi/spectemu/) (Linux, in allen
+größeren Distributionen enthalten)
+* [Fuse](http://fuse-emulator.sourceforge.net/) (Open-Source - Unix, Windows)
+* [Fuse for OS
+X](http://fuse-for-macosx.sourceforge.net//Site/Fuse_for_Mac_OS_X/Fuse_for_Mac_OS_X.html) (Mac OS X)
+* [Spectaculator](http://www.spectaculator.com/) (Windows, Shareware)
+END-----

@@ -1,0 +1,26 @@
+TITLE: python-markdown2 und Nanoblogger 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 19:36 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe mal ein bisschen mit 
+[Markdown](http://en.wikipedia.org/wiki/Markdown) rumgespielt. Da ich 
+großer Fan von Python bin, dacht ich mir probier ich doch mal 
+[Python-markdown2](http://code.google.com/p/python-markdown2/) aus... 
+Problematisch allerdings, dass dieses nur Dateien parsen kann. 
+Allerdings kann man innerhalb nanoblogger alles anpassen, so auch das 
+markdown Plugin...
+
+
+	MARKDOWN="/home/physik/herenzed/scripts/markdown2.py"
+	MARKDOWN_OPTS="--extras code-friendly"
+	
+	NB_EntryBody=$(echo "$NB_EntryBody" > /tmp/foo.txt &&  ${MARKDOWN} 
+	${MARKDOWN_OPTS} /tmp/foo.txt && rm /tmp/foo.txt
+
+
+Ist jetzt vielleicht nicht gerade hübsch, aber funktioniert!
+END-----

@@ -1,0 +1,18 @@
+TITLE: Internetradio im Auto
+AUTHOR: Christian Herenz
+DATE: 05.01.2009 23:18 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habs schon lange Prophezeit, nun ist es endlich da... Das erste Autoradio, welches Internetradiostationen abspielen kann!
+
+Und wie sagen Sie so schön bei Gizmodo: "Das ist erst der Anfang"
+
+![Bild vom Internetautoradio](http://www.dogglounge.com/blog/wp-content/uploads/2009/01/miroamer-300x198.jpg)
+
+Mehr Infos bei [Gizmodo!](http://gizmodo.com/5123673/worlds-first-internet-car-radio-would-go-perfectly-in-kitts-dashboard)
+
+[via [dogglounge:blog](http://www.dogglounge.com/blog/?p=104)]
+END-----

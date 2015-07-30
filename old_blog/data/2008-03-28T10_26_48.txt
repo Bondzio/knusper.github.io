@@ -1,0 +1,14 @@
+TITLE: Harald Schmidt versteht keinen Spaß
+AUTHOR: Christian Herenz
+DATE: 28.03.2008 10:26 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Harald Schmidt wollte einem Satiriker vor Gericht verbieten lassen, ihn auf seinem Magazincover zu zeigen - mit einer Pistole an der Schläfe. Nun muss er feststellen, dass er das nicht kann.*
+
+[Süddeutsche.de](http://www.sueddeutsche.de/kultur/artikel/734/165263/)
+
+Wer nun meint bei diesem Urteil handelt es sich um einen Sieg für die Satire, der sieht sich getäusch. Tatsächlich befanden die Richter, dass die Klage berechtigt ist, nur ist der Satiriker in diesem Fall irgendein verrückter und damit Schuldunfähig.
+END-----

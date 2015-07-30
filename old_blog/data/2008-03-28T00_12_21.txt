@@ -1,0 +1,16 @@
+TITLE: Warum die Amerikaner Irak besetzt haben... 
+AUTHOR: Christian Herenz
+DATE: 28.03.2008 00:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ach, nicht etwa wegen dem Öl. Sonder weil sie endlich ein Land gefunden haben, dessen Bevölkerung
+zumindest auf dem selben Bildungsniveau ist. Glaubt ihr mir nicht? Dann schaut diesen interesannten
+Diskussionsnachmittag aus dem irakischen Fernsehen euch an (Englisch untertitelt natürlich).
+
+Scary shit :)
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/wppjYDj9JUc&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/wppjYDj9JUc&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+END-----

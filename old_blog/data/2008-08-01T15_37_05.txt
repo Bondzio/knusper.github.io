@@ -1,0 +1,34 @@
+TITLE: Discount - Ver. 1.2.7 der C Implementation von Markdown erschienen
+AUTHOR: Christian Herenz
+DATE: 01.08.2008 15:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Installiert - getestet und keine Bugs mehr gefunden...
+
+Changelog:
+
+   1. Corrects a bug with strget() not properly returning EOF because it was
+   returning a char or unsigned int instead of an int (should be a signed int,
+   but that way lies C99 madness.) This bug was reported by A.S.Bradbury, who
+   discovered it when trying to build markdown with a 64 bit version of gcc.
+   2. Corrects a boundary condition bug with '![]()' and/or '[]()', where the
+   content parser stops parsing 4 (for IMG) or 5 (for HTML) characters before
+   the end of the embedded content. This bug was reported by Christian Herenz,
+   who has been finding many many boundary condition bugs in the way '![]()' and
+   []() (don’t) work.
+   3. The new configuration option --enable-superscript turns on fancypants
+   substitutions that translate word^word into word<sup>word</sup>. I'm not
+   sure if it’s the most useful thing in the world, but I have found cases
+   where I'd like to be able to get superscripts generated just by
+   themselves. (and since I don’t code in PASCAL any more, I don’t need to
+   worry about tripping over a dereferencing ^ as much as I used to worry
+   about it.)
+
+Punkt 2 gefällt mir besonders gut ;)
+
+Mehr Infos und Download:
+<http://www.pell.portland.or.us/~orc/Code/markdown/>
+END-----

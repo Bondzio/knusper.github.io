@@ -1,0 +1,21 @@
+TITLE: Fussball
+AUTHOR: Christian Herenz
+DATE: 20.09.2008 15:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich war gestern bei einem Fusballspiel. Der [SV Babelsberg 03](http://de.wikipedia.org/wiki/SV_Babelsberg_03) hat nämlich sein [Stadion](http://de.wikipedia.org/wiki/Karl-Liebknecht-Stadion) direkt am Park Babelsberg, wo ja auch die Sternwarte ist.
+
+Und da ich auf dem Heimweg lauter [lustige Leute](http://de.wikipedia.org/wiki/Ultra-Bewegung) bemerkte und die
+"einzigartige Flutlichtanlage" ausgefahren war, habe ich mir
+kurzerhand eine Karte (Sitzplatz, Überdacht) gekauft. Ich interessiere
+mich überhaupt nicht für Fusball, aber die Stimmung war gut und es gab
+Würstchen. In der 2 Halbzeit gabs sogar eine Pyroshow von den Fans,
+die sogar noch heftiger wurde, als der Stadionsprecher darauf
+aufmerksam machte, dass das Abrennen pyrotechnischer Materialien gegen
+die Stadionordnung verstoße. Am
+Ende hat Babelsberg sogar 2:0 gegen Altona gewonnen. Fast hätte ich
+mir noch ein Kapuzensweater mit "03" Aufdruck im Fanshop gekauft.
+END-----

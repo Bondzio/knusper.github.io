@@ -1,0 +1,62 @@
+TITLE: Nanoblogging
+AUTHOR: Christian Herenz
+DATE: 14.03.2008 16:40 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+So, ich habe jetzt den ganzen Vormittag damit verbracht, irgendwie 
+dieses Blog hier aufzusetzen. Mittlerweile kann ich sagen, ja es 
+funktioniert und sogar so in etwa wie ich mir das Vorstelle.
+<br><br> 
+Ich blogge jetzt, indem ich eine SSH Session zum Rechenzentrum an 
+unserer Universität aufrufe, auf der Shell ein Kommando eingebe, 
+welches einen Editor startet, indem ich ganz in Ruhe meinen 
+Blogeintrag schreiben kann. Wenn ich den Editor beende (natürlich 
+mit Abspeichern des geschrieben)  wird  der Blogeintrag hier auf die 
+Seite  gestellt.  
+
+<br><br> Klingt  einfach, oder?<br><br>
+Leider ist das alles nicht so einfach, auch im Jahr 2008 nicht.
+Fangen wir an beim Editor: Eigentlich sollte auf jedem GNU-Linux 
+System doch ein vernünftiger Editor installiert sein. Aber ausser <a href="http://de.wikipedia.org/wiki/Vi">vi</a> 
+und <a 
+href="http://de.wikipedia.org/wiki/Nano_%28Texteditor%29">nano</a> 
+gibt es hier nichts vernünftiges.
+Nun gut, zwar bin ich in den letzten 2 Jahren irgendwie zur <a 
+href="http://www.dina.kvl.dk/~abraham/religion/">Emacs Religion</a> 
+konvertiert, aber davor hatte ich unter Linux (und auch noch auf der 
+Sun an unserer Schule) meine Texte immer liebend gerne mit nano 
+editiert. <br><br>
+
+Also, einfach das Konfigurationsfile meiner Bloggingsoftware so ein 
+bisschen umgeschrieben, und Zack hat ich Nano als Texteditor 
+eingerichtet. Es stellte sich aber schnell raus, das (warum auch 
+immer) irgendwie große deutsche Umlaute nicht so richtig im Nano 
+angezeigt werden. Warum auch immer... Eigentlich müsste er das können, 
+aber egal welchen Terminalemulator ich bemühte, immer dieses hässliche 
+Problem. Nun gut, das Problem gibt es auch wenn ich mich über SSH an 
+das Institut für Physik einwähle und Emacs benutze, da kriege ich dem 
+Fall nämlich gar keine Sonderzeichen präsentiert, doch liegt es daran 
+das dort Emacs ohne Unicode-Unterstützung installiert wurde.
+
+<br><br> Nun gut, kompilier ich mir eben einen Editor, dachte ich mir. 
+Klein muss er sein und zumindest beim editieren sich in wesentlichen 
+Punkten wie Emacs verhalten. Erst dachte ich an 
+<a href="http://en.wikipedia.org/wiki/Zile_(editor)">Zile</a>, aber 
+obwohl  der Editor „8-Bit-Clean“ ist, ist Unicode noch immer 
+Fehlanzeige.
+<br><br>Aber nach Studenlangem ausprobieren der verücktesten Editoren (ich 
+hätte nie gedacht, dass es eine derartig unüberschaubare Vielfalt an 
+Editoren gibt, welche auf der Kommandozeile unter einem *NIX System 
+laufen), habe ich nun den Editor gefunden, der alles an Board hat, was 
+ich brauche: <a href="http://towo.net/mined/">Mined</a><br><br>
+UTF-8, Emacs-Emulation... Was braucht der Mensch mehr...
+<br><br>
+Oh... Ich sollte mal essen.
+<br><br>
+(Achso, und der orginal Emacs ist mitlerweile 120 MB groß, am 
+Rechenzentrum bekommt man als Student aber nur 500 MB quota, weshalb 
+dessen zusätzliche „lokale“ Installtion von vornherein nicht in Frage 
+kam.)
+END-----

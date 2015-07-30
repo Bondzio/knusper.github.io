@@ -1,0 +1,17 @@
+TITLE: Ach du meine Güte... 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 16:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+
+<a href="http://www.nerdtests.com/nq_ref.html">
+<img src="http://www.nerdtests.com/images/badge/581a305b84d71e0e.gif" 
+alt="I am nerdier than 96% of all people. Are you a nerd? Click here 
+to find out!"></a>
+
+
+Könnte mal bitte jemand den Test machen und mehr Punkte erreichen... 
+END-----

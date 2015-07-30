@@ -1,0 +1,21 @@
+TITLE: Licq - voerst kein Package für openSUSE 10.2 
+AUTHOR: Christian Herenz
+DATE: 08.07.2008 08:18 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Heute erreichte mich folgende Mail eines Novell Mitarbeiters bezüglich des
+Licq-Packages im openSUSE Build Service (Zur Errinerung: Ein Patch muss
+angewendet werden, da ICQ Server das Login geändert haben):
+
+*Seams that it can't be built in Build Service due to expansion error
+which must be fixed within Build Service itself. But fixed Licq will
+appear also in online update. But it will take some time.*
+
+Was lernen wir daraus:
+- Build Service scheint doch noch nicht in vollem Umfang zu funktionieren
+- Kein Knusper im ICQ bis auf weiteres (es sei denn ich kriege den Rapppel und
+astel den Patch selber in das src.rpm)
+END-----

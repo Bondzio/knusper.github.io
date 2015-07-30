@@ -1,0 +1,13 @@
+TITLE: SSH Login ohne Passwort 
+AUTHOR: Christian Herenz
+DATE: 18.03.2008 22:53 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<i>If you use Linux for day-to-day computing, you likely use the secure shell, or ssh. If you are like me, you may grow weary of constantly having to type in passwords to access remote machines.</i>
+<br>[<a href="http://www.suseblog.com/?p=318">Suseblog.com</a><br><br>
+Funktioniert wirklich!<br>
+Sollte aber nur auf vertrauenswürdigen Maschienen zum Einsatz kommen, d.h. nicht auf Accounts die sich mehre Benutzer teilen (falls es sowas überhaupt gibt).
+END-----

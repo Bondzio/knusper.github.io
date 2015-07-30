@@ -1,0 +1,62 @@
+TITLE: Druckprobleme Pt. 2 
+AUTHOR: Christian Herenz
+DATE: 20.03.2008 17:38 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Das war natürlich klar. Mit dem neuen Kabel gibt es immer noch einen
+I/O-Error. Irgendwie komisch... Naja, mit ein bisschen Gefühl kann man
+ihn zwar zum Drucken überreden - aber nach ein paar Minuten im
+Standby-Modus gibt es diesen I/O-Error. Keine Ahnung woran das liegt.
+
+Ich meine immer wieder komische "Zusammenhänge" zwischen "Aktion am
+Computer" und "Aufleuchten des roten Lämpchens" zu sehen, kann aber
+auch Paranoid sein und es ist wirklich einfach nur ein normaler
+"Defekt" am Drucker. Auch besonders merkwüdig ist, das beim Hochfahren
+von Linux das rote Lämpchen angeht. Eigentlich müsste beim Hochfahren
+ein "Gruß" an den Drucker gesendet werden, je nach Modell wird dieser
+Gruß anders beantwortet, einige Tintendrucker fahren z.B. den Schlitten hin
+und her und soweit ich mich erinnern kann hat mein HP Laserjet 6P
+immer kurz grün geblinkt. Stattdessen signalisiert er hier nun also schon
+*"Fehler"*.
+
+Am Drucker selbst ist eine "Abbruch" Taste, betättigt man diese so
+setzt er sich wieder zurück, vergisst alle Fehler und leert seinen
+Speicher. Also  drücke ich einfach mal "Abbruch". Blinken der Lämpchen
+signalisiert: "Ich setze mich zurück, vergesse alle Fehler und leere
+meinen Speicher". Tatsächlich funktioniert er jetzt wieder, ein
+     
+     lpr wichtiger_brief.ps
+
+druckt meinen wichtigen Brief.
+
+Es kann dann aber hin und wieder vorkommen, das ich ein Fenster öffne
+(bzw. irgendeine andere Aktion, die *nichts* mit Drucken zutun hat)
+und in diesem Moment gibt es wieder *"Rotes Lämpchen"* - also I/O
+Error. 
+
+Das macht mich fertig... Aber ich vermute mal eher, das
+"Fensteröffnen" nicht wirklich was mit meinem I/O Error zutun
+hat. Genauso könnte ich versuchen einen Zusammenhang zwischen: "Ich
+schmier mir in der Küche ein Brötchen" und "I/O Error" herstellen. Nur
+liegt das nicht so nahe, da ich im Falle des aufblitzenden roten
+Lämpchens während des Brötchenschmierens selbiges nicht wahrnehmen
+kann. Und genau aus diesem Grund werde ich jetzt, *Schäuble-like*, eine
+Überwachungskamera in meinem Zimmer mit Monitor in der Küche
+installieren...
+
+Spass beiseite... 
+
+Ich kann nur hoffen, das es wirklich ein Defekt seitens des Druckers
+ist. Softwareseitig kann man irgendwelche "wirren" Bugs nie 100%ig
+ausschließen, aber Hey: *"Ich benutze Linux"*. Hardwareseitig ist nun
+auch klar: "Das Kabel ist es *definitv* NICHT".
+
+Bleibt nur noch: "Irgendwass mit dem Parallelport auf dem Mainboard" oder
+"Irgendwas mit dem Drucker". Ich kann eigentlich nur hoffen, das
+letzteres der Fall ist.
+
+Achso, die lezte Stunde gabs kein "Rotes Lämpchen".., :-)
+END-----

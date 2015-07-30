@@ -1,0 +1,14 @@
+TITLE: Folien zum Seminarvortrag: "Superernovae"
+AUTHOR: Christian Herenz
+DATE: 29.11.2008 16:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Die Folien zu meinem gestrigen Seminarvortrag "Supernovae" im [Seminar zur Experimentalphysik: WS 2008/2009 "Weltall und Teilchen"](http://www-eep.physik.hu-berlin.de/~lacker/exp_physik_seminar_ws0809.html) habe ich jetzt Online gestellt:
+
+![pdf.png](http://people.physik.hu-berlin.de/~herenz/pdf.png) [Bildschirmversion](http://people.physik.hu-berlin.de/~herenz/SupernovaeWS0809/presentation_final.pdf)
+
+![pdf.png](http://people.physik.hu-berlin.de/~herenz/pdf.png) [Druckversion (2 Seitig)](http://people.physik.hu-berlin.de/~herenz/SupernovaeWS0809/supernovae_print.pdf)
+END-----

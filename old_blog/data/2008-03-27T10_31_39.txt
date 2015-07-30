@@ -1,0 +1,13 @@
+TITLE: Twittr! 
+AUTHOR: Christian Herenz
+DATE: 27.03.2008 10:31 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Ich sehe gerade, das heißt [Twitter](http://twitter.com/), wie uninnovativ*
+
+Da ich für sowas keine Zeit habe, werd ich mich da wahrscheinlich nie anmelden.
+Aber scheint ganz lustig zu sein, wie man [diesem Blogbeitrag](http://wirres.net/article/articleview/4836/1/6/) entnehmen kann...
+END-----

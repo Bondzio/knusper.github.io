@@ -1,0 +1,14 @@
+TITLE: @Twitter
+AUTHOR: Christian Herenz
+DATE: 13.09.2009 13:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Man findet mich jetzt auch bei Twitter: @knusper2000
+
+<http://twitter.com/Knusper2000>
+
+![Smiley](http://www.smileygarden.de/smilie/Computer/51.gif)
+END-----

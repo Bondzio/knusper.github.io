@@ -1,0 +1,19 @@
+TITLE: Asienbuchservice.de
+AUTHOR: Christian Herenz
+DATE: 16.11.2008 00:31 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![Asien Buch Service Logo](http://amor.cms.hu-berlin.de/~herenzed/asienbuchservice.jpg)
+
+
+Ich fühle mich geehrt auf meinem kleinen Blog als Partner den Online
+Buchladen 
+[asienbuchservice.de](http://www.asienbuchservice.de) begrüßen zu
+dürfen.
+
+Dort gibt es eine riesige Auswahl an Büchern über den Kontinent der
+aufgehenden Sonne. Also schaut mal rein!
+END-----

@@ -1,0 +1,21 @@
+TITLE: Mein Review bei Distrowatch 
+AUTHOR: Christian Herenz
+DATE: 30.03.2008 23:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Mein kleines [Review zu Linux-Mint KDE](http://amor.cms.hu-berlin.de/~herenzed/blog/archives/2008/03/24/linux_mint_4_0_kde_community_edition_-_kurz_angetestet/index.html) ist auf der [Distrowatch-Seite zu Linux-Mint](http://distrowatch.com/table.php?distribution=mint) verlinkt.
+Das macht mich ein klein bisschen Stolz und ich hoffe es hilft einigen Leuten, denn heutzutage gibt es ja mehr 
+Linuxdistributionen als je zuvor.
+
+Ich habe dank großartiger Reviews damals mein Steckenpferd bei openSUSE
+gefunden, würde heute auch nichts anderes mehr benutzen wollen, aber die
+Distribution seiner Wahl muss jeder für sich selber treffen, da kommen viele
+Faktoren ins Spiel. Aber als reine Anfängerdistribution finde ich derzeitige
+Versionen von openSUSE irgendwie nicht so geeignet - leider! Ich hoffe das
+sich da in zukünftigen Versionen wieder einiges tut. Aber als Arbeitsplatform,
+mit der man unter Umständen gar täglich seine Brötchen erwirtschaftet, ist es
+meiner Meinung nach ungeschlagen.
+END-----

@@ -1,0 +1,71 @@
+<h2 class="date">
+	12.10.2010 21:24 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2010-10-12T21_24_07.txt"></a>
+	<h3 class="title">Soup.io Style angepasst</h3>
+	<p><a href="http://www.soup.io/">Soup.io</a> bietet ja die Möglichkeit, eigenes CSS
+zu verwenden. Leider gibt es keine Anleitung dafür, welche Klasse zu
+welchem Seitenelement zugeordnet ist (s. <a href="http://getsatisfaction.com/soup/topics/where_can_i_find_the_default_css_definitions">Wishlist-Item in Soups
+getsatisfaction-Datenbank</a>). Somit
+muss man selber Experimentieren, wobei einem ein Tool wie
+<a href="http://getfirebug.com/">Firebug!</a> extrem hilfreich sein kann.</p>
+
+<p>Das Problem, welches ich mit den Standard-Designs von Soup.io habe, ist
+dass der eigentliche Inhalt in einem sehr schmalen Schlauch präsentiert
+wird. Etwas versteckt findet sich in den Design-Einstellungen unter
+&ldquo;CSS anpassen&rdquo; die Option &ldquo;Bildbreite&rdquo;, jedoch ist diese bei einigen
+der Templates nicht wirklich hilfreich, da zwar die Bilder
+(und ähnl. Objekte) breiter werden, aber der &ldquo;Schlauch&rdquo; nicht. Dies
+führt zu einer rechtsseitigen &ldquo;Beschneidung&rdquo; der Objekte.</p>
+
+<p>Mit folgenden Anpassungen realisierte ich das Aussehen von
+<a href="http://knusper.soup.io/">knusper.soup.io</a>. Unter Design tätigte ich
+folgende Einstellungen:</p>
+
+<p><img src="http://img209.imageshack.us/img209/9213/bildschirmfoto3q.png" alt="Screenshot Einstellungen" /></p>
+
+<p>Unter dem Menüpunkt &ldquo;CSS bearbeiten&rdquo; trägt man nun folgendes ein:</p>
+
+<pre><code>#description_search { margin-left: 46.6em; } 
+#contentcontainer2 {
+ float: none;
+ margin-left: 15em;
+ margin-right: 0;
+}
+ #content, #accountcontainer,
+ #contentcontainer2, #contentcontainer {
+ width:46em;
+}
+
+#contentcontainer2 {
+ padding:0 1.2em 0 0;
+ position:relative;
+ width:47.2em;
+}
+
+#accountcontainer {
+  margin-left:0;
+  position:absolute; }
+</code></pre>
+
+<p>Damit macht man den &ldquo;Schlauch&rdquo; breiter, verschiebt ihn und richtet die
+restlichen Seitenelemente passsend aus. Zum damit Rumspielen bietet
+sich, wie gesagt, <a href="http://getfirebug.com/">Firebug!</a> an, dann kann man
+die vorgenommen Änderungen am Stylesheet quasi in Echtzeit
+verfolgen. Obiges CSS passt optimal zu einer Bildbreite von
+580px.</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2010/10/12/soup_io_style_angepasst/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../../archives/nanoblogging/index.html">Nanoblogging</a>,
+<!-- Web --><a href="../../../../../archives/web/index.html">Web</a>
+<!-- <br /><a href="../../../../../archives/2010/10/12/soup_io_style_angepasst/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2010/10/12/soup_io_style_angepasst/index.html');" target="_self"><script type="text/javascript">postCount('2010/10/12/soup_io_style_angepasst/index.html');</script></a> | <a href="javascript:HaloScanTB('2010/10/12/soup_io_style_angepasst/index.html');" target="_self"><script type="text/javascript">postCountTB('2010/10/12/soup_io_style_angepasst/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

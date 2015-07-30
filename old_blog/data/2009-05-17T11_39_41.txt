@@ -1,0 +1,30 @@
+TITLE: Wikipedia: Stefan-Boltzmann-Gesetz
+AUTHOR: Christian Herenz
+DATE: 17.05.2009 11:39 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Am Freitag schon habe ich mich mal des Wikipedia-Artikels zum
+Stefan-Boltzmann-Gesetz angenommen. Komplett neu habe ich die
+*Herleitung aus der Thermodynamik* geschrieben, vorher gab es alleinig
+die quantenmechanische. Der Grund lag eigentlich darin, dass unser
+Professor in der Vorlesung etwas nicht so genau wusste (Frage von mir:
+"War bezüglich des Strahlendruckes der Vorfaktor 1/3 vor der
+Energiedichte bei der ursprünglichen Herleitung des
+Gesetzes (1884) bekannt?"), und deswegen meinte, man müsse
+mal in Wikipedia nachschauen. Als ich dort dann aber die gesuchte
+Information nicht gefunden habe, habe ich sie eben recherchiert und
+selber nachgetragen.
+
+<http://de.wikipedia.org/wiki/Stefan-Boltzmann-Gesetz>
+
+Dabei musste ich im Übrigen feststellen, dass ein haufen netter Leute
+in <irc://irc.freenode.org/#wikipedia-de> abhängt. Bis auf ein paar
+Fotos die ich mal der englischsprachigen WP hinzugefügt hatte
+(z.B. <http://en.wikipedia.org/wiki/Teterboro-Williams_Avenue_(NJT_station)>),
+war dies meine erste Erfahrung mit der Community und tatsächlich bin
+ich von der Community sehr positiv angetan. Dies wird mit Sicherheit
+nicht meine letzte Aktivität bei WP gewesen sein!
+END-----

@@ -1,0 +1,22 @@
+TITLE: Ultra-Sonic - Annihilating Rhythm 
+AUTHOR: Christian Herenz
+DATE: 07.12.2008 23:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Let's Rave!
+
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rnl0zQqYBcY&hl=de&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rnl0zQqYBcY&hl=de&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+
+Und weils so gut ist, gleich noch die A-Seite hinterher:
+
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rnl0zQqYBcY&hl=de&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rnl0zQqYBcY&hl=de&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+
+In Germany kam dann aber statt der A-Seite die B-Seite auf die A-Seite... Und dann kam Scooter, aber das ist 'ne andere Geschichte...
+END-----

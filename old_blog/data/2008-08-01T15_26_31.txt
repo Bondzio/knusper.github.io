@@ -1,0 +1,11 @@
+TITLE: Bestanden
+AUTHOR: Christian Herenz
+DATE: 01.08.2008 15:26 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade habe ich rausgefunden, dass ich die Prüfung in Quantenmechanik 1 mit
+einer 3,3 bestanden habe... Party :)
+END-----

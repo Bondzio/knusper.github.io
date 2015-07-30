@@ -1,0 +1,31 @@
+TITLE: Fav4.org - Minimal-Startseite
+AUTHOR: Christian Herenz
+DATE: 21.03.2010 14:57 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Eigentlich gibt es heutzutage keinen Grund mehr Google als Startseite
+zu verwenden. In modernen Browsern ist die Suche mit der bevorzugten
+Suchmaschine problemlos über die Adressleiste möglich. Somit ist es
+also mal an der Zeit, etwas neues als Startseite auszuprobieren.
+
+Erst letztens meinte ein guter Freund: "Wenn ich ins Internet gehe,
+dann klick ich die Lesezeichen in meiner Toolbar meist von links nach
+rechts durch - Facebook, Twitter, Yahoo, usw. - dann bin ich auf dem laufenden."
+
+Leute die ähnliche Benutzergewohnheiten aufweisen, sollten unbedingt
+mal einen Blick auf [Fav4.org](http://www.fav4.org) werfen. 
+
+Screenshot:
+![Screenshot](http://25.media.tumblr.com/tumblr_kzmxp7JCSx1qbqxsao1_500.png)
+
+4 Buttons, alle relevanten Seiten des Netz können auf diese Buttons
+gelegt werden, das ist alles was [Fav4.org](http://www.fav4.org) zu
+bieten hat. Der Screenshot zeigt meine derzeitige Lieblingskombination: [tumblr](http://www.tumblr.com/), [twitter](http://www.twitter.com),
+[facebook (lite)](http://lite.facebook.com/) und
+[google](http://www.google.com).
+
+<http://fav4.org/>
+END-----

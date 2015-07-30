@@ -1,0 +1,33 @@
+TITLE: Phishing Attacke auf HU-Accounts
+AUTHOR: Christian Herenz
+DATE: 21.01.2009 22:34 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Da bei einer Phishing-Attacke es den Angreifern gelang, von
+unbedarften Nutzern sich das Passwort ihres HU-Accounts zu ergattern,
+war durch  massenhaften Spam Versand mittels des HU-Mailservers der
+gesamte Mailverkehr zeitweise blockiert. Die Leitung des
+Computer-Medienservice der Universität schreibt deswegen in einer
+Rundmail:
+
+*Die Bedeutung eines Accounts und der damit bereitgestellten
+Nutzungsmöglichkeiten an der HU nehmen zu. Der Missbrauch schon von
+einzelnen Accounts kann die Arbeitsfähigkeit und Kommunikation der HU
+nachhaltig stören.  Geben Sie bitte Ihre Account-Daten nie
+leichtfertig aus der Hand.*
+
+Ich fordere schon seit Ewigkeiten einen Computer- /
+Internetführerschein. Ebenso wie die Navigation eines fahrbahren
+Untersatzes ist das bedienen eines Computers, gerade eines solchen,
+der im öffentlichen Raum durch öffentliche Infrastruktur bereitgestelt
+wird, mit etlichen Risken (Viren, Trojaner, Phishing) verbunden. Das
+nun aber Hinz und Kunz ungeprüft den Zugang zur Datenautobahn erhalten
+und in ihrer Unwissenheit / Dummheit andere Schädigen ist mir
+persönlich unklar. Natürlich, so ja auch beim Straßenverkehr der Fall,
+ist das Ablegen einer Prüfung nicht Garant für einen völlig
+reibungslosen Ablauf des Selbigen. Jedoch könnte meiner Meinung nach
+das Risko von Zwischenfällen wie diesem deutlich herabgesetzt werden.
+END-----

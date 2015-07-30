@@ -1,0 +1,18 @@
+TITLE: Winterzeit
+AUTHOR: Christian Herenz
+DATE: 26.10.2008 09:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Geht das euch auch so? Ich merke immer, das es Winterzeit ist wenn die Uhr an meinem Computer eine andere Zeit anzeigt als mein Wecker...
+
+Im Falle der Winterzeit ist das ja noch ganz cool: "Oh, erst um 9...",
+hingegegen lässt die plötzlich gestohlene Stunde im Sommer den
+Stresspegel automatisch ansteigen.
+
+Hintergrund dieser im Krieg eingeführten Maßnahme ist ja angeblich das weniger Strom verbraucht wird, da es Tagsüber länger Hell ist. Aber ich hab mal gelesen, dass dadurch Früh mehr geheizt wird und so im Schnitt mehr Energie verbraucht wird.
+
+Aber wahrscheinlich haben sich alle so an die Umstellung gewöhnt, dass sich keiner mehr davon trennen will.
+END-----

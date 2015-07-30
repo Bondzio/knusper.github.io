@@ -1,0 +1,29 @@
+TITLE: Recordgeekshow Video-Podcast
+AUTHOR: Christian Herenz
+DATE: 05.10.2008 23:25 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![iMAGE](http://img291.imageshack.us/img291/7940/rfpostfrontxt5.jpg)
+
+Endlich mal ein richtig guter Spartenvideopodcast, genau mein Thema!
+Jeder der Fan der schwarzen Rille ist, sollte sich unbedingt mal diesen [Videopodcast](http://en.wikipedia.org/wiki/Video_podcast) reinziehen.
+
+
+RSS:
+<http://www.recordgeekshow.com/recordgeek/Podcast/rss.xml>
+
+Die Homepage von denen bietet leider so gut wie 0 Infos... Den Feed aboniert ihr mit einem Videopodcatcher eurer Wahl. Ich empfehle als Videopodcatcher [Miro](http://www.getmiro.com/), da findet man die Sendung auch im Guide:
+
+<https://www.miroguide.com/channels/7909>
+
+ <a href="http://www.getmiro.com/"
+title="Get Miro - The Free Open-Source Video Platform."><img
+src="http://img135.imageshack.us/img135/6539/getmirobutton128x40vg2.png"
+alt="video player"></a> 
+
+**Nachtrag:** Offensichtlich habe ich mit meinem Blog-Post die gesamte Internetwelt auf diesen Sender aufmerksam gemacht, so dass wegen übermäßigen Traffics ihr .Mac Account gesperrt wurde. Hoffen wir, dass die möglichst bald zu einem ordentlichen Anbieter wechseln.
+
+END-----

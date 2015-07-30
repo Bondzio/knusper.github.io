@@ -1,0 +1,12 @@
+TITLE: Formelsammlung zur relativistischen Kinematik
+AUTHOR: Christian Herenz
+DATE: 11.12.2008 22:59 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Diese gut aufgemachte Formelsammlung zur relativistischen Kinematik ist mir beim Stöbern im Netz aufgefallen. Sehr nützlich für jeden Physikstudenten...
+
+<http://www.e12.physik.tu-muenchen.de/stud/vorlesungen/misc/relkin.pdf>
+END-----

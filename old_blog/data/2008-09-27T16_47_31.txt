@@ -1,0 +1,12 @@
+TITLE: Der Baader-Meinhof Komplex
+AUTHOR: Christian Herenz
+DATE: 27.09.2008 16:47 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Wirklich großartiger Film! Neben "Der Untergang" wahrscheinlich einer der besten deutschen Filme, die bisher gedreht wurden... 
+
+Gesehen im [Passage Kino](http://www.yorck.de/yck/yorck_ie/yorck_kinos/passagekinos.php) (eigentlich mein Lieblingskino, nur ist denen ihre Filmauswahl meistens nicht so meins...)
+END-----

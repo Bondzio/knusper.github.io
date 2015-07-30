@@ -1,0 +1,21 @@
+TITLE: Mathematische Forschungsinstitut Oberwolfach stellt Fotosammlung unter CC-Lizenz
+AUTHOR: Christian Herenz
+DATE: 18.04.2008 00:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Das Mathematische Forschungsinstitut Oberwolfach ist seit über 60 Jahren ein
+Ort, an dem sich die besten Mathematiker der Welt treffen, um in der
+Abgeschiedenheit des Schwarzwalds, aber mit einer ausgezeichneten Bibliothek,
+ihre Probleme zu diskutieren. Es gibt dort zwar kein Fernsehen und auf den
+Zimmern keine Telephone, aber es gibt dort Photoapparate und so ist im Laufe
+der Jahre eine ansehnliche Sammlung entstanden, 2005 durch eine Schenkung
+durch Karl Jacobs stark angereichert. Diese über 9000 Bilder sind Online unter
+der Seite http://owpdb.mfo.de/ zu finden.*
+
+Und seit gestern auch unter CC-Lizensiert, wie im [Wikimedia Blog berichtet wird](http://blog.wikimedia.de/2008/04/17/mathematisches-forschungsinstitut-oberwolfach-stellt-bilder-unter-cc-lizenz/).
+
+Link zum Archiv: <http://owpdb.mfo.de/>
+END-----

@@ -1,0 +1,22 @@
+TITLE: Briefkästen in Berlin Neukölln (PLZ 12043)
+AUTHOR: Christian Herenz
+DATE: 05.08.2008 15:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Da man sowas nicht auf der Website der Post findet, hatte ich mal eine Email an die geschrieben und prompt eine Liste von Briefkästen in meiner Umgebung (PLZ 12043) zugesendet bekommen. 
+
+* 12043 Berlin  Donaustr. 83  Mo-Fr 17:45 Sa 14:45 
+* 12043 Berlin  Hobrechtstr. 8-9  Mo-Fr 15:15 Mo-Fr 18:00 Sa 15:00 
+* 12043 Berlin  Karl-Marx-Str. 66  Mo-Fr 15:00 Mo-Fr 17:45 Mo-Fr 18:30 Mo-Fr 21:45 Sa 14:45 So 10:15 So 21:45
+* 12043 Berlin  Karl-Marx-Str. 97-99  Mo-Fr 15:00 Mo-Fr 17:45 Mo-Fr 21:45 Sa 14:45 So 10:15 So 21:45
+* 12043 Berlin  Karl-Marx-Str./Karl-Marx-Platz   Mo-Fr 14:45 Mo-Fr 17:30 Sa 14:30 
+* 12043 Berlin  Richardstr./Uthmannstr.   Mo-Fr 17:45 Sa 14:45
+* 12043 Berlin  Schönstedtstr./Karl-Marx-Str.   Mo-Fr 15:00 Mo-Fr 17:45 Sa 14:45 
+* 12043 Berlin  Weichsel-/Karl-Marx-Str. ?  Mo-Fr 14:15 Mo-Fr 17:15 Sa 14:15
+
+
+Wenn die schon eine so schöne Datenbank haben, warum basteln Sie dann nicht ein Google Maps Mashup zusammen...
+END-----

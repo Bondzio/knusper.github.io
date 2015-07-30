@@ -1,0 +1,11 @@
+TITLE: Heute: Prüfung
+AUTHOR: Christian Herenz
+DATE: 09.04.2008 07:49 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hab heute von 15-17 Uhr meine 2. Chance in Elektrodynamik.
+Also, drückt mir mal die Daumen!
+END-----

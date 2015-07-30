@@ -1,0 +1,16 @@
+TITLE: iPod in Space 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 13:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+STS-123 gefällt mir richtig gut. 
+[Dieses](http://spaceflight.nasa.gov/gallery/images/shuttle/sts-123/html/iss016e032312.html)
+Photo ist ja wohl mal der absolute Hammer!
+
+Tip: High Res auswählen und schauen was da unten links im Fensterchen 
+liegt...
+ Ob Apple dafür bezahlt hat?
+END-----

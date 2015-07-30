@@ -1,0 +1,12 @@
+TITLE: Erste direkte Aufnahmen von Exoplaneten
+AUTHOR: Christian Herenz
+DATE: 14.11.2008 07:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Endlich ist es so weit... Gleich 2 Forschergruppen ist es gelungen direkte Aufnahmen von Exoplaneten zu erhalten.
+
+[Astronomers See Exoplanets for First Time @ sciencenow](http://sciencenow.sciencemag.org/cgi/content/full/2008/1113/1?rss=1)
+END-----

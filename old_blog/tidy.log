@@ -1,0 +1,269 @@
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/atom.xml:
+
+No warnings or errors were found.
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/rss.xml:
+
+No warnings or errors were found.
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/index.html:
+
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like XHTML 1.1
+No warnings or errors were found.
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/leben/index.html:
+
+line 59 column 1 - Warning: <a> escaping malformed URI reference
+line 151 column 1 - Warning: <a> escaping malformed URI reference
+line 196 column 1 - Warning: <a> escaping malformed URI reference
+line 201 column 1 - Warning: <a> escaping malformed URI reference
+line 205 column 1 - Warning: <a> escaping malformed URI reference
+line 230 column 1 - Warning: <a> escaping malformed URI reference
+line 254 column 1 - Warning: <a> escaping malformed URI reference
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like XHTML 1.0 Transitional
+7 warnings, 0 errors were found!
+
+
+URIs must be properly escaped, they must not contain unescaped
+characters below U+0021 including the space character and not
+above U+007E. Tidy escapes the URI for you as recommended by
+HTML 4.01 section B.2.1 and XML 1.0 section 4.2.2. Some user agents
+use another algorithm to escape such URIs and some server-sided
+scripts depend on that. If you want to depend on that, you must
+escape the URI by your own. For more information please refer to
+http://www.w3.org/International/O-URL-and-ident.html
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/fotos/index.html:
+
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like XHTML 1.0 Transitional
+No warnings or errors were found.
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/2008/index.html:
+
+line 65 column 3 - Warning: <a> escaping malformed URI reference
+line 112 column 3 - Warning: <a> escaping malformed URI reference
+line 119 column 3 - Warning: <a> escaping malformed URI reference
+line 125 column 3 - Warning: <a> escaping malformed URI reference
+line 128 column 3 - Warning: <a> escaping malformed URI reference
+line 132 column 3 - Warning: <a> escaping malformed URI reference
+line 196 column 3 - Warning: <a> escaping malformed URI reference
+line 241 column 3 - Warning: <a> escaping malformed URI reference
+line 269 column 3 - Warning: <a> escaping malformed URI reference
+line 297 column 3 - Warning: <a> escaping malformed URI reference
+line 304 column 3 - Warning: <a> escaping malformed URI reference
+line 308 column 3 - Warning: <a> escaping malformed URI reference
+line 315 column 3 - Warning: <a> escaping malformed URI reference
+line 319 column 3 - Warning: <a> escaping malformed URI reference
+line 356 column 3 - Warning: <a> escaping malformed URI reference
+line 395 column 3 - Warning: <a> escaping malformed URI reference
+line 425 column 3 - Warning: <a> escaping malformed URI reference
+line 453 column 3 - Warning: <a> escaping malformed URI reference
+line 489 column 3 - Warning: <a> escaping malformed URI reference
+line 493 column 3 - Warning: <a> escaping malformed URI reference
+line 499 column 3 - Warning: <a> escaping malformed URI reference
+line 529 column 3 - Warning: <a> escaping malformed URI reference
+line 593 column 3 - Warning: <a> escaping malformed URI reference
+line 597 column 3 - Warning: <a> escaping malformed URI reference
+line 645 column 3 - Warning: <a> escaping malformed URI reference
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like XHTML 1.1
+25 warnings, 0 errors were found!
+
+
+URIs must be properly escaped, they must not contain unescaped
+characters below U+0021 including the space character and not
+above U+007E. Tidy escapes the URI for you as recommended by
+HTML 4.01 section B.2.1 and XML 1.0 section 4.2.2. Some user agents
+use another algorithm to escape such URIs and some server-sided
+scripts depend on that. If you want to depend on that, you must
+escape the URI by your own. For more information please refer to
+http://www.w3.org/International/O-URL-and-ident.html
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/2008/08/index.html:
+
+line 28 column 1 - Warning: <link> element not empty or not closed
+line 162 column 19 - Warning: <img> element not empty or not closed
+line 171 column 19 - Warning: <img> element not empty or not closed
+line 392 column 4 - Warning: <embed> is not approved by W3C
+line 131 column 209 - Warning: <span> proprietary attribute "xmlns:dc"
+line 131 column 209 - Warning: <span> proprietary attribute "href"
+line 131 column 209 - Warning: <span> proprietary attribute "property"
+line 131 column 209 - Warning: <span> proprietary attribute "rel"
+line 131 column 365 - Warning: <a> proprietary attribute "xmlns:cc"
+line 131 column 365 - Warning: <a> proprietary attribute "property"
+line 131 column 726 - Warning: <a> proprietary attribute "xmlns:dc"
+line 258 column 3 - Warning: <a> escaping malformed URI reference
+line 264 column 1 - Warning: <a> escaping malformed URI reference
+line 264 column 236 - Warning: <a> escaping malformed URI reference
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like HTML Proprietary
+14 warnings, 0 errors were found!
+
+
+URIs must be properly escaped, they must not contain unescaped
+characters below U+0021 including the space character and not
+above U+007E. Tidy escapes the URI for you as recommended by
+HTML 4.01 section B.2.1 and XML 1.0 section 4.2.2. Some user agents
+use another algorithm to escape such URIs and some server-sided
+scripts depend on that. If you want to depend on that, you must
+escape the URI by your own. For more information please refer to
+http://www.w3.org/International/O-URL-and-ident.html
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/2008/08/13/index.html:
+
+line 28 column 1 - Warning: <link> element not empty or not closed
+line 93 column 19 - Warning: <img> element not empty or not closed
+line 102 column 19 - Warning: <img> element not empty or not closed
+line 62 column 209 - Warning: <span> proprietary attribute "xmlns:dc"
+line 62 column 209 - Warning: <span> proprietary attribute "href"
+line 62 column 209 - Warning: <span> proprietary attribute "property"
+line 62 column 209 - Warning: <span> proprietary attribute "rel"
+line 62 column 365 - Warning: <a> proprietary attribute "xmlns:cc"
+line 62 column 365 - Warning: <a> proprietary attribute "property"
+line 62 column 726 - Warning: <a> proprietary attribute "xmlns:dc"
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like HTML Proprietary
+10 warnings, 0 errors were found!
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/2008/08/13/new_york_fotos/index.html:
+
+line 29 column 1 - Warning: <link> element not empty or not closed
+line 63 column 209 - Warning: <span> proprietary attribute "xmlns:dc"
+line 63 column 209 - Warning: <span> proprietary attribute "href"
+line 63 column 209 - Warning: <span> proprietary attribute "property"
+line 63 column 209 - Warning: <span> proprietary attribute "rel"
+line 63 column 365 - Warning: <a> proprietary attribute "xmlns:cc"
+line 63 column 365 - Warning: <a> proprietary attribute "property"
+line 63 column 726 - Warning: <a> proprietary attribute "xmlns:dc"
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like HTML Proprietary
+8 warnings, 0 errors were found!
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/archives/2008/08/13/symbolfotos/index.html:
+
+line 29 column 1 - Warning: <link> element not empty or not closed
+line 69 column 19 - Warning: <img> element not empty or not closed
+line 78 column 19 - Warning: <img> element not empty or not closed
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like XHTML 1.0 Transitional
+3 warnings, 0 errors were found!
+
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
+
+tidy validating /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/index.html:
+
+line 28 column 1 - Warning: <link> element not empty or not closed
+line 112 column 3 - Warning: adjacent hyphens within comment
+line 275 column 19 - Warning: <img> element not empty or not closed
+line 284 column 19 - Warning: <img> element not empty or not closed
+line 505 column 4 - Warning: <embed> is not approved by W3C
+line 725 column 16 - Error: missing quote mark for attribute value
+line 725 column 16 - Warning: <img> attribute with missing trailing quote mark
+line 725 column 16 - Warning: <img> element not empty or not closed
+line 130 column 1 - Warning: <a> escaping malformed URI reference
+line 244 column 209 - Warning: <span> proprietary attribute "xmlns:dc"
+line 244 column 209 - Warning: <span> proprietary attribute "href"
+line 244 column 209 - Warning: <span> proprietary attribute "property"
+line 244 column 209 - Warning: <span> proprietary attribute "rel"
+line 244 column 365 - Warning: <a> proprietary attribute "xmlns:cc"
+line 244 column 365 - Warning: <a> proprietary attribute "property"
+line 244 column 726 - Warning: <a> proprietary attribute "xmlns:dc"
+line 371 column 3 - Warning: <a> escaping malformed URI reference
+line 377 column 1 - Warning: <a> escaping malformed URI reference
+line 377 column 236 - Warning: <a> escaping malformed URI reference
+line 848 column 3 - Warning: <a> escaping malformed URI reference
+line 853 column 1 - Warning: <a> escaping malformed URI reference
+line 853 column 248 - Warning: <a> escaping malformed URI reference
+line 910 column 3 - Warning: <a> escaping malformed URI reference
+line 915 column 1 - Warning: <a> escaping malformed URI reference
+line 915 column 184 - Warning: <a> escaping malformed URI reference
+Info: Doctype given is "-//W3C//DTD XHTML 1.1//EN"
+Info: Document content looks like HTML Proprietary
+24 warnings, 1 error were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+URIs must be properly escaped, they must not contain unescaped
+characters below U+0021 including the space character and not
+above U+007E. Tidy escapes the URI for you as recommended by
+HTML 4.01 section B.2.1 and XML 1.0 section 4.2.2. Some user agents
+use another algorithm to escape such URIs and some server-sided
+scripts depend on that. If you want to depend on that, you must
+escape the URI by your own. For more information please refer to
+http://www.w3.org/International/O-URL-and-ident.html
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please fill bug reports and queries using the "tracker" on the Tidy web site.
+Additionally, questions can be sent to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="generator" content="NanoBlogger 3.3" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="31 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+
+<title>Februar      15, 2009 Archives | Knusperfrühstück</title>
+
+<link rel="stylesheet" href="../../../../styles/nb_steelblue_variant.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../../../styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="../../../../images/favicon.ico" />
+<!-- <link rel="alternate" type="application/atom+xml"
+title="Atom 1.0"
+href="../../../../atom.xml"
+/>
+<link rel="alternate" type="application/rss+xml"
+title="RSS 2.0"
+href="../../../../rss.xml"
+/>
+ -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="../../../../index.html" accesskey="1">Knusperfrühstück</a></h1>
+		<span class="description">Der gesunde Start in den Tag</span>
+	</div>
+	<div id="altcontent">
+		<div id="wrap">
+			<a id="top"></a>
+			<h2>Februar      15, 2009 Archives</h2>
+			<div id="menu">
+				<a href="../../../../index.html">Main</a> &#62;
+				<a href="../../../../archives/index.html">Archives</a> &#62;
+				<a href="../../../../archives/2009/index.html">2009</a> &#62;
+				<a href="../../../../archives/2009/02/index.html">02</a> &#62;
+				<br />
+<a href="../../../../archives/2009/02/03/index.html">&#60;</a>
+				15
+<a href="../../../../archives/2009/02/16/index.html">&#62;</a>
+			</div>
+			<div class="archives">
+				<div class="item">
+	<a id="e2009-02-15T14_44_15.txt"></a>
+	<h2 class="date">15.02.2009 14:44 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">Google Earth 5.0 unter Debian Lenny</h3>
+		<div class="item-description">
+			<p>Ich habe gerade mal Google Earth 5.0 unter Debian Lenny 64 Bit ausprobiert und es wollte nicht so ohne weiteres laufen:</p>
+
+<pre><code>      ./googleearth-bin: relocation error:
+      /usr/lib32/i686/cmov/libssl.so.0.9.8: symbol BIO_test_flags,
+      version OPENSSL_0.9.8 not defined in file libcrypto.so.0.9.8
+      with link time reference
+</code></pre>
+
+<p>Man behilft sich einfach damit, das man die statische libcrypto (im google-earth Verzeichnis) löscht und auf die systemweite dynamische (32-bittige) libcrypto verlinkt:</p>
+
+<pre><code> ln -s /usr/lib32/libcrypto.so.0.9.8 ./google-earth/libcrypto.so.0.9.8
+</code></pre>
+
+<p>Dann funktionierts!</p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2009/02/15/google_earth_5_0_unter_debian_lenny/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../archives/2009/02/15/google_earth_5_0_unter_debian_lenny/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/02/15/google_earth_5_0_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCount('2009/02/15/google_earth_5_0_unter_debian_lenny/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/02/15/google_earth_5_0_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/02/15/google_earth_5_0_unter_debian_lenny/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="menu">
+		<a href="#top">&#47;&#92;</a><br />
+	</div>
+</div>
+
+</body>
+</html>

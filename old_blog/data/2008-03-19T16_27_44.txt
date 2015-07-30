@@ -1,0 +1,18 @@
+TITLE: Nerdtest die 2te 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 16:27 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Haha... Mit dem Bild fetzt das richtig :-)
+
+
+<a href="http://www.nerdtests.com/nt2ref.html">
+<img 
+src="http://www.nerdtests.com/images/badge/nt2/0c5fb8094e5623b3.jpg" 
+alt="NerdTests.com says I'm a Cool Nerd God.  What are you?  Click 
+here!">
+</a>
+END-----

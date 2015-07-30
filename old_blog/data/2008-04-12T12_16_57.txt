@@ -1,0 +1,13 @@
+TITLE: Internet mit Handbremse 
+AUTHOR: Christian Herenz
+DATE: 12.04.2008 12:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Irgendwie kommt es mir so vor, als ob ich die letzten beiden Tage mit 
+angezogener Handbremse im Internet unterwegs bin. Ich dachte erst, vielleicht
+hat der Router sich mal wieder verschluckt, aber ein Routerneustart brachte nichts.
+Langsam nervts. Jemand ähnliche Probleme, am besten Alice-Kunde aus Berlin Neukölln?
+END-----

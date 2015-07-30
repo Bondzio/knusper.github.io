@@ -1,0 +1,32 @@
+TITLE: Sterne als Kommunikationsinstrument
+AUTHOR: Christian Herenz
+DATE: 03.09.2008 22:28 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Welche technische Methoden würden hoch entwickelte extrateresstrische
+Zivilisationen benutzen um miteinander über Distanzen zwischen
+verschiedenen Galaxien zu kommunizieren bzw. um vielleicht einfach 
+nur hre Exitenz anderen Bewohnern im All mitzuteilen?
+
+Ein Team um den amerikanischen Astrophysiker John G. Learned hat sich
+überlegt, dass über diese Distanzen eine gut funktionierende Sendung
+von Information mittels der Modulation der Pulsationsperiode von
+variablen Cepheiden-Sternen erfolgen könnte. Die Energeien, welche man
+dazu bräuchte seien zwar gigantisch, jedoch sei dies nur "ein
+ingeneurstechnischer Aspekt" der von einer technisch sehr hoch
+entwickelten Zivilisation sicher gemeistern werden könnte, so die
+Forscher weiter. In ihrem bei Arxiv.org/astro-ph eingestellten Paper
+kritisieren Sie, dass derzeit zuwenig Langzeitdaten über
+Pulsationsveränderlichen aufgenommen sind, was sie jedoch davon
+abgebracht hat systematische Auswertung von etwaigen Daten zu
+entwickeln. Ferner könnte es ihrer Meinung nach durchaus möglich sein,
+dass sich sogar bereits Mitschnitte extraterrestrischer
+Kommunikationen mittels ihres *"Cepheid Galactic Internet"* in Beobachtungsdaten befinden.
+
+**Quelle:**
+
+[arXiv:0809.0339v2](http://arxiv.org/abs/0809.0339) 
+END-----

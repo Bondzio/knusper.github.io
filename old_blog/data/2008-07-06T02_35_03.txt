@@ -1,0 +1,38 @@
+TITLE: Peercast 
+AUTHOR: Christian Herenz
+DATE: 06.07.2008 02:35 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Davon habe ich in der letzten Ausgabe von [EpicFu](http://beta1.epicfu.com/) das erste mal gehört -
+Peer2Peer Webcasting:
+
+*PeerCast bietet Radiostationen beachtliche Kostenersparnisse weil sie nicht
+ die Bandbreite für alle Hörer bereitstellen müssen. Ein einziges 56K Modem
+ kann verwendet werden, um das gesamte Netz abzudecken.*
+
+Und das beste ist, die Hörer müssen nicht irgendwelchen Geekfummelkram
+installieren:
+
+
+
+*Der Client kann Webseiten für normale Browser wie Mozilla oder Internet
+ Explorer erstellen. Das bedeutet das Sie oder jemand anders in Ihrem LAN Ihre
+ aktiven Kanäle ansehen/-hören kann, ohne den Client selbst auszuführen. Büros
+ können einen PeerCast Client Streams für das ganze LAN bereitstellen
+ lassen. Sie können auch im Internet ein privates Netzwerk mit Ihren Freunden
+ einrichten, um gemeinsam Musik zu hören. Es ist Ihre Entscheidung, ob Sie
+ sich direkt mit dem PeerCast Netzwerk verbinden oder nicht.*
+
+**Erratum::** ***Ich hab mich mal ein bisschen damit beschäftigt, und
+  herausgefunden, dass man auch als Hörer das Prorgamm laufen haben muss. Und
+  irgendwie war das alles auch ziemlich fummelig... Dennoch, der Ansatz ist
+  schonmal gut und für Windows gibts wohl auch ein Winamp Plugin. *** 
+
+Notiz an mich (und meine Leser):
+**Abchecken!!!**
+
+<http://www.peercast.org/>
+END-----

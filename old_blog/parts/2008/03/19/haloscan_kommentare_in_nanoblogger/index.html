@@ -1,0 +1,58 @@
+<h2 class="date">
+	19.03.2008 09:58 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-03-19T09_58_39.txt"></a>
+	<h3 class="title">Haloscan Kommentare in Nanoblogger </h3>
+	<p>Es dürfte für den Einen oder Anderen, der gerne mit 
+<a href="http://nanoblogger.sourceforge.net">Nanoblogger</a> Bloggen möchte 
+durchaus von Interesse sein, zu erfahren wie man in Nanoblogger eine 
+Kommentarfunktion einbauen kann. Die Orginaldokumentation schweigt 
+sich zu dem Thema ja aus, erwähnt nur einige Tools, mit denen das 
+möglich wäre. Da ich auch <a href="http://www.haloscan.com">Haloscan</a>
+schon von anderen Blogs in denen ich mal was kommentiert habe kenne, 
+habe ich mich dazu entschlossen dieses Tool für die Kommentarfunktion 
+einzusetzen.</p>
+
+<p>Nach der Anmeldung bei Haloscan klickt man auf Install. Im ersten 
+Schritt wählt man &ldquo;None of the Above / Manual&rdquo;. Nun kriegt man 2 
+Codefetzen präsentiert. Diese muss man im Prinzip nur noch in die 
+richtigen Dateien einfügen. Nanoblogger legt in eurem Blogverzeichnis 
+ein Unterverzeichniss templates an. Der erste Schnipsel geht einfach 
+in die Datei &ldquo;main_index.htm&rdquo; und zwar dort zwischen die beiden 
+Head-Tags.</p>
+
+<p>Beim zweiten Schnipsel muss man noch ein bisschen was verändern, ich 
+erklär das am besten mal am Beispiel:</p>
+
+<pre><code>&lt;a href="javascript:HaloScan('Name');" target="_self"&gt;&lt;script
+type="text/javascript"&gt;postCount('Name');&lt;/script&gt;&lt;/a&gt; | &lt;a 
+href="javascript:HaloScanTB('Name');" target="_self"&gt;&lt;script 
+type="text/javascript"&gt;postCountTB('Name'); &lt;/script&gt;&lt;/a&gt;
+</code></pre>
+
+<p>So sieht der zweite Schnipsel aus. Dieser muss nun erstmal an der 
+richtigen Stelle in die Datei &ldquo;entry.htm&rdquo; eingefügt werden. Am 
+besten natürlich unter den Eintrag. In der Datei &ldquo;template.htm&rdquo; 
+ist an der passenden Stelle eine kommentierte Zeile eingefügt, welche 
+allerdings für ein anderes Kommentartool eingerichtet ist. 
+Sinnvollerweise sollte man diese Zeile nun mit dem obigen Schnipsel 
+ersetzen. Jetzt muss Haloscan aber noch eine Zuordnung von Artikel zu 
+Kommentar bekommen &ndash; dies geschieht dadurch, dass im obigen 
+Codeschnipsel &ldquo;Name&rdquo; durch eine Variable ersezt wird, die für jeden 
+Eintrag einzigartig ist. Da mir nichts besseres eingefallen ist, habe 
+ich die Variable &ldquo;$NB_EntryPermalink&rdquo; gewählt. Falls jemand einen 
+besseren Vorschlag hat, so kann er es ja nun in den Kommentaren äußern 
+:&ndash;)</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/03/19/haloscan_kommentare_in_nanoblogger/index.html">Permanent Link</a>
+| Categories: <!-- Nanoblogging --><a href="../../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../../archives/2008/03/19/haloscan_kommentare_in_nanoblogger/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/03/19/haloscan_kommentare_in_nanoblogger/index.html');" target="_self"><script type="text/javascript">postCount('2008/03/19/haloscan_kommentare_in_nanoblogger/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/03/19/haloscan_kommentare_in_nanoblogger/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/03/19/haloscan_kommentare_in_nanoblogger/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

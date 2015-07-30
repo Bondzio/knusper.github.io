@@ -1,0 +1,25 @@
+TITLE: ICQ Server haben Login abgeändert...
+AUTHOR: Christian Herenz
+DATE: 06.07.2008 12:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Deshalb kann ich derzeit nicht im ICQ Online sein, weil ich erstmal den Patch
+für Licq einspielen müsste:
+
+*It seems the ICQ servers has started to reject old clients. Several clients
+ (included Licq) were blocked from logging on.
+
+Latest SVN version (as of r6387) of Licq contains an update to allow Licq to
+log on again.
+
+For users of Licq 1.3.4 or 1.3.5, the following patches should get you back
+online*
+
+<http://trac.licq.org/>
+
+Allerdings warte ich lieber bis das RPM für meine Suse gepatched wurde, weil auf selber
+rekompilieren hab ich irgendwie keine Lust.
+END-----

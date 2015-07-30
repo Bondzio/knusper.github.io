@@ -1,0 +1,120 @@
+<div class="item">
+	<a id="e2009-06-07T21_59_44.txt"></a>
+	<h2 class="date">07.06.2009 21:59 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">Snes9X Gamepad in Debian</h3>
+		<div class="item-description">
+			<p>Für Besitzer eines Gravis-Gamepads die unter Debian auf eben diesem
+die Orginal SNES Tastenbelegung nachempfinen möchten empfiehlt sich
+folgender (undokumentierter) Weg. </p>
+
+<p>Die Datei /etc/snes9x/snes9x.conf nach ~/.snes9xsnaphsots/ kopieren
+(ggf. muss das Verzeichnis angelegt werden).</p>
+
+<p>Die Sektion [Unix] dieser Datei sollte folgenden Eintrag enthalten:</p>
+
+<pre><code> Joydev1 = /dev/input/js0
+</code></pre>
+
+<p>Unter diesem Port sollte Debian standardmäßig das Gamepad verwalten.
+Jetzt der wichtige Punkt: Das Mapping der Tasten&hellip; Leider funktioniert
+der in der Man-page dokumentierte Weg nicht mehr, denn die Option
+-joymap ist mit der aktuellen in Lenny befindlichen Version von Snes9X
+obsolet. Abhilfe schaffen allerdings folgende Zeilen in der Konfigurationsdatei
+unter der Sektion [Unix/X11 Controls]:</p>
+
+<pre><code>  J00:Axis0 = Joypad1 Axis Left/Right T=50%
+  J00:Axis1 = Joypad1 Axis Up/Down T=50%
+  J00:B0 = Joypad1 Y
+  J00:B1 = Joypad1 B
+  J00:B2 = Joypad1 A
+  J00:B3 = Joypad1 X
+  J00:B4 = Joypad1 L
+  J00:B5 = Joypad1 R
+  J00:B8 = Joypad1 Select
+  J00:B9 = Joypad1 Start
+</code></pre>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/07/snes9x_gamepad_in_debian/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/07/snes9x_gamepad_in_debian/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+<h2 class="date">
+	19.06.2009 23:10 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-06-19T23_10_31.txt"></a>
+	<h3 class="title">Spiegelverkehrt</h3>
+	<p><em>&ldquo;Diese Meinung (daß der Spiegel die Rechte statt der Linken und umgekehrt reiche) ist so tief eingewurzelt, daß man auch gesagt hat, Spiegel hätten die kuriose Eigenschaft, rechts und links zu vertauschen, aber nicht oben und unten. Die Katoptrik würde diesen Schluß gewiß nicht autorisieren: Würden wir, statt an vertikale Spiegel gewöhnt zu sein, öfter Spiegel horizontal an der Decke anbringen &hellip; so könnten wir uns davon überzeugen, daß Spiegel sehr wohl auch oben und unten vertauschen, um uns eine &lsquo;kopfstehende&rsquo; Welt zu zeigen. Der springende Punkt ist jedoch, daß auch vertikale Spiegel keineswegs &lsquo;die Seiten verkehren&rsquo;. Der Spiegel reflektiert rechts und links genau dort, wo rechts und links sind. Es ist der Betrachter (der naive, auch wenn er Physiker ist), der sich qua Identifikation mit seinem Abbild vorstellt, er wäre der Mensch im Spiegel, und der dann, während er sich betrachtet, auf einmal entdeckt, daß er, sagen wir, die Uhr am rechten Handgelenk trägt. Tatsache ist aber, daß er sie dort nur tragen würde, wenn er derjenige wäre, der sich im Spiegel befindet &hellip; Wer es jedoch vermeidet, sich wie Alice zu benehmen und in den Spiegel einzudringen, leidet nicht unter dieser Täuschung. &hellip; Wenn wir das Spiegelphänomen auf ein abstraktes Schema reduzieren, stellen wir fest, daß es sich nicht um ein Phänomen vom Typ der Camera obscura handelt, sondern um eines, bei dem kein Strahl den anderen überkreuzt. Nur wenn wir das, was im Schema dem realen Objekt entspricht, anthropomorphisieren, gewinnt dieses Objekt ein Bewußtsein von rechter und linker Seite und vergleicht sie mit dem Objekt, das sich auf der Fläche spiegelt, sowie mit dem virtuellen Objekt, das hinter der Fläche erscheint &hellip; Vor dem Spiegel müßte man nicht von Umkehrung sprechen, sondern von absoluter Kongruenz &hellip; (Umberto Eco [1985]: Über Spiegel. S. 26 &ndash; 62, hier: S. 31f.)</em></p>
+
+<p>Quelle: <a href="http://web.archive.org/web/20040814113618/www.hyperkommunikation.ch/literatur/eco_spiegel.htm">hyperkommunikation.ch via archive.org)</a></p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/06/19/spiegelverkehrt/index.html">Permanent Link</a>
+| Categories: <!-- Leben --><a href="../../../../../archives/leben/index.html">Leben</a>,
+<!-- Wissenschaft --><a href="../../../../../archives/wissenschaft/index.html">Wissenschaft</a>
+<!-- <br /><a href="../../../../../archives/2009/06/19/spiegelverkehrt/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/19/spiegelverkehrt/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/19/spiegelverkehrt/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/19/spiegelverkehrt/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/19/spiegelverkehrt/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+<h2 class="date">
+	07.06.2009 21:59 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-06-07T21_59_44.txt"></a>
+	<h3 class="title">Snes9X Gamepad in Debian</h3>
+	<p>Für Besitzer eines Gravis-Gamepads die unter Debian auf eben diesem
+die Orginal SNES Tastenbelegung nachempfinen möchten empfiehlt sich
+folgender (undokumentierter) Weg. </p>
+
+<p>Die Datei /etc/snes9x/snes9x.conf nach ~/.snes9xsnaphsots/ kopieren
+(ggf. muss das Verzeichnis angelegt werden).</p>
+
+<p>Die Sektion [Unix] dieser Datei sollte folgenden Eintrag enthalten:</p>
+
+<pre><code> Joydev1 = /dev/input/js0
+</code></pre>
+
+<p>Unter diesem Port sollte Debian standardmäßig das Gamepad verwalten.
+Jetzt der wichtige Punkt: Das Mapping der Tasten&hellip; Leider funktioniert
+der in der Man-page dokumentierte Weg nicht mehr, denn die Option
+-joymap ist mit der aktuellen in Lenny befindlichen Version von Snes9X
+obsolet. Abhilfe schaffen allerdings folgende Zeilen in der Konfigurationsdatei
+unter der Sektion [Unix/X11 Controls]:</p>
+
+<pre><code>  J00:Axis0 = Joypad1 Axis Left/Right T=50%
+  J00:Axis1 = Joypad1 Axis Up/Down T=50%
+  J00:B0 = Joypad1 Y
+  J00:B1 = Joypad1 B
+  J00:B2 = Joypad1 A
+  J00:B3 = Joypad1 X
+  J00:B4 = Joypad1 L
+  J00:B5 = Joypad1 R
+  J00:B8 = Joypad1 Select
+  J00:B9 = Joypad1 Start
+</code></pre>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/07/snes9x_gamepad_in_debian/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/07/snes9x_gamepad_in_debian/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

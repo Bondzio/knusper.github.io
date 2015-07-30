@@ -1,0 +1,19 @@
+TITLE: Lustige Graphen 
+AUTHOR: Christian Herenz
+DATE: 30.03.2008 18:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+<a href="http://graphjam.com/2008/03/27/funny-graphs-phd-in-math/"><img src="http://graphjam.wordpress.com/files/2008/03/funny-graphs-phd-in-math.gif" alt="funny graphs" /></a>
+
+Ein Trend der mir gefällt - Graphen die populärkulturell bekannte Zusammenhänge visualisieren.
+Obiges Beispiel ist übrigens nicht so klassisch, aber ich finds lustig. Vielleicht mal ein anderes Beispiel (einer meiner Favoriten):
+
+<a href="http://graphjam.com/2008/03/21/funny-graphs-how-much-i-got-on-it/"><img src="http://graphjam.wordpress.com/files/2008/03/funny-graphs-i-got-five-on-it.jpg" alt="funny graphs" /></a>
+
+Wenn ihr das genauso komisch findet wie ich, dann surft zu: <http://graphjam.com/>
+
+Wenn nicht, dann seit ihr hier falsch!
+END-----

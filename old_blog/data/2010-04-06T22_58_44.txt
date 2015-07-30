@@ -1,0 +1,37 @@
+TITLE: 1. FS Master erfolgreich beendet! 
+AUTHOR: Christian Herenz
+DATE: 06.04.2010 22:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hatte den ersten Termin meiner Abschlussprüfung in
+Fortgeschrittener Theoretischer Physik abgesagt, der zweite Termin war
+heute. Die zustätzliche Vorbereitungszeit hat sich definitiv
+gelohnt. Im Moment kann ich es immer noch nicht richtig fassen: Das
+wohl schwierigste Pflichtmodul habe ich mit einer 1,0 abgeschlossen!! :D
+
+Ein kleiner notentechnischer Dämpfer ist, dass ich "nur" eine 3 im
+Wahlpflichtmodul "Fortgeschrittene Elektrodynamik" erhielt (ein
+bisschen Pech mit den Klausuraufgaben gehabt). Aber in Anbetracht der
+Tatsache, dass ich hier freiwillig einen Kurs gewählt hatte, von dem
+ich wusste das er mir nicht so liegt, kann ich mit der Note auch
+bestens leben. Im Endeffekt habe ich eine Menge dazugelernt! Meine
+Devise: Lieber ein schwieriger Kurs, bei dem man eine Menge lernt, als
+ein leichter Kurs, bei dem zum Schluss das einzig bleibende Ergebnis
+eine gute Note ist. Bei Physik sollte es in erster Linie nicht um
+Noten gehen, sondern um das Verständnis von grundlegenden
+Zusammenhängen in der Natur. Dies ist zumindest meine Herangehensweise
+an das Studium.
+
+In "Computational Physics 2" reichte es immerhin für ein "Gut" (1,7),
+Astroteilchenphysik wurde nicht benotet - erfolgreiche Bearbeitung der
+Hausaufgaben sicherte mir dort die Studienpunkte. Insgesamt habe ich deren
+genau soviel gesammelt, wie zum erreichen des Masterabschlusses in 4
+Semestern empfohlen ist. Ich bin also weiterhin 100% in der
+Regelstudienzeit!
+
+Nächste Woche geht es weiter mit dem 2.FS im Master... Ich bin
+gespannt!
+END-----

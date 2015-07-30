@@ -1,0 +1,15 @@
+TITLE: Bashpodder - Der Podcatcher der einfach funktioniert 
+AUTHOR: Christian Herenz
+DATE: 23.03.2008 12:21 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![BashPodder Logo](http://lincgeek.org/bashpodder/logos/bp3.png)
+
+Ich liebe dieses Skript. So habe ich immer meine Lieblingssendungen automatisch auf der Festplatte.
+Was braucht man mehr?
+
+<http://lincgeek.org/bashpodder/>
+END-----

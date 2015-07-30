@@ -1,0 +1,71 @@
+TITLE: Switch ...
+AUTHOR: Christian Herenz
+DATE: 04.08.2008 22:05 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe heute den Wechsel vollzogen, nach nichteinmal einer Woche
+[openSUSE 11.0](http://www.opensuse.org/) hatte ich die Nase gestrichen voll.
+
+Jetzt habe ich heute erfolgreich auf [Debian Lenny](http://www.debian.org/releases/testing/) gewechselt und alles
+funktioniert irgendwie schneller und besser. openSUSE ist eher was für
+den Benutzer, der mit dem Zufrieden ist, was er bekommt. Und der
+Fairniss halber muss man gestehen, das man bei openSUSE als Einsteiger eine ganze
+Menge (hin-)bekommt. Aber für jemand wie mich, der gerne jede
+Feineinstellung selber vornimmt, für den ist dieses System einfach
+nichts mehr, was ich an ein paar Beispielen festmachen will.
+
+**[Fluxbox](http://fluxbox.org/)**
+
+In openSUSE 10.2 gehörte es noch mit zum Lieferumfang der
+Distribution, jetzt muss man ein
+[Community-Repo](http://de.opensuse.org/YaST/Software/Community_Repositories)
+nach der Installation hinzufügen. Jedoch ist dieses Paket irgendwie
+Fehlerhaft, zumindest sehen einige Icons in der Taskleiste damit sehr
+komisch aus. Stöbert man ein bisschen weiter in den Community-Repos
+findet man in einem weitern Repo eine Version die einen aktuellen
+[GIT-Checkout](http://de.wikipedia.org/wiki/Git) gepackt hat. Hier funktioniert auf den ersten Blick dann
+nun doch alles einwandfrei. Jedoch gehört zu Fluxbox auch einfach die
+Slit... Und selbst die wichtigsten [Dockapps](http://dockapps.org/) findet man in keinem
+Community-Repo, dass heißt man kann erstmal schön fleißig selber
+kompilieren. Dafür wird man dann damit belohnt, das nach dem ersten
+Update Fluxbox plötzlich 99% der gesamten CPU-Leistung
+verschlingt. Unter Spass stelle ich mir was anderes vor.
+
+**Herrie**
+
+[Mein Lieblingsmusikplayer unter Linux](http://herrie.info/). Ist natürlich nur über ein
+Community-Repo zu installieren und frisst dann auch beim Abspielen mal
+eben so 25 % der CPU-Leistung - wohlgemerkt handelt es sich hier um
+einen Terminal-Modus MP3 Player... :embarassed:
+
+**Paketmanager**
+
+Hier hat man viel Arbeit bei Suse reingesteckt, dass muss ich
+zugeben. Aber wenn jemand mal Aptitude unter Debian eingesetzt hat,
+dann wird er bei dem ewigen rumgeaktualisiere und Zwischenspeicher
+gelade irgendwann die Geduld verlieren... Was dauert da bitteschön so
+lange?? Mit Smart kriegt man das in der Hälfte der Zeit hin, aber im
+Vergleich zu Debian fühlt man sich immernoch wie ein Trabantfahrer auf
+der Rennstrecke.
+
+**YAST**
+
+YAST ist im Prinzip gut für den Anfänger, denn mit diesem Tool findet
+man schnell per Mausklick die passende Einstellung. Ärgerlich ist das
+nur dann, wenn man schneller im Texteditor ist, denn die
+Standardkonfigurationsdatein werden von YAST immer überschrieben. Das
+geht soweit, das in der xorg.conf als erstes steht "DO NOT EDIT THIS
+FILE" ... Äh, naja, dann kann ich auch gleich Windows benutzen.
+
+
+Jetzt bin ich Debianer - endlich habe ich mich getraut. Aber selbst
+die Installation macht einen aufgeräumteren Eindruck als bei
+openSUSE. Irgendwie hab ich wieder das Gefühl Linux zu benutzen, die
+letzte Woche unter openSUSE zweifelte ich nämlich schon ein bisschen
+daran.
+
+![button-mini.png](http://people.physik.hu-berlin.de/~herenz/Bilder/button-mini.png)
+END-----

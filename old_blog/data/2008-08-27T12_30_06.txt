@@ -1,0 +1,14 @@
+TITLE: Die Ruderfähre von Berlin
+AUTHOR: Christian Herenz
+DATE: 27.08.2008 12:30 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich wusste garnicht, das es in Berlin eine BVG Fähre gibt, die noch von Muskelkraft
+betrieben wird. Aber tatsächlich, die [F24](http://www.bvg.de/index.php/de/Bvg/Detail/folder/715/id/2270/nb/1/name/F%E4hrlinie+F24) ist eine Ruderfähre, wie man [hier auf der Seite der
+BVG](http://www.bvg.de/index.php/de/Bvg/Detail/folder/715/id/2270/nb/1/name/F%E4hrlinie+F24) erkennen kann.
+
+Siehe dazu auch Artikel in der Berliner-Zeitung ["Mit Paule III über die Müggellspree"](http://www.berlinonline.de/berliner-zeitung/archiv/.bin/dump.fcgi/2008/0819/berlin/0031/index.html) vom 19. August 20008.
+END-----

@@ -1,0 +1,20 @@
+TITLE: Soziale Netze als Gefahr für Privatsphäre
+AUTHOR: Christian Herenz
+DATE: 29.09.2008 11:01 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Am WE bin ich mal wieder ein bisschen über StudiVZ gebrowsed. Hab da auch ein paar Leute gefunden die ich seit der Grundschule nicht mehr gesehen habe. Interesannt was aus denen so geworden ist, wie die aussehen und was die so machen, welchen Beruf die haben und welche politische Orientierung Sie besitzen. Interesannt, wieviel die Leute von sich in aller Öffentlichkeit preisgeben - ich denke mal die Daten dürften auch für Erhebungen von Leuten interesannt sein, die nicht unbedingt mit jemanden auf der Grundschule waren.
+
+Jedenfalls hat das Frauenhofer-Institut nun festgestellt, das es mit dem Schutz der Privatsphäre in sozialen Netzwerken nicht so weit her ist. Blitzmerker sind das... ;)
+
+Nein, mal im Ernst, einige Sachen sind wirklich besorgniserregend:
+
+*Mit Hilfe spezieller Suchmaschinen kamen sie zum Beispiel in den Besitz geschützter Bilder, obwohl diese gar nicht für die Öffentlichkeit freigegeben waren. Auch die politische Orientierung und der Familienstatus ließ sich trotz Sperrung der Daten ermitteln, und selbst nach Aufgabe der Mitgliedschaft blieben bei einer Plattform die persönlichen Gästebuch- und Foreneinträge bestehen.*
+
+Also, trotz das ich alle Sicherheitsmechanismen bei StudiVZ (umständlich auf irgendwelchen versteckten Seiten liegend) aktiviert habe, ist mein Profil im prinzip Gläsern. Kann man nur hoffen, dass die Betreieber derartige Schwachstellen nun beheben werden.
+
+<http://futurezone.orf.at/it/stories/310485/>
+END-----

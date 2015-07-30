@@ -1,0 +1,21 @@
+TITLE: Discount (Markdown in C) - Neue Version 
+AUTHOR: Christian Herenz
+DATE: 02.04.2008 11:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade erreichte mich eine Email:
+
+
+    The new version is out!  (and it's got the fix for the <html tag>
+    defect in it -- thanks again for pointing it out to me.
+    -david parsons
+
+Dann kann ich ja heute abend auch wieder die Smartypants-Erweiterung mitkompilieren,
+die verursachte nämlich einen Fehler sobald man von Markdown-Syntax auf HTML-Syntax geswitched
+ist, was aber in der laut Markdown Spezifikation nicht so sein sollte.
+
+[Discount - Markdown in C](http://www.pell.portland.or.us/~orc/Code/discount/)
+END-----

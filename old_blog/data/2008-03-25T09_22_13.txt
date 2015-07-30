@@ -1,0 +1,20 @@
+TITLE: Ein kosmischer Salut an Arthur C. Clarke 
+AUTHOR: Christian Herenz
+DATE: 25.03.2008 09:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Eigentlich wollt ich das [Ogle Earth Blog][1] mal demnächst aus meinem 
+Feedreader löschen. Solch ein hervorragender Artikel wie heute ist dort nämlich nicht
+allzuoft zu finden.
+
+[1]: http://www.ogleearth.com/
+
+> [...] within hours of Clarke’s death in Sri Lanka on March 19, an exquisitely timed salute flashed past Earth in the form of a massive gamma ray burst, GRB 080319B, by far the most luminous ever recorded. It was even briefly visible to the naked eye despite having travelled 7.5 billion light-years across half the universe. 
+
+Neben interessanten Aspekten zu Arthur C. Clarke gibts Links zur Nasa und sogar noch ein KMZ File für Google Earth (bzw. Google Sky). 
+
+<http://www.ogleearth.com/2008/03/grb_080319b_a_c.html>
+END-----

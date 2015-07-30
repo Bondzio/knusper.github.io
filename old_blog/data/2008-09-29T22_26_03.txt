@@ -1,0 +1,19 @@
+TITLE: Was Emacs 23 bringen wird...
+AUTHOR: Christian Herenz
+DATE: 29.09.2008 22:26 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Emacs has a new option --daemon that runs emacs on the background as a server, so you only need to call emacsclient*
+
+Genial. Zumal schon jetzt meine .bashrc sagt:
+
+       EDITOR=/usr/bin/emacsclient   
+       ALTERNATE_EDITOR=emacsnw
+
+Wobei emacsnw eigentlich ein alias zu emacs -nw ist, der ein Emacs im Terminal startet. Der --deamon Modus wird in Emacs 23 dann sogar nicht unterscheiden, ob ein TTY-Emacs oder ein graphischer (plain oder GTK) am laufen sind. In beiden können dann dieselben Buffer bearbeitet werden. Yeeeeehaaaaaa... Das ist die Zukunft.
+
+Quelle: <http://www.rlazo.org/blog/entry/2008/sep/28/emacs-daemon-v23/>
+END-----

@@ -1,0 +1,12 @@
+TITLE: Die Aliens in Stargate bentuzen JavaScript 
+AUTHOR: Christian Herenz
+DATE: 18.03.2008 12:28 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Glaubt ihr mir nicht? Dann schaut <a href="http://thedailywtf.com/Articles/Stargate-Code-of-the-Replicators.aspx">hier</a>.
+<br>
+<a href="http://blog.fefe.de/?ts=b920608a">via</a>
+END-----

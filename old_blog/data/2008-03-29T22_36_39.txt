@@ -1,0 +1,24 @@
+TITLE: Mathematik Podcast
+AUTHOR: Christian Herenz
+DATE: 29.03.2008 22:36 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Nach einem bisschen Suchen und vielen Möhren habe ich endlich einen guten
+Mathematikpodcast gefunden: **Dans Math Cast**
+
+*dansmathcast is math knowledge
+for the masses, from a real math nut.
+each show has features, a textbook
+chapter, and challenge problems!*
+
+Sehr gut! Ich kann eigentlich alles gut nachvollziehen, also für Physikstudenten im 4. Semester genau richtig.
+Die Themen sind nicht allzu kompliziert, aber sehr fundiert und schnell erzählt, so dass der Kopf die ganze Show 
+gut mitarbeiten muss, genau die Unterhaltung die ich bevorzuge :)
+
+Der Moderator plant wohl jeden Monat eine 30 Minütige Show zu produzieren, aber leider klappt das wohl nicht immer. Naja, wollen wir mal hoffen, das es noch viele gute Episoden gibt...
+
+<http://dansmath.libsyn.com/>
+END-----

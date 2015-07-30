@@ -1,0 +1,14 @@
+TITLE: Lp Cover Lover - Blog über LP Cover
+AUTHOR: Christian Herenz
+DATE: 03.10.2008 16:21 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+... offensichtlich über besonders schräge:
+
+<http://lpcoverlover.com/> 
+
+[[via](http://feeds.boingboing.net/~r/boingboing/iBag/~3/409743520/lp-cover-lover-music.html)]
+END-----

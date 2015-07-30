@@ -1,0 +1,20 @@
+TITLE: R.I.P Textbook Torrents
+AUTHOR: Christian Herenz
+DATE: 10.10.2008 15:25 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![Textbook Torrents - Because you Cant Torrent Beer](http://img519.imageshack.us/img519/4746/textbooktorrentsai2.jpg)
+
+Diese Seite hat mit Bereitstellung von Infrastruktur ([BitTorrent Tracker](http://en.wikipedia.org/wiki/BitTorrent_tracker)) für Piratrie
+von Lehrbüchern für Aufregung gesorgt. Ein äußerst nobles Anliegen,
+denn durch astronomische Lehrbuchpreise sind sozial schwächer
+gestellte Schichten von vornherein vom Wissenserwerb
+ausgeschlossen. Das wird leider in Zukunft auch so bleiben,
+denn mit Textbook-Torrents ist jetzt erstmal Schluss!
+
+[TextBook Torrents Turns The Final Page and Closes Down @ TorrentFreak](http://torrentfreak.com/textbook-torrents-turns-the-final-page-and-closes-down-081010/)
+
+END-----

@@ -1,0 +1,25 @@
+TITLE: Sunday Live Sessions - Der Film
+AUTHOR: Christian Herenz
+DATE: 11.05.2010 19:00 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+<p>Endlich fertig! Danke <a href="http://sanomat.org/">Sanomat</a>! Die Aufnahmen entstanden am 29.03.2009.</p>
+
+<p><object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=11592596&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=11592596&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><p><a href="http://vimeo.com/11592596">Sunday Live Sessions</a> from <a href="http://vimeo.com/gubatz">Stefan Gubatz</a> on <a href="http://vimeo.com">Vimeo</a>.</p></p>
+
+<p>Mein Mix von dieser SLS sei hier auch nocheinmal eingebettet, im Film gibts den ja nur im Schnelldurchlauf  <img src="http://amor.cms.hu-berlin.de/~herenzed/blog/moods/smilies/smiley.gif" alt=":)" /></p>
+
+<div><object width="400" height="300"><param name="movie"
+value="http://www.mixcloud.com/media/swf/player/mixcloudLoader.swf?v=20"></param><param
+name="allowFullScreen" value="true"></param><param
+name="allowscriptaccess" value="always"></param><param
+name="flashVars"
+value="feed=http://www.mixcloud.com/api/1/cloudcast/knusper/sunday-session.json&embed_uuid=97396f1c-7cae-4f78-8b45-ebd7e32358a0&embed_type=widget_standard"></param><embed
+src="http://www.mixcloud.com/media/swf/player/mixcloudLoader.swf?v=20"
+type="application/x-shockwave-flash" allowscriptaccess="always"
+allowfullscreen="true"
+flashvars="feed=http://www.mixcloud.com/api/1/cloudcast/knusper/sunday-session.json&embed_uuid=97396f1c-7cae-4f78-8b45-ebd7e32358a0&embed_type=widget_standard"
+width="400" height="300"></embed></object>
+END-----

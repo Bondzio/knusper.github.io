@@ -1,0 +1,12 @@
+TITLE: Sir Arthur C. Clarke verstorben 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 09:05 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Bekannt wurde Sir Arthur C. Clarke vorallem durch die Romanvorlage für den Film
+"2001: Odysse im Weltraum". Er verstarb heute im Alter von 90 Jahren.
+<br>[<a href="http://www.spiegel.de/kultur/literatur/0,1518,542314,00.html">Spiegel Online</a>]
+END-----

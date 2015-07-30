@@ -1,0 +1,18 @@
+TITLE: Sommersemester 2008 - Heute geht es wieder los!
+AUTHOR: Christian Herenz
+DATE: 14.04.2008 11:01 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Dieses Semester werde ich folgende Veranstaltungen besuchen:
+
+- Einführung in die Quantenphysik 1 (Nolting/Raabe)
+- Computational Physics 1 (Wolf)
+- Einführung in die Astronomie und Astrophysik 2 (Wisotzki)
+- English for Natural Sciences 1 (UniCERT 3) (Geyer)
+
+Die Blogfrequenz wird darunter sicherlich etwas leiden, aber wie hat Arnie so
+schön gesagt: "I'll be back!"
+END-----

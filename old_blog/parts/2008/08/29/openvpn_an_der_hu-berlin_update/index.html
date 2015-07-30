@@ -1,0 +1,66 @@
+<h2 class="date">
+	29.08.2008 01:46 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-08-29T01_46_23.txt"></a>
+	<h3 class="title">openVPN an der HU-Berlin UPDATE</h3>
+	<p>Derzeit gibt es ein Problem, welches Nutzer von der aktuellsten KVPNC
+Version (0.9 rc1) in Verbindung mit der Verwendung der aktuellsten
+openVPN Version (2.1 rc9) davon abhalten wird, sich mit KVPNC in das
+HU-Netzwerk einzuwählen. Bei hochgesetzem Debug-Level wird folgende
+Meldung zu sehen bekommen:</p>
+
+<pre><code>openvpn_execve: external program may not be
+called due to setting of --script-security level
+...
+script failed: external program fork failed
+</code></pre>
+
+<p>Details kann man z.B. dem Debian Bugreport
+<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494998">#494998</a>
+entnehmen bzw. sollte man Debian Testing verwenden und ein Update
+des openVPN Paketes auf Version 2.1~rc9-3 vorgenommen haben, so finden
+sich auch entsprechende Hinweise in der Datei NEWS.Debian in der
+Dokumentation von openVPN (/usr/share/doc/openvpn/):</p>
+
+<pre><code>Calling of external commands/scripts
+
+Starting with version 2.1~rc9, openvpn has a new option to control
+the
+ability to execute external commands (--script-security).
+
+By default (script-security 1) it will only allow the execution of
+built-in commands (ip, ifconfig, route,...). If you require the
+execution
+of external commands, such as /etc/openvpn/update-resolv-conf,
+you'll have
+to include the following option in your configuration file:
+script-security 2
+</code></pre>
+
+<p>Diesen Parameter kennt allerdings die aktuelle Version von KVPNC noch
+nicht, jedoch habe ich heute einen der Entwickler im IRC Channel von
+KVPNC darauf aufmerksam gemacht, und der entsprechende Fehler wurde
+bereits im Entwicklungszweig behoben:</p>
+
+<p><a href="http://tinyurl.com/6etzxb">http://tinyurl.com/6etzxb</a></p>
+
+<p>Diese Version habe ich kompiliert und getestet, der Fehler ist mit
+diesem Fix beseitigt. </p>
+
+<p>In der kommenden Woche soll der zweite Release-Canidate von KVPNC 0.9
+(0.9 RC2) herauskommen. Auf der <a href="http://home.gna.org/kvpnc/de_DE/index.html">Website des Projektes</a> sind dann auch
+immer Binärversionen für die verschiedensten Betriebssysteme
+verfügbar. In dieser Version wird der Fehler also behoben sein.</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/08/29/openvpn_an_der_hu-berlin_update/index.html">Permanent Link</a>
+| Categories: <!-- Studium --><a href="../../../../../archives/studium/index.html">Studium</a>
+<!-- <br /><a href="../../../../../archives/2008/08/29/openvpn_an_der_hu-berlin_update/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/08/29/openvpn_an_der_hu-berlin_update/index.html');" target="_self"><script type="text/javascript">postCount('2008/08/29/openvpn_an_der_hu-berlin_update/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/08/29/openvpn_an_der_hu-berlin_update/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/08/29/openvpn_an_der_hu-berlin_update/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

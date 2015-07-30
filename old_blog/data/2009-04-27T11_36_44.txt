@@ -1,0 +1,12 @@
+TITLE: Krank
+AUTHOR: Christian Herenz
+DATE: 27.04.2009 11:36 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Shit... Jetzt lieg ich schon seit 1 Woche mit Erkältungsgrippe im Bett. Besserung ist in Sicht, doch die liegengebliebene Arbeit die auf dringende Erledigung wartet macht mir gleich wieder Kopfschmerzen. 
+
+Naja, ich war schon ca. 3 Jahre nicht mehr wirklich Krank, dass musste halt mal passieren.
+END-----

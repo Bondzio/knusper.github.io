@@ -1,0 +1,18 @@
+TITLE: pop-culture.eu 
+AUTHOR: Christian Herenz
+DATE: 27.04.2008 11:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Für alle, die wie ich noch den guten alten Zeiten des Electronic Culture
+Forums, hat der [Sanomat](http://www.schweinkram.com/) jetzt **endlich** ein Forum aufgesetzt, welches
+schon gleich von Anfang an den Eindruck eines gemütlichen Plätzchens macht, an
+dem man gerne mit netten Leuten über "popkulturell relevante" Themen
+(z.B. "Kriegt man von Schranz Alzheimer?", "Haben die Tussies bei Minimal immer
+kleine Brüste?", "Früher war alles besser!" oder "Finger im Crossfader
+eingeklemmt, was nun") philosophieren wird.
+
+[www.pop-culture.eu](http://www.pop-culture.eu/)
+END-----

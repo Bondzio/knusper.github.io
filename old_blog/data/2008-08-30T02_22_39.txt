@@ -1,0 +1,14 @@
+TITLE: Astrobiology Rap
+AUTHOR: Christian Herenz
+DATE: 30.08.2008 02:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Time 4 some Nerdcore:
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/NL3lhm6oy5I&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/NL3lhm6oy5I&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+
+via [Nature](http://blogs.nature.com/news/thegreatbeyond/2008/08/songs_about_science_part_viii.html)
+END-----

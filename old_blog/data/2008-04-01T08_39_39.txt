@@ -1,0 +1,31 @@
+TITLE: Irgendwie "nicht lustig"...
+AUTHOR: Christian Herenz
+DATE: 01.04.2008 08:39 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Man verzeihe es mir, aber als ich das gelesen hatte musste ich doch ein
+bisschen schmunzeln - Skriptkiddies können bekanntlich Seiten (auf denen
+irgendwas nicht dicht ist) mit sogenanntem
+"Cross Site Scripting" dazu bringen etwas anzuzeigen, was man eigentlich dort
+nicht erwartet. Das kann unter umständen ganz cool sein, wenn zum Beispiel auf
+der Seite der RIAA plötzlich Werbung für Piratebay gemacht wird, aber im
+folgenden Fall ist es definitiv ethisch nicht korrekt.
+
+*Aktuell haben ein paar Arschlöcher in den Webforen einer
+ Epileptiker-Selbsthilfegruppe Stroboskop-Bilder eingeblendet und damit bei
+ einigen Usern Anfälle ausgelöst* [via Fefe](http://www.wired.com/politics/security/news/2008/03/epilepsy)
+
+
+Und der Grund, warum ich über sowas lachen muss liegt wahrscheinlich an dem
+postraumatischen Syndrom, das man mir als Kind immer verboten hat über
+Behinderte zu lachen, quasi ein postraumatisches System. Ich sollte mich mal
+in Behandlung geben lassen.
+
+Achso, und wenn ihr hier auf einen Aprilscherz wartet. Fällt aus wegen iss
+nich und so. Aber beim [Schockwellenreiter](http://www.schockwellenreiter.de)
+bin ich drauf aufmerksam gemacht wurden, dass auf der ARD Tagesschau Seite
+einer ist, aber der ist auch nicht lustig.
+END-----

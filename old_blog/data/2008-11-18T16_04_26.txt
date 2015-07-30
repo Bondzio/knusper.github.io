@@ -1,0 +1,19 @@
+TITLE: PDFjam
+AUTHOR: Christian Herenz
+DATE: 18.11.2008 16:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*PDFjam is a small collection of shell scripts which provide a simple interface to some of the functionality of the excellent pdfpages package (by Andreas Matthias) for pdfLaTeX.*
+
+
+Enthält z.B. das wunderbare Tool *pdfjoin*:
+..., which concatenates the pages of multiple PDF files together into a single file
+
+
+Nützliche Sache!
+
+<http://go.warwick.ac.uk/pdfjam>
+END-----

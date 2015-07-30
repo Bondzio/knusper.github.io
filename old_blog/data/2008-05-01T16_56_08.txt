@@ -1,0 +1,20 @@
+TITLE: Messier 12 
+AUTHOR: Christian Herenz
+DATE: 01.05.2008 16:56 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Wärend der eine oder andere den heutigen "Tag der Arbeit" damit verbringt eben
+nicht zu arbeiten, habe ich die letzten 2 Stunden anhand zweier Fotos (in verschiedenen
+Spektralbereichen aufgenommen) total altmodisch mit Bleistift und Papier die
+Entfernung zu Messier 12, einem Kugelsternhaufen im Sternbild Schlangenträger,
+bestimmt.
+Bin gerade ein bisschen Stolz auf mich, da ich 5000 Parsec ausgerechnet habe
+und aktuelle High-End-Messungen 4900 Parsec sind. In irdischen Dimensionen ist
+es zwar immer noch ein riesen Unterschied (1 Parscec sind ca. 3 Lichtjahre),
+aber für Bleistift und Papier am 1. Mai nicht schlecht.
+
+[Messier 12 @ SEDS](http://www.seds.org/messier/m/m012.html)
+END-----

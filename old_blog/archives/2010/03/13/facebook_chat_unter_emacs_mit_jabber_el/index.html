@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="generator" content="NanoBlogger 3.3" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="31 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+
+<title>Facebook Chat unter Emacs mit jabber.el | Knusperfrühstück</title>
+
+<link rel="stylesheet" href="../../../../../styles/nb_steelblue_variant.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../../../../styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="../../../../../images/favicon.ico" />
+<!-- <link rel="alternate" type="application/atom+xml"
+title="Atom 1.0"
+href="../../../../../atom.xml"
+/>
+<link rel="alternate" type="application/rss+xml"
+title="RSS 2.0"
+href="../../../../../rss.xml"
+/>
+ -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="../../../../../index.html" accesskey="1">Knusperfrühstück</a></h1>
+		<span class="description">Der gesunde Start in den Tag</span>
+	</div>
+	<div id="altcontent">
+		<div id="wrap">
+			<a id="top"></a>
+			<div id="menu">
+				<a href="../../../../../index.html">Main</a> &#62;
+				<a href="../../../../../archives/index.html">Archives</a> &#62;
+				<a href="../../../../../archives/2010/index.html">2010</a> &#62;
+				<a href="../../../../../archives/2010/03/index.html">03</a> &#62;
+				<a href="../../../../../archives/2010/03/13/index.html">13</a> &#62;
+				<br />
+<a href="../../../../../archives/2010/03/11/knusper_tumblr_com/index.html">&#60;</a>
+				15:01:18
+<a href="../../../../../archives/2010/03/21/fav4_org_-_minimal-startseite/index.html">&#62;</a>
+			</div>
+			<div class="archives">
+				<h2 class="date">
+	13.03.2010 15:01 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2010-03-13T15_01_18.txt"></a>
+	<h3 class="title">Facebook Chat unter Emacs mit jabber.el</h3>
+	<p><a href="http://www.golem.de/1002/73033.html">Vor kurzem öffnete</a> Facebook die
+Schnittstelle zu seinem eingebauten Chatsystem. Glücklicherweise setzt
+man dabei auf den offenen Standard <a href="http://de.wikipedia.org/wiki/Jabber">XMPP (früher: Jabber)</a>. Dieses
+Protokoll wird von jedem vernünftigen Multi-Instant-Messenger
+unterstützt. Insbesondere gibt es auch für Emacs die Erweiterung
+<a href="http://emacs-jabber.sourceforge.net/">jabber.el</a>, mit der es möglich ist innerhalb unseres Lieblingseditors
+mit seinen Facebook-Buddies zu chatten (während man beispielsweise
+nebenbei seine Hausaufgaben erledigt).</p>
+
+<p>Für Debian gibt es jabber.el als Paket, mit</p>
+
+<p><code>aptitude install emacs-jabber</code></p>
+
+<p>ist die Installation erledigt. Auf allen anderen Systemen folge man
+den Installationsanweisungen auf der jabber.el Homepage. </p>
+
+<p>Die Konfiguration ist auch ziemlich simpel, nach erfolgter
+Installation ruft man einfach </p>
+
+<p><code>M-x jabber-customize</code></p>
+
+<p>in Emacs auf. Am wichtigsten ist der Eintrag <em>Jabber Account
+List</em>. Nachdem man mit INS einen Eintrag anlegt, trägt man in das Feld
+JID <em>Username</em>@chat.facebook.com ein. <em>Username</em> ist hierbei durch den
+Facebook-Benutzernamen zu registrieren. Leute die schon länger bei
+Facebook sind, haben vielleicht noch gar keinen solchen Benutzernamen
+und müssen diesen erst anlegen. Dies geschieht unter
+<a href="http://www.facebook.com/username">http://www.facebook.com/username</a>.</p>
+
+<p>Desweiteren setzt man noch ein Häkchen bei <em>Connection Type</em> und wählt
+aus dem Menü <em>Unecrypted</em> aus. Man kann auch noch ein Häkchen bei
+<em>Password</em> setzen und dann dort sein Passwort eingeben, sollte aber
+bedenken, dass dieses im Klartext im <em>Emacs-Custom-File</em> (Standard
+.gnu-emacs-custom) gespeichert wird. Ebenfalls kann man ein Häkchen
+bei <em>Port</em> setzen und 5222 eingeben, da dies aber der Standardport für
+unverschlüsselte XMMP-Verbindungen ist, ist diese Information
+eigentlich Redundant. (Bemerkung: Die gesagte Konfiguration erfolgt so
+mit der jabber.el <a href="http://packages.debian.org/lenny/emacs-jabber">Version
+0.7.91-2</a> in Debian
+Lenny, ob es in der Version 0.8.0, welche auf der jabber.el Homepage
+verfügbar ist Änderungen diesbezüglich gibt, habe ich nicht
+überprüft.)</p>
+
+<p>Nachdem man die Änderungen mit Auswahl von <em>State</em> &ndash; <em>Save For Future
+Sessions</em> permanent gespeichert hat, kann man sich zu Facebook-Chat verbinden, indem man </p>
+
+<p><code>C-x C-j C-c</code></p>
+
+<p>drückt. (Merkt man sich z.B. durch &ldquo;E<strong>x</strong>ecute <strong>J</strong>abber and
+<strong>C</strong>onnect)</p>
+
+<p>Als kleinen Bonus kann man nun noch den Facebook-Chat Sound (Pop)
+einbinden. Man lade dazu den Sound von
+<a href="http://static.ak.fbcdn.net/sound/pop.mp3">http://static.ak.fbcdn.net/sound/pop.mp3</a> herunter und konvertiere
+ihn nach WAV. Am einfachsten geht das z.B. mit <a href="http://mpg123.de/">mpg123</a>:</p>
+
+<p>&lsquo;mpg123 -w .emacs.d/pop.wav &ndash;@http://static.ak.fbcdn.net/sound/pop.mp3&rsquo;</p>
+
+<p>In der Customize-Group Jabber-Alerts setzt man dann noch ein Häkchen
+bei <em>jabber-message-wave</em> unter <em>Jabber Alert Message Hooks</em> und setzt
+die Variable <em>jabber-alert-message-wave</em> (am einfachsten drauf klicken
+und im folgenden Buffer auf Customize klicken) auf den Ort an dem sich
+der Pop-Sound als WAV befindet (hier also
+z.B. *~/.emacs.d/pop.wav). Abspeichern (s.O.), umrühren, guten Appetit  <img src="../../../../../moods/smilies/smiley.gif" alt=":)" /></p>
+
+<p>Für einen Screenshot von Jabber.el in Action, siehe mein <a href="http://knusper.tumblr.com/post/445299171/facebook-chat-in-emacs-it-works-and-also-cool-i">Eintrag bei knusper.tumblr.com</a>.</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Web --><a href="../../../../../archives/web/index.html">Web</a>
+<!-- <br /><a href="../../../../../archives/2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html');" target="_self"><script type="text/javascript">postCount('2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html');</script></a> | <a href="javascript:HaloScanTB('2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html');" target="_self"><script type="text/javascript">postCountTB('2010/03/13/facebook_chat_unter_emacs_mit_jabber_el/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="menu">
+		<a href="#top">&#47;&#92;</a><br />
+	</div>
+</div>
+
+</body>
+</html>

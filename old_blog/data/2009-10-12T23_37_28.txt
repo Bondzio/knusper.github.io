@@ -1,0 +1,34 @@
+TITLE: WS 2009 / 2010 - 1.FS Master Physik
+AUTHOR: Christian Herenz
+DATE: 12.10.2009 23:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Erstes Fachsemester im Master für mich und wer die Wahl hat, hat die
+Qual. Habe mich heute sehr lange damit beschäftigt, welche Kurse ich
+wählen darf / kann und muss. So ganz wurde ich allerdings aus unserer
+Studienordnung nicht schlau. Soll man nur Kurse aus einem
+Spezialisierungsbereich (SB) wählen, oder darf man sich auch etwas über
+alle SBs zusammenwürfeln? Ersteres macht für
+mich keinen Sinn, da ich nicht beabsichtige meine Masterarbeit in
+einem an der HU-Berlin angebotetenen SB zu
+tätigen. Nun gut, mit dieser Frage werde ich mich wohl morgen
+ersteinmal an die Studienfachberatung wenden, an den in der Physik
+nicht allzu außergewöhnlichen Fall einer externen Abschlussarbeit, in
+einem anderen SB, hat offensichtlich beim Formulieren der
+Studienordnung niemand gedacht. Insofern ist meine, folgend als PDF
+vorliegende, Auswahl nur als Provisorium zu betrachten. Allerdings
+erbringt dieses Provisorium genau, wie gefordert, 30 Punkte (10 Pflicht, 10
+Wahlpflicht und 10 Spezial) und würde genau mein Interessengebiet abdecken.
+
+![PDF](http://people.physik.hu-berlin.de/~herenz/pdf.png) [Mein
+ Stundenplan :-)](http://amor.cms.hu-berlin.de/~herenzed/WS2009-2010.pdf)
+
+Die OpenOffice Vorlage für den Stunden- / Semesterplan (ja, es gibt
+Dokumente, die ich nicht mit LaTeX erstelle), sei für Interessierte
+auch zum herunterladen angeboten:
+
+![OOCALC](http://jimmac.musichall.cz/images/icons/openoffice-stock/stock_new-spreadsheet-16.png) [Vorlesungsplan Vorlage für Open Office](http://amor.cms.hu-berlin.de/~herenzed/Vorlesungsplan_Vorlage.ots)
+END-----

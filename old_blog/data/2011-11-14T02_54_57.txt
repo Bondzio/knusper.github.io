@@ -1,0 +1,16 @@
+TITLE: Masterarbeit - Done That!
+AUTHOR: Christian Herenz
+DATE: 14.11.2011 02:54 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Letzte Woche Mittwoch habe ich meine Masterarbeit abgegeben - d.h. das
+Studienleben neigt sich dem Ende zu, denn die einzige Prüfungsleistung die nun
+noch zu absolvieren bleibt, ist die Verteidigung der Masterarbeit.
+
+Das heißt aber auch, das ich bald mit meinem Blog an eine andere Adresse
+umziehen muss, da diese Seiten hier ja auf dem Webspace der HU-Berlin
+liegen. Natürlich gebe ich rechtzeitig Bescheid.
+END-----

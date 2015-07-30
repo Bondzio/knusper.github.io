@@ -1,0 +1,16 @@
+TITLE: OpenOffice 2.4 
+AUTHOR: Christian Herenz
+DATE: 30.03.2008 17:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Version 2.4 of the OpenOffice productivity suite was released on Thursday, boasting enhancements to all its core components.*  [zdnet.co.uk](http://news.zdnet.co.uk/software/0,1000000121,39375173,00.htm)
+
+Ich benutze es zwar nicht, weiß aber von vielen Leuten, die das benutzen. Meine ersten Grundpraktikumsprotokolle hab ich damals auch noch damit geschrieben, aber mitlerweile benutze ich ausschließlich LaTeX zum schreiben von irgendwelchem Kram für die Uni. Auch Folien für Vorträge lassen sich mit Latex durchdachter erstellen. Das zussammenklicken im WYSIWYG Modus lässt leider so manchen Vortragenden mehr in Folien denken, als in einer Struktur die zum Vermitteln des Inhaltes eigentlich angemessen werden.
+
+Das Malprogramm "Draw" find ich noch ganz nützlich, für schnell mal eine Einladung zusammklicken und so. Aber natürlich hat eine Office Suite Daseinsberechtigung, und erst recht wenn sie OpenSource ist!
+
+<http://www.openoffice.org/>
+END-----

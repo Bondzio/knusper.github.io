@@ -1,0 +1,27 @@
+TITLE: Lostplaces 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 11:52 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+<a href="http://www.lostplaces.de/" target="_top">
+<img src="http://www.lostplaces.de/grafik/lpbannersmall.jpg" 
+width="145" height="75" border="1" alt="lostplaces.de - 
+Interessengemeinschaft für historische Militär-, Industrie- und 
+Verkehrsbauten, Luftschutz und Bunker"></a>
+
+>Wir möchten auf diesen Seiten die Geschichte von Bauten, Orten und 
+Objekten vorstellen, die der Allgemeinheit häufig recht unbekannt sind 
+- eben "lost places", verlorene oder vergessene Plätze. Es geht uns 
+dabei nicht zwingend um solche Orte, an denen Weltgeschichte 
+geschrieben wurde, sondern vielmehr um die "Geschichte vor der 
+Haustür".
+
+Sehr interessante Website... Als U-Bahn Fan interessiert mich 
+besonders der Artikel über die nie fertiggestellte U-Bahnlinie 10 in 
+Berlin.
+
+[Lostplaces.de](http://www.lostplaces.de)
+END-----

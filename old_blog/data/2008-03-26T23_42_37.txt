@@ -1,0 +1,16 @@
+TITLE: Manchmal hätte ich gerne 'nen Mac...
+AUTHOR: Christian Herenz
+DATE: 26.03.2008 23:42 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Und auch nur aus dem Grund, weil die hin und wieder mal coole Screensaver haben:
+
+![smileys](http://www.barnholt.net/sw/screensavers/gfx/smileys_sml.png)
+
+;) [Download nur für MacOSX](http://www.barnholt.net/sw/screensavers/index.html)... 
+
+\[via [Dr. Motte](http://www.drmotte.de/wordpress/2008/03/26/smiley-screensavers-from-barnholtnet/)\]
+END-----

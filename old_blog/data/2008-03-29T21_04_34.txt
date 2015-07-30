@@ -1,0 +1,16 @@
+TITLE: Mixtapes im Web
+AUTHOR: Christian Herenz
+DATE: 29.03.2008 21:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Oh man.. Dieses Thema ist aber auch ergibig :)
+
+*Mixwit allows you to create a playlist of your favorite music and display it like an old skool mixtape.*
+
+<http://www.mixwit.com/>
+
+Jetzt muss ich aber langsam auch mal eine virtuelle Kasette kreieren!
+END-----

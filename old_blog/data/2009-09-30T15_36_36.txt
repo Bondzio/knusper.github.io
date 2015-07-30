@@ -1,0 +1,11 @@
+TITLE: Bachelorarbeit - Done that!
+AUTHOR: Christian Herenz
+DATE: 30.09.2009 15:36 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+So... jetzt bin ich mit der Bac.-Arbeit fertig und kann ersteinmal 5
+Tage die Beine hochlegen.
+END-----

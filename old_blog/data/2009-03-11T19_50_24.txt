@@ -1,0 +1,81 @@
+TITLE: Synchronisation zwischen Notebook und Desktop 
+AUTHOR: Christian Herenz
+DATE: 11.03.2009 19:50 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ein Notebook ist, schon aus ergonomischen Gründen, für mich kein
+vollständiger Ersatz meines Desktop-PCs. Allerdings soll er dies eben
+genau in dem Moment werden, wenn ich meine Wohnung verlassen
+habe. Dies gelingt jedoch nur, wenn sämtliche kritische Daten (nicht
+kritisch sind für mich z.B. MP3 oder Filmsammlung) in genau der
+Version vorliegen, wie ich sie als letztes auf dem Desktop bearbeitet
+habe. Änderungen, die ich nun auf dem Laptop an Dateien vornehme
+(z.B. auch neues Lesezeichen im Webbrowser), müssen sich möglichst
+einfach wieder auf den Desktop überspielen lassen. Lösche ich eine
+Datei unterwegs, so soll Sie auch automatisch auf dem Desktop gelöscht
+werden. Ferner kann es natürlich sein, dass ich eine Datei vor dem
+nächsten Synchronisationsvorgang sowohl auf Desktoprechner als auch
+auf dem Notebook geändert habe. Hier muss ich natürlich bei der
+Synchronisation darauf hingewiesen werden und sollte die Wahl haben
+welche Datei nun als die "Richtige" auf beiden System
+übrigbleibt. Natürlich können auch beide Dateien Berechtigung haben,
+dann sollte es möglich sein diese beiden ineinander zu einer neuen
+Datei zu verschmelzen (dazu gibt es unter Linux beispielsweise das
+Werkzeug [merge](http://linux.die.net/man/1/merge)).
+
+Deartiges könnte man nun natürlich, und das hat ich auch ursprünglich
+vor, mit [rsync](http://samba.anu.edu.au/rsync/) realisieren. Eine
+Beispielhafte Implementierung hat hier Thomas Hildmann von der
+TU-Berlin geschaffen ([Link zum
+PDF](http://www.prz.tu-berlin.de/~hildmann/laptop-sync/laptop-sync-howto.pdf)),
+welche jedoch in für mich kritischen Punkten keine akzeptable Lösung
+darstellt. Hier wird bei gleichzeitiger Änderung einer Datei auf
+Desktop und Notebook ohne Nachfrage die Datei neueren Datums in jedem
+Falle jene älteren Datums ersetzen. Des Weiteren lässt sich eine Datei
+nur permanent löschen, wenn Sie zuvor manuell auf beiden System
+entfernt wurde.
+Der Autor macht allerdings darauf aufmerksam, dass diese Grenzen
+möglicherweise von dem Programm Unison überwunden werden können.
+
+Unison kann ich wirklich ohne Bedenken empfehlen. Sämtliche von mich
+an ein Synchronisationsprogramm gestellten Anforderung erfüllt dieses
+Meisterhaft. Dank der hervorragenden Dokumentation versteht man sehr
+schnell wie man das Programm seinen Bedürfnissen anpassen kann. Für
+Konsolenmuffel gibt es weiterhin auch noch ein (optionales), auf GTK2
+aufbauendes, grafisches Interface, jedoch hat man damit nur Zugriff
+auf rudimentäre Funktionen. Es empfiehlt sich manuell eine
+Konfigurationsdatei anzulegen, in der unter anderem die zu
+synchronisierenden Pfade und Ausschlussmuster festgelegt
+sind. Letzteres nutze ich beispielsweise um zwar mein
+[Seamonkey](http://www.seamonkey.at/)-Profil komplett zu
+synchronisieren, sämtliche Cachedateien in diesen Ordnern können aber
+getrost ignoriert werden. Hat man diese angelegt, kann man ruhigen
+Gewissens die grafische Oberfläche zum synchronisieren verweden. Hier
+kann man vor der eigentlichen Synchronisation sich anschauen was
+eigentlich passiert und im Konfliktfall (Änderung einer Datei auf
+Notebook und Desktop) kann man die Entscheidung zwischen den Dateien
+oder gar verschmelzen treffen. Dies kann man auch tun, wenn man mit
+dem Vorschlag des Programms mal nicht konform gehen sollte (z.B. wenn
+man das während der Zugfahrt bearbeitete Kapitel zuhause doch lieber
+wieder in der ursprünglichen Version auf beiden Rechnern vorliegen
+hätte). Erst nach diesem Abgleich, der im Normalfall eigentlich keiner
+Interaktion mit dem Benutzer bedarf, folgt einem Klick auf "Go" der
+eigentliche Synchronisationsvorgang. Dieser hat einen rsync-ähnlichen
+Algorithmus als Basis, d.h. es werden nur Änderungen an Dateien über
+die Leitung (bzw. das WLAN) übertragen, was natürlich einen
+entsprechenden Geschwindigkeitsvorteil mit sich bringt.
+
+Unsion funktioniert auf den gängigen Betriebssystemen (Win, Mac,
+<*>nix), jedoch kommt es zu Problemen, falls man Dateien die keine
+ASCII-Zeichen im Dateinamen enthalten zwischen unterschiedlichen
+Betriebssystemvarianten synchroniseren muss. Für all jene, die dies
+nicht müssen ist Unison allerdings die erste Wahl wenn es um
+die Synchronisation von Daten auf verschiedenen Computerarbeitsplätzen
+geht.
+
+*Mehr Infos und Download:*
+<http://www.cis.upenn.edu/~bcpierce/unison/index.html>
+END-----

@@ -1,0 +1,24 @@
+TITLE: Kommentarfunktion und Feedburner Feed 
+AUTHOR: Christian Herenz
+DATE: 15.03.2008 14:04 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Ich werde heute auf jedenfall die Kommentarfunktion einbauen und den 
+Feedburner Feed auf den Feed, den dieses Blog generiert, umschwenken.
+<br>Den Feedburnerfeed werde ich aber nicht mehr weiter bewerben, 
+hatte ich diesen doch damals nur aufgrund der Tatsache, dass bei 
+myblog.de kein Atom Feed ausgeliefert werden konnte eingebaut. 
+Gottseidank liefert nanoblogger aber einen Atom Feed aus. Sollte es 
+keine starken Proteste geben wird der RSS 2 Feed die nächsten Tage 
+auch verschwinden, schließlich sollten alle Reader mitlerweile auch 
+Atom sprechen können.<br><br>
+
+Wer jetzt noch ein bisschen interessante Lektüre möchte, dem empfehle 
+ich meine <a 
+href="http://people.physik.hu-berlin.de/~herenz/linux_software_physik.html">
+Linux-Software Empfehlungen mit Bezug zur Physik</a>, die  etwas verspätet 
+auf meiner Homepage am Institut für Physik online  gestellt  wurden.
+END-----

@@ -1,0 +1,22 @@
+TITLE: Ich hab einen Jabber-Account
+AUTHOR: Christian Herenz
+DATE: 25.09.2010 20:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Hey, falls jemand mal mit mir chatten möchte, ich bin jetzt auch über
+Jabber (eigentlich XMPP) erreichbar:
+
+`knusper@jabber.ccc.de`
+
+Ein Onlinestatusindikator auf dieser Seite folgt bald.
+
+**Update:** Es gibt jetzt auf der rechten Seite einen Indikator, der
+  anzeigt ob ich über Jabber/XMPP erreichbar bin. Der darunterliegende
+  Link wird wahrscheinlich bei den wenigsten funktionieren, denn
+  obwohl das zugrundeliegende URI Schema von der IETF zertifiziert
+  ist, gibt es kaum eine vorinstallierte Implementation.
+
+END-----

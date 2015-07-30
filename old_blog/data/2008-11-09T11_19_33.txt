@@ -1,0 +1,12 @@
+TITLE: Tanzende Schwarze Löcher
+AUTHOR: Christian Herenz
+DATE: 09.11.2008 11:19 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gibts nicht? ... Gibts [doch!](http://antwrp.gsfc.nasa.gov/apod/ap081109.html)
+
+[ Two Black Holes Dancing in 3C 75 @ apod](http://antwrp.gsfc.nasa.gov/apod/ap081109.html)
+END-----

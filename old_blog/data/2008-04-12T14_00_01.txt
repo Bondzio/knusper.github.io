@@ -1,0 +1,16 @@
+TITLE: Heute ist mal wieder alles mist... 
+AUTHOR: Christian Herenz
+DATE: 12.04.2008 14:00 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Heute will irgendwie garnichts funktionieren...
+Beim Import von CSV Dateien (speziell der meiner Discogs-Angebote) stürzt
+openOffice ab.
+
+Mein [Drucker spinnt ja auch schon eine Weile](http://amor.cms.hu-berlin.de/~herenzed/blog/archives/2008/03/20/druckprobleme_pt__2/index.html), deswegen wollte ich mal das Angebot bei [HD-Computer](http://www.hd-computer.de) abchecken, meinem Dealer wenn es um Hardware geht, aber bei denen funktionier heute auch irgendwie nichts, zumindest nicht die Website.
+
+Nun gut... Dann geh ich jetzt raus!
+END-----

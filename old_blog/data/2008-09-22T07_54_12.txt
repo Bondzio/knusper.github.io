@@ -1,0 +1,12 @@
+TITLE: Kvpnc 0.9.1 RC2
+AUTHOR: Christian Herenz
+DATE: 22.09.2008 07:54 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Der neue Releascanidate von Kvpnc 0.9.1 ist veröffentlicht wurden. Speziell in Bezug auf openvpn wurden einige Fehler behoben, so dass jetzt definitiv keine Fehler mehr mit dem openVPN Zugang der HU-Berlin auftreten sollten. Falls doch, einfach bescheid sagen.
+
+<http://home.gna.org/kvpnc/de_DE/index.html>
+END-----

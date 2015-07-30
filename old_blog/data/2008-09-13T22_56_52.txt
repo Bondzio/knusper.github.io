@@ -1,0 +1,75 @@
+TITLE: reCAPTCHA - Menschen sind die besseren Computer
+AUTHOR: Christian Herenz
+DATE: 13.09.2008 22:56 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Wenn man sich auf einer Internetseite anmeldet, bekommt man meist ein
+sogenanntes CAPTCHA angezeigt - eine kleine Grafik in der ein
+verzerrter Buchstabensalat zu entziffern ist. Diese Aufgabe ist für
+Menschen ein leichtes, doch Computer können sie in der Regel nicht
+meistern. Deshalb werden diese "Tests" dazu genutzt, das
+automatisierte Anmelden bei Webdiensten zu unterbinden.
+
+Seit ca. 1 Jahr ist der Service [reCAPTCHA](http://recaptcha.net/)
+aktiv, welcher die menschliche Leistung die im "Lösen" von Captchas
+steckt zusätzlich positiv nutzt, während diese bei anderen
+Captcha-Diensten schlichtweg verschwendet wird. Die im Vergleich zu Computern
+herausragenden Texterkennungsfähigkeiten von Menschen dienen bei
+reCAPTCHA dem Zweck der Digitalisierung alter Bücher.
+
+
+In einem Artikel, der diese Woche im [Science
+Magazin](http://www.sciencemag.org/) publiziert wurde, präsentieren
+die Erfinder von reCAPTCHA, ein Team von Informatikern der Carnegie
+Mellon University in Pittsburgh, detaliert ihre Methoden und geben die
+Ergebnisse nach einjähriger Web-Präsenz des Dienstes an. Tatsächlich
+kommt reCAPTCHA auf eine Genaugkeit bei der Digitalisierung von über
+99 %, was anhand von Stichproben mit professionellen "Abtippern"
+verglichen wurde.
+
+Das Ergebniss ist in vielerlei Hinsicht bemerkenswert, denn einerseits
+brauchen die Benutzer bei reCAPTCHA nicht mehr Zeit als bei
+herkömmlichen Captchas um die Aufgaben zu lösen, andererseits ist die
+Genauigkeit der besten OCR Programme heutzutage noch weit von dieser
+Marke entfernt. Durch die große Popularität die der Dienst mitlerweile
+im Netz erfahren hat, wird mitlerweile ein Volumen von
+rund 160 Büchern pro Tag  digitalisiert. Um dieses Aufkommen mit
+der erforderten Genauigkeit zu erreichen, müsste man 1500 Leute, die
+40 Stunden in der Woche 60 Wörter pro Minute abtippen würden,
+beschäftigen.
+
+In einem breiteren Kontext sehen die Wissenschaftler ihre Arbeit
+allerdings nur als spezielle Realisierung einer allgemeineren Idee,
+dem "Human Computing". Zum Beispiel könne das Potential, welches
+Menschen beim interagieren mit Computerspielen aufbringen, zur Lösung
+wissenschaftlicher Aufgaben genutzt werden. Auch hier existiert
+mitlerweile schon eine erste "proof-of-concept" Anwendung im Netz:
+[Fold.it](http://fold.it/) ist ein Spiel, bei dem der Spieler
+nebenbei komplexe Probleme der Biologie löst, die ein Computer nicht
+bearbeiten könnte.
+
+*Science 12 September 2008:
+Vol. 321. no. 5895, pp. 1465 - 1468
+DOI:
+[10.1126/science.1160379](http://www.sciencemag.org/cgi/content/abstract/321/5895/1465)*
+
+**Nachschlag:** Interessanterweise ist in der letzten Ausgabe der
+[Nature](http://www.nature.com/) ein Essay über eine Gruppe Frauen am
+Harvard Observatory Ende des 19 Jahrhunderts. Damals gab es noch keine
+Computer, so dass diese "Harvard Computers" genannten Damen die
+Astronomen bei der Auswertung fotografischer Platten unterstützten,
+indem Sie jene mit der Lupe sondierten und ihre Ergebnisse
+protokollierten.  Tatsächlich sind auch heutzutage einige Aufgaben der
+astronomischen Datenerfassung bzw. Datenverarbeitung nicht
+automatisierbar. Als Beispiel sei hier nur das
+[Galaxy-Zoo](http://www.galaxyzoo.org/) Projekt genannt, bei denen
+mitlerweile über 100.000 freiwilige dabei helfen die Galaxien des
+[Sloan Digital Sky Survey](http://www.sdss.org/) morphologisch zu
+klassifizieren.
+
+*Nature 455, 36-37 (4 September 2008) 
+doi:[10.1038/455036a](http://www.nature.com/nature/journal/v455/n7209/full/455036a.html)*
+END-----

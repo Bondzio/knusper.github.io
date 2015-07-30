@@ -1,0 +1,10 @@
+TITLE: Gone Fishing...
+AUTHOR: Christian Herenz
+DATE: 05.08.2008 20:38 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Bin dann mal im Urlaub - catch me in NYC...
+END-----

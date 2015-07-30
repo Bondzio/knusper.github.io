@@ -1,0 +1,40 @@
+TITLE: KMail (Kontact) Rant!
+AUTHOR: Christian Herenz
+DATE: 06.03.2009 02:52 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe heute den ganzen Tag versucht auf meinem Laptop die [Kontact
+Suite von KDE4](http://de.wikipedia.org/wiki/KMail) benutzbar zu machen. Etliche Abstürze später bin ich zu
+dem Schluss gekommen, dass diese Software offenbar keinen anderen
+Zweck besitzt als gut auszusehen. Mir unklar, wieso dieses Programm
+überhaupt mal einen Preis gewinnen konnte.
+
+Auf den ersten Blick macht es alles einen sehr aufgeräumten Eindruck,
+und nachdem man das Programm gestartet hat, freut man sich direkt
+darauf mit ihm nun arbeiten zu wollen. Die Lust schlägt jedoch bald in
+Frust um. Wo ich in Thunderbird bzw. Seamonkey meine gesamten
+Einstellungen innerhalb weniger Minuten gemacht habe, ist es mir nicht
+gelungen meine 3 Mailaccounts auch nur annähernd funktionsfähig zu
+bekommen. Wer programmiert denn bitteschön solch einen Mist?
+Arbeitslose Hartz 4 Empfänger?
+
+Die gesamte Kontact Suite ist bestimmt ganz nett, nur wenn die
+zentrale Komponente eine deartige "piece-of-shit" Software ist, dann
+brauch ich den Rest auch nicht.
+
+Ich könnte jetzt hier ins Detail gehen, genausogut könnte ich bestimmt
+10-12 Bugreports schreiben, aber dass lass ich lieber mal bleiben. Ich
+dachte, dass ist ein Programm für Hardcore-Mail User wie mich... Aber
+mein "Usecase" mit 3 IMAP Accounts, zig Mailinglisten, Tonnenweise
+Spam ist offensichtlich zuviel für das Programm. Eigentlich hätte ich
+wahrscheinlich schon aufhören müssen, als ich koppfschüttelnd zur
+Kenntniss nahm, das sämtliche den Mailverkehr betreffenden
+Einstellungen in dem selben Dialog "KMail Einrichten" gleichberechtigt
+mit "kosmetischen" Einstellungen aufgelistet werden. 
+
+Überhaupt, wie konnt ich blos auf die dämliche Idee kommen, das überhaupt auszuprobieren...
+
+END-----

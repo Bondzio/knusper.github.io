@@ -1,0 +1,35 @@
+TITLE: knusper.tumblr.com
+AUTHOR: Christian Herenz
+DATE: 11.03.2010 18:41 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Der nächste Web 2.0 Hype, den ich mitmache - tumblr!
+
+Mein Tumblr-MicroBlog ist unter
+[knusper.tumblr.com](http://knusper.tumblr.com/) zu finden. Damit
+verbunden wird sich auch die Ausrichtung dieses Blogs etwas ändern. In
+Zukunft werden im Knusperfrühstück nur noch ernsthaftere, längere
+Beiträge zu finden sein (wenn ich denn nun mal Lust habe solche zu
+schreiben). Inhaltlich bleibt es aber beim Alten: Rants aus meinem
+Leben, Studium, Physik, Computer und solches Zeug. Für die ganzen
+Bits'n'Pieces, die sich sonst so unter Tage ansammelten, stellte sich
+[Nanoblogger](http://nanoblogger.sourceforge.net/) als zu Zäh und
+Träge dar. Das generieren von statischen HTML-Seiten mit einem
+Bash-Skript nimmt eben doch schon etwas Zeit in Anspruch. Dies hatte
+zur Folge, das ich oftmals etwas interesanntes einfach nicht
+bloggte. Tumblr hingegen ist ideal dafür geeignet schnell mal eben ein
+Video, ein Bild oder ein Soundfile zu posten. Mit
+[Tumble](http://febuiles.github.com/tumble/) gibt es auch eine coole
+Erweiterung für Emacs, die es erlaubt
+[knusper.tumblr.com](http://knusper.tumblr.com/) direkt aus meinem
+Lieblingseditor füttern.
+
+Hier nochmal die wichtigesten Adressen zum Mitschreiben:
+
+**Knusper Snacks Tumblr! Blog @ [knusper.tumblr.com](http://knusper.tumblr.com/)**
+
+**zugehöriger RSS-Feed @ <http://feeds.feedburner.com/KnusperSnacks>**
+END-----

@@ -1,0 +1,15 @@
+TITLE: FedEx Website und Linux 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 08:51 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Ich musste gerade feststellen, das die FedEx Website Linux-Inkompatibel ist.
+So was dürftes doch garnicht geben? Was kann den eine Website Linux-Inkompatibel machen,
+höchstens irgendwelche exotischen Multimedia-Formate, aber ein Tarif und Laufzeitenrechner??
+Eigentlich funktioniert der sogar, wenn man sich nicht dadurch gestört fühlt, das nach jeder Auswahl und Eingabe
+ein Popupfenster erscheint, was einen drauf hinweist, dass die Seite eigentlich nicht funktionieren sollte.<br>
+FedEx: 6 Setzen!
+END-----

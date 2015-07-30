@@ -1,0 +1,31 @@
+TITLE: Update: Miro 1.2 
+AUTHOR: Christian Herenz
+DATE: 21.03.2008 21:15 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Miro - Firefox für Internetvideo sozusagen, hat heute eine neue Version veröffentlicht:
+
+*This version adds lots of tweaks and bug fixes that make Miro smoother and slicker. It also lays the groundwork for some big improvements that are coming soon. Version 1.2 is the best Miro yet.*
+
+Kleiner Auszug aus dem Changelog:
+
+***Some of What’s New in Miro 1.2***
+
+
+-  On Windows and Linux, we updated to XULRunner 1.9, which brings memory and performance improvements. 
+-  We’ve added a much-requested preference to set new channels to not auto-download.
+-  New preferences for tweaking number of simultaneous auto-downloads and torrent seeding.
+-  Important re-architecting of the frontend and backend code.
+-  Lots of bug fixes and tweaks.
+-  On OSX, we updated to Perian 1.1.
+-  On Windows, the Miro installer is now much simpler and prettier.
+-  Improved support for Flash in Channel Guide pages.
+-  Improved translations for dozens of languages.
+
+
+Also... Worauf wartet ihr noch:
+<http://www.getmiro.com>
+END-----

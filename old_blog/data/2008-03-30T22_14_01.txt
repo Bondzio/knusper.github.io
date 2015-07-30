@@ -1,0 +1,17 @@
+TITLE: Meth Minute 39 - Wang Warriors 
+AUTHOR: Christian Herenz
+DATE: 30.03.2008 22:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Der Animator [Dan Meth](http://danmeth.com/) stellt jede Woche eine exklusive Episode
+auf dem Cartoon-Video-Podcast [channelfrederator](http://www.channelfrederator.com/) bereit.
+
+Die aktuelle Episode ist mal wieder ein totaler Brüller, hab unterm
+Tisch gelegen... Aber seht selbst:
+
+
+<embed src="http://www.channelfrederator.com/embed/player" width="450" height="390" allowScriptAccess="always" FlashVars="video_file=http://www.channelfrederator.com/embed/play/TMM_20080327" wmode="transparent" type="application/x-shockwave-flash"></embed>
+END-----

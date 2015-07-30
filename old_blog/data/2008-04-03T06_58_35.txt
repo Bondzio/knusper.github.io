@@ -1,0 +1,14 @@
+TITLE: 7 Weltwunder der Ingenieurskunst 
+AUTHOR: Christian Herenz
+DATE: 03.04.2008 06:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich liebe ja so Artikel mit vielen Bildern und so:
+
+*Would you believe that the tallest bridge in France reaches higher than the Eiffel tower, or that a single dam in China can hold back 1.4 trillion cubic feet or water? Each of the projects depicted here has set at least one world record for its height, scale, daring or ingenuity. From Venice to Boston, Egypt to England, here are seven amazing engineering wonders of the modern world.*
+
+[Web Urbanist - 7 Engineering Wonders of the Modern World](http://weburbanist.com/2007/11/07/7-engineering-wonders-of-the-modern-world-bridges-dams-and-more/)
+END-----

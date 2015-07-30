@@ -1,0 +1,20 @@
+TITLE: Zeichnen auf GoogleMaps
+AUTHOR: Christian Herenz
+DATE: 05.10.2008 21:41 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Mir ist es schon oft passiert als ich einen Treffpunkt mit jemanden vereinbaren wollte, ich mir bezüglich Spezifizierung des selbigen wünschte handgezeichnete Annotationen auf GoogleMaps unterzubringen.
+
+Geht doch... Mit:
+
+<http://quikmaps.com/>
+
+Kleines Beispiel:
+
+<iframe src="http://quikmaps.com/ext2/81235?t=1&ln=0&sn=1&zb=0&d=1&o=0&lat=52.47843009010999&lng=13.439194858074188&zl=19&mt=1" frameborder="0" scrolling="no" width="361" height="342" marginwidth="0" marginheight="0"></iframe>
+
+Genial!!!
+END-----

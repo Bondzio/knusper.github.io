@@ -1,0 +1,17 @@
+TITLE: ADS 2 KML
+AUTHOR: Christian Herenz
+DATE: 30.09.2008 14:54 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Da hat doch glatt jemand einen Hack geschrieben,der das [Astrohphysical Database System (ADS)](http://esoads.eso.org/) mit [Google Sky](http://www.google.com/sky/) ([KML](http://de.wikipedia.org/wiki/Keyhole_Markup_Language)) verknüpft. Ist zwar in Perl, aber da Drück ich mal in anbetracht des Innovationsgrades sämtliche Augen inkl. Hüneraugen zu.
+
+Das Skript funktioniert ungefähr so:
+
+*Do an ADS query and look for all the papers with links into SIMBAD, then do a series of follow-up queries on SIMBAD and grab all of the objects mentioned in the papers. Then generate a KML file of your publication history, which you can either display directly in Google Sky, or embed into a Google Maps for Sky as I've done above.*
+
+Mehr:
+<http://www.dailyack.com/2008/09/ads-to-kml.html>
+END-----

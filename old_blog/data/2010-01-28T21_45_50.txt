@@ -1,0 +1,32 @@
+TITLE: First Class House Music für die kalten Tage - Tobfunk Vol. 7
+AUTHOR: Christian Herenz
+DATE: 28.01.2010 21:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Diesen Mix muss ich einfach hier posten. Gezaubert von dem Meister der
+Deepness Tobi Tobsucht werden hier die kalten Tage durch warme Sounds
+glatt zu einem Genuss. Nummer 7 der Tobfunk Mixserie beweißt
+eindrucksvoll, das elektronische Musik sehr viel Soul besitzen
+kann. 17 Tracks, teilweise durch sehr lange Übergänge ineinander
+geblendet, werden den Hörer für eine Spielzeit von rund anderthalb
+Stunden so richtig verwöhnen. Am Besten auf einer Anlage mit viel Bass
+zu genießen!
+
+
+<div><object width="300" height="300"><param name="movie"
+value="http://www.mixcloud.com/media/swf/player/mixcloudLoader.swf?v=17"></param><param
+name="allowFullScreen" value="true"></param><param
+name="allowscriptaccess" value="always"></param><param
+name="flashVars"
+value="feed=http://www.mixcloud.com/api/1/cloudcast/tobitobsucht/tobfunk-mix-7-back-to-the-power.json"></param><embed
+src="http://www.mixcloud.com/media/swf/player/mixcloudLoader.swf?v=17"
+type="application/x-shockwave-flash" allowscriptaccess="always"
+allowfullscreen="false"
+flashvars="feed=http://www.mixcloud.com/api/1/cloudcast/tobitobsucht/tobfunk-mix-7-back-to-the-power.json"
+width="300" height="300"></embed></object>
+
+
+END-----

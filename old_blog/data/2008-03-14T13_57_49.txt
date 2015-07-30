@@ -1,0 +1,10 @@
+TITLE: Test
+AUTHOR: Christian Herenz
+DATE: 14.03.2008 13:57 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<img src="http://farm3.static.flickr.com/2169/2326683281_7651e13dd6.jpg?v=0" alt="testimage"/>
+END-----

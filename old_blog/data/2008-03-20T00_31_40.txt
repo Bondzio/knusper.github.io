@@ -1,0 +1,39 @@
+TITLE: Nanoblogger mit rsync
+AUTHOR: Christian Herenz
+DATE: 20.03.2008 00:31 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+[rsync][1] ist das beste Synchronisationstool, was je erschafffen
+wurde. Es eignet sich zum erstellen von lokalen Backups genauso wie
+zum spiegeln irgendwelcher Webserver. 
+
+In Kombination mit Nanoblogger kann man es sogar als Publishing Tool
+verwenden. Einfach in der Datei "blog.conf" folgende Zeile editieren:
+
+
+	   # command to run when publishing your weblog to a remote site.
+	   # used by the option and prompt for publishing (when set).
+	   BLOG_PUBLISH_CMD="rsync -av --delete
+	    /home/knusper/Documents/Homepages/rz.hu-berlin.de/blog/
+	    herenzed@amor.cms.hu-berlin.de:./public_html/blog/"
+
+
+Nachdem man jetzt lokal seinen Eintrag erstellt hat, wird alles
+ruck-zuck auf den Webserver geschoben. Bei mir befindet sich das Blog
+auf meinem Rechner unter
+/home/knusper/Documents/Homepages/rz.hu-berlin.de/blog
+und via [sftp][2] loggt sich rsync im Rechenzentrum ein. Statt nun
+alle Dateien rüberzuschieben überprüft er nur, was sich an Dateien
+geändert hat, und statt nun diese Dateien komplett zu überspielen wird
+auch nur die Datei entsprechend auf den aktuellsten Stand
+gebracht. Bei den paar HTML Dateien, die Nanoblogger generiert, kann
+man garnicht so schnell schauen, wie das passiert.
+
+Genial...
+
+[1]: http://de.wikipedia.org/wiki/Rsync 
+[2]: http://de.wikipedia.org/wiki/Secure_File_Transfer_Protocol
+END-----

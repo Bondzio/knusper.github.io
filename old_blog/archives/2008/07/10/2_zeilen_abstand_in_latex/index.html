@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="generator" content="NanoBlogger 3.3" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="31 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+
+<title>2 Zeilen Abstand in LaTeX | Knusperfrühstück</title>
+
+<link rel="stylesheet" href="../../../../../styles/nb_steelblue_variant.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../../../../styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="../../../../../images/favicon.ico" />
+<!-- <link rel="alternate" type="application/atom+xml"
+title="Atom 1.0"
+href="../../../../../atom.xml"
+/>
+<link rel="alternate" type="application/rss+xml"
+title="RSS 2.0"
+href="../../../../../rss.xml"
+/>
+ -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="../../../../../index.html" accesskey="1">Knusperfrühstück</a></h1>
+		<span class="description">Der gesunde Start in den Tag</span>
+	</div>
+	<div id="altcontent">
+		<div id="wrap">
+			<a id="top"></a>
+			<div id="menu">
+				<a href="../../../../../index.html">Main</a> &#62;
+				<a href="../../../../../archives/index.html">Archives</a> &#62;
+				<a href="../../../../../archives/2008/index.html">2008</a> &#62;
+				<a href="../../../../../archives/2008/07/index.html">07</a> &#62;
+				<a href="../../../../../archives/2008/07/10/index.html">10</a> &#62;
+				<br />
+<a href="../../../../../archives/2008/07/08/wörter_zählen_in_emacs/index.html">&#60;</a>
+				19:54:06
+<a href="../../../../../archives/2008/07/14/prüfungsstress/index.html">&#62;</a>
+			</div>
+			<div class="archives">
+				<h2 class="date">
+	10.07.2008 19:54 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-07-10T19_54_06.txt"></a>
+	<h3 class="title">2 Zeilen Abstand in LaTeX</h3>
+	<p>Ich mach ja zur Zeit als BZQ (Berufsfeldbezogene Zusatzqualifikation) einen
+Englischkurs am Sprachzentrum. Da ich meinen ganzen Schreibkram nur noch mit
+LaTeX mache, hab ich natürlich auch meine Essays damit geschrieben. Dabei lege
+ich erst eine normale Textdatei an, in der ich mich voll und ganz auf den
+Inhalt konzentriere. Wichtig ist nur, das Absätze durch eine Leerzeile
+getrennt werden, damit der LaTeX das am Ende auch richtig formatiert. Nachdem
+ich meinen Textbeendet habe, füge ich noch ein simples LaTeX gerüst drum und
+fertig ist ein ansprechend formatiertes Essay &ndash; denn Word ist was für Pussies!</p>
+
+<pre><code>   \documentclass[a4paper,DIV14]{scrartcl}
+   \usepackage[latin9]{inputenc}
+   \linespread{2}
+   \begin{document}
+   \title{ --- Title goes here ---}
+   \author{ --- Name &amp; Mat.-Nr. ---}
+   --- Text ---
+   \end{document}
+</code></pre>
+
+<p>Die Dozentin möchte zum Kopieren in jedem Falle 2 Zeilen Abstand haben &ndash; dies
+lässt sich einfach mit <em>\linespread{Faktor}</em> realisieren, wobei der Faktor
+nicht unbedingt ganzzahlig gewählt werden muss.</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/07/10/2_zeilen_abstand_in_latex/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2008/07/10/2_zeilen_abstand_in_latex/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/07/10/2_zeilen_abstand_in_latex/index.html');" target="_self"><script type="text/javascript">postCount('2008/07/10/2_zeilen_abstand_in_latex/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/07/10/2_zeilen_abstand_in_latex/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/07/10/2_zeilen_abstand_in_latex/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="menu">
+		<a href="#top">&#47;&#92;</a><br />
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+<div class="item">
+	<a id="e2008-04-04T11_32_49.txt"></a>
+	<h2 class="date">04.04.2008 11:32 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">How Open is openSUSE? </h3>
+		<div class="item-description">
+			<p>Vor einiger Zeit habe ich mal einen <a href="https://bugzilla.novell.com/show_bug.cgi?id=282678">Kommentar bezüglich eines Bugs in
+Novells-Bugzilla</a> geschrieben.  Es ging um das &ldquo;Search-Tool&rdquo; Beagle, was
+standardmäßig bei der Installation von openSUSE mitinstalliert wird. Beagle
+ist ein Programm, das sämtliche Verzeichnisse und deren Inhalt katalogisiert,
+was in der Tat eine praktische Sache sein kann. Das Szenario, dass man eine
+Datei auf der Festplatte hat deren Inhalt wichtig ist, man sich aber nur an
+den Inhalt weder aber Ablageort noch Dateiname erinnern kann, soll wohl
+vorkommen. In meinem Fall könnte ich mir, als Besitzer eines ganzen Haufens an
+E-Books, Online-Artikeln und Preprints es durchaus nützlich vorstellen eine
+Volltextsuche durch alle Dokumente zu machen. Aber tatsächlich habe ich dieses
+Feature noch nie gebraucht, vielleicht liegt das auch daran das ich ein
+halbwegs funktionierendes Gedächtnis habe.</p>
+
+<p>Der absolute Downer bei Beagle besteht aber darin, das er ständig auf der
+Festplatte rumschnüffelt und dabei ganz gut Systemresourcen zieht. Bei einem
+modernen Computer fällt das nicht großartig ins Gewicht, aber bei älteren
+Rechnern kann es durchaus den Workflow massiv behindern. Speziell bei Rechnern
+mit weniger RAM ist produktives Arbeiten mit geladenem Beagle
+unmöglich. Natürlich ist es möglich das Teil zu deinstallieren, ein geübter
+Benutzer kann das sogar schon während der Installation machen, aber genau bei
+diesem Punkt hat mein Bugreport, der eigentlich vielmehr ein Featurequest ist,
+angesetzt.</p>
+
+<p>Warum wird das Teil standardmäßig mitinstalliert? Nichts gegen das Programm,
+das ist ein tolles Stück Software und ich kann mir vorstellen, dass viele Leute
+das benutzen, aber es gibt bestimmt genausoviele Leute die das nie in ihrem
+Leben benutzen werden.</p>
+
+<p>Nun war ich in meinem Request nicht so rigeros und habe gesagt: &ldquo;Weg mit dem
+Scheiß&rdquo;, sondern ich hatte mich eingeklinkt in eine Diskussion, die
+Überschrieben war mit:</p>
+
+<p><strong>Easy Way to Disable Beagle During Installation</strong></p>
+
+<p>*Even when started with nice beagle (including the cron-job) can lead to serious
+performance issues on older hardware because of its CPU, RAM and harddisk
+usage, the latter two not being handled by nice AFAIK.</p>
+
+<p>Even if it is only at the beginning, this &ldquo;beginning&rdquo; is the time a user
+measures the performance and snappyness of his new installation and obviously
+this &ldquo;beginning&rdquo; is not a fixed time-period but much longer on older hardware
+with less RAM and slower harddisks.</p>
+
+<p>Advanced users might know how to enter the package-management and disable it,
+most do not and should not have to. A simple checkbox with a line of
+explanation that on older hardware and for those who do not need a
+desktop-search beagle can be disabled completely would suffice.</p>
+
+<p>I am not sure whether strigi will replace beagle for those that install KDE4
+and whether strigi is as performance-hungry as beagle is, yet if so a more
+general checkbox would be the better solution that disables either of the two,
+depending which desktop is installed.*</p>
+
+<p>Der Report, verfasst zum Releastermin von openSUSE 10.2, fast im
+wesentlichen alles zusammen was Faul an dem Teil ist.</p>
+
+<p>Es kommt zu einer kleinen Diskussion auf dem
+Bugtracker, aber im wesentlichen scheinen sich alle Einig zu sein, gute Idee &ndash;
+muss umgesetzt werden. In openSUSE 10.3 ist dieses Feature noch nicht
+enthalten &ndash; wahrscheinlich weil es keiner für wichtig gehalten hat es zu
+implementieren. Vom Programmiertechnischen Aufwand kann es ja nicht so
+schwierig sein, einfach einen Knopf zu machen der ein paar Pakete bei der
+Installation einfach nicht mitinstalliert. Schließlich kann man manuell die
+Abwahl tätigen.</p>
+
+<p>Naja, denke ich mir, wird wohl zu 11.0 dann umgesetzt werden und tatsächlich,
+auf dem Bugtracker erscheint nun auch <em>Moved to the feature tracking tool for
+11.0.</em></p>
+
+<p>Nun, das wird wohl eine andere Datenbank sein, denke ich mir und schreibe den
+Q&amp;A an, wo man denn nun die Diskussion weiterverfolgen könnte. Die Antwort kam
+nun mir doch etwas komisch vor, schließlich dachte ich es handelt sich bei
+openSUSE um ein Projekt welches von der Community vorangetrieben wird, denn
+schließlich steckt das ja schon im Namen:</p>
+
+<p><em>At this moment, it</em> [the database] <em>is still internal, however, we are working on opening it (I 
+hope you understand that especially during the evaluation phase, it is not 
+desirable to open all features and all communication). I'm sorry that I 
+cannot tell when (relevant freatures from)  the database will be public.</em></p>
+
+<p>Beim besten Willen, so richtig verstehen kann ich das nicht. Sollten nicht
+gerade bei einem offenen Betriebssystem alle Features öffentlich diskutiert
+werden? Ich bin sprachlos&hellip;</p>
+
+<p><code>Beitrag zur Diskussion in alt.linux.suse</code></p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2008/04/04/how_open_is_opensuse/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>,
+<!-- Meinung --><a href="../../../../archives/meinung/index.html">Meinung</a>
+<!-- <br /><a href="../../../../archives/2008/04/04/how_open_is_opensuse/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/04/how_open_is_opensuse/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/04/how_open_is_opensuse/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/04/how_open_is_opensuse/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/04/how_open_is_opensuse/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>

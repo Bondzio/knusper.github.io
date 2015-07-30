@@ -1,0 +1,12 @@
+TITLE: Dogglounge.com - Deep House Music Webradio 
+AUTHOR: Christian Herenz
+DATE: 30.03.2008 20:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+[Dogglounge.com](http://www.dogglounge.com/) ist so mit mein Lieblingswebradio.
+24/7 gibt es nur eigentlich nur die feinsten House-Vibes auf die Ohren. Genau das richtige
+für einen chilligen Sonntag.
+END-----

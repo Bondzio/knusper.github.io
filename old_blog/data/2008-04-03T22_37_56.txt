@@ -1,0 +1,15 @@
+TITLE: 5 Möglichkeiten um festzustellen ob der ISP Bittorrent behindert 
+AUTHOR: Christian Herenz
+DATE: 03.04.2008 22:37 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Do your torrent downloads seem to be taking longer than usual? Are you trying to transfer, say, a home video to a friend via Pando and the upload keeps getting stuck? Or maybe you’re having problems with BitTorrent’s new streaming service, which just doesn’t seem to work on your system? There’s a good chance your ISP is at fault, as more and more providers are putting the brakes on BitTorrent these days.*
+
+[newteeve.com](http://newteevee.com/2008/04/02/5-ways-to-test-if-your-isp-throttles-p2p/)
+
+Also, das muss ich mal alles checken. Vielleicht ist man mit Alice! ja doch nicht im Wunderland.
+Interessant übrigens, das das MPG ein Java-Applet und eine Testserver zur Verfügung stellt, mit dem man testen kann ob der Provider schummelt.
+END-----

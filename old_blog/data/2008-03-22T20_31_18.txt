@@ -1,0 +1,19 @@
+TITLE: Conkeror - Der beste Browser aller Zeiten 
+AUTHOR: Christian Herenz
+DATE: 22.03.2008 20:31 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+> Conkeror is a highly programmable web browser for the Mozilla
+  XULRunner platform.  Inspired by Emacs, it has a sophisticated
+  keyboard system for running commands and interacting with webpage
+  DOM.  It can interface with external editors and viewers.  It is
+  self-documenting and extensible with Javascript.
+
+Danach hab ich schon lange gelüstet. Ein Webbrowser, der mit der Engine von Firefox die seiten *rendert*
+und dabei nur mit der Tastatur steuerbar ist.
+
+<http://conkeror.mozdev.org>
+END-----

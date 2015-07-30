@@ -1,0 +1,18 @@
+TITLE: analog-clock.el 
+AUTHOR: Christian Herenz
+DATE: 03.04.2008 07:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Es gibt nun auch eine Analoguhr als Emacs-Skript:
+
+<http://yrk.nfshost.com/repos/analog-clock/analog-clock.el>
+
+Mh... Ich find die hässlich.
+
+Beste Analoguhr für das Terminal ist und bleibt **Clockywock:**
+
+<http://freshmeat.net/projects/clockywock/>
+END-----

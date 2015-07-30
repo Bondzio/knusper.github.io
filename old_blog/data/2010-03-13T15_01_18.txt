@@ -1,0 +1,77 @@
+TITLE: Facebook Chat unter Emacs mit jabber.el
+AUTHOR: Christian Herenz
+DATE: 13.03.2010 15:01 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+[Vor kurzem öffnete](http://www.golem.de/1002/73033.html) Facebook die
+Schnittstelle zu seinem eingebauten Chatsystem. Glücklicherweise setzt
+man dabei auf den offenen Standard [XMPP (früher: Jabber)](http://de.wikipedia.org/wiki/Jabber). Dieses
+Protokoll wird von jedem vernünftigen Multi-Instant-Messenger
+unterstützt. Insbesondere gibt es auch für Emacs die Erweiterung
+[jabber.el](http://emacs-jabber.sourceforge.net/), mit der es möglich ist innerhalb unseres Lieblingseditors
+mit seinen Facebook-Buddies zu chatten (während man beispielsweise
+nebenbei seine Hausaufgaben erledigt).
+
+Für Debian gibt es jabber.el als Paket, mit
+
+`aptitude install emacs-jabber`
+
+ist die Installation erledigt. Auf allen anderen Systemen folge man
+den Installationsanweisungen auf der jabber.el Homepage. 
+
+Die Konfiguration ist auch ziemlich simpel, nach erfolgter
+Installation ruft man einfach 
+
+`M-x jabber-customize`
+
+in Emacs auf. Am wichtigsten ist der Eintrag *Jabber Account
+List*. Nachdem man mit INS einen Eintrag anlegt, trägt man in das Feld
+JID *Username*@chat.facebook.com ein. *Username* ist hierbei durch den
+Facebook-Benutzernamen zu registrieren. Leute die schon länger bei
+Facebook sind, haben vielleicht noch gar keinen solchen Benutzernamen
+und müssen diesen erst anlegen. Dies geschieht unter
+<http://www.facebook.com/username>.
+
+Desweiteren setzt man noch ein Häkchen bei *Connection Type* und wählt
+aus dem Menü *Unecrypted* aus. Man kann auch noch ein Häkchen bei
+*Password* setzen und dann dort sein Passwort eingeben, sollte aber
+bedenken, dass dieses im Klartext im *Emacs-Custom-File* (Standard
+.gnu-emacs-custom) gespeichert wird. Ebenfalls kann man ein Häkchen
+bei *Port* setzen und 5222 eingeben, da dies aber der Standardport für
+unverschlüsselte XMMP-Verbindungen ist, ist diese Information
+eigentlich Redundant. (Bemerkung: Die gesagte Konfiguration erfolgt so
+mit der jabber.el [Version
+0.7.91-2](http://packages.debian.org/lenny/emacs-jabber) in Debian
+Lenny, ob es in der Version 0.8.0, welche auf der jabber.el Homepage
+verfügbar ist Änderungen diesbezüglich gibt, habe ich nicht
+überprüft.)
+
+Nachdem man die Änderungen mit Auswahl von *State* - *Save For Future
+Sessions* permanent gespeichert hat, kann man sich zu Facebook-Chat verbinden, indem man 
+
+`C-x C-j C-c`
+
+drückt. (Merkt man sich z.B. durch "E**x**ecute **J**abber and
+**C**onnect)
+
+Als kleinen Bonus kann man nun noch den Facebook-Chat Sound (Pop)
+einbinden. Man lade dazu den Sound von
+<http://static.ak.fbcdn.net/sound/pop.mp3> herunter und konvertiere
+ihn nach WAV. Am einfachsten geht das z.B. mit [mpg123](http://mpg123.de/):
+
+
+'mpg123 -w .emacs.d/pop.wav -@http://static.ak.fbcdn.net/sound/pop.mp3'
+
+
+In der Customize-Group Jabber-Alerts setzt man dann noch ein Häkchen
+bei *jabber-message-wave* unter *Jabber Alert Message Hooks* und setzt
+die Variable *jabber-alert-message-wave* (am einfachsten drauf klicken
+und im folgenden Buffer auf Customize klicken) auf den Ort an dem sich
+der Pop-Sound als WAV befindet (hier also
+z.B. *~/.emacs.d/pop.wav). Abspeichern (s.O.), umrühren, guten Appetit :)
+
+Für einen Screenshot von Jabber.el in Action, siehe mein [Eintrag bei knusper.tumblr.com](http://knusper.tumblr.com/post/445299171/facebook-chat-in-emacs-it-works-and-also-cool-i).
+END-----

@@ -1,0 +1,22 @@
+TITLE: Warum ich mein Studium gerne habe... 
+AUTHOR: Christian Herenz
+DATE: 05.05.2008 00:06 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Das tolle am Physikstudium ist, das man mit guter Regelmäßigkeit mit Problemen
+konfrontiert wird, bei denen man sich denkt "Das werde ich doch nie gelößt
+bekommen...".
+Dennoch kitzelt es, und man nimmt sich ein leeren Zettel und legt los... Mehr
+und mehr konstruiert sich der Plan im Kopf, während man die Mathematik mit dem
+Bleistift erledigt und plötzlich hat man die Lösung gefunden. 
+
+Da könnte man doch glatt einen Kreditkartenwerbespot drauß machen:
+"Der Schreibtisch: 30 € - Der Bleistift: 1 € - Das Papier: 3 cent - Das
+Gefühl: unbezahlbar" - Es gibt Dinge die kann man nicht mit Geld kaufen, für
+alles andere...
+
+Schöne Woche wünsch ich euch...
+END-----

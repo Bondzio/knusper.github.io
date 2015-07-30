@@ -1,0 +1,21 @@
+TITLE: Websiten aus Neukölln - Heute: Fulda Getränke
+AUTHOR: Christian Herenz
+DATE: 26.08.2008 17:32 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Die Website meines Getränkelieferanten ist einfach nur cool, nur
+leider findet man die nicht.  Der Slogan von denen ist: "Wir jagen den
+Durst!" - heute wäre ich allerdings fast verdustet, denn ich hatte die
+Visitenkarte von denen verloren. Wenn man aber bei Google "Fulda
+Getränke Neukölln" eingibt, findet man zwar [sofort die
+Telefonummer](http://www.11880.com/Suche/fulda-getraenke_berlin.htm),
+aber die Website mit der Preisliste ist auch nach mehrmaligen
+Verfeinerungen der Suche sowohl bei Google als auch bei Yahoo! nicht
+zu finden. Der Typ am Telefon bei Fulda-Getränke meinte allerdings,
+die Seite "ist ja auch nicht so krass und so" ...mh, ich find sie cool:
+
+<http://fulda-getraenke.de>
+END-----

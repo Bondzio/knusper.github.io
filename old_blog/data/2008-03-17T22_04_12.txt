@@ -1,0 +1,12 @@
+TITLE: Rotierender Tersseract 
+AUTHOR: Christian Herenz
+DATE: 17.03.2008 22:04 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Abgefahren, einfach nur abgefahren:<br>
+<img src="http://conflusions.com/wp-content/uploads/2007/11/hypercube-rotation.gif" />
+<br><a href="http://conflusions.com/3d/wow-just-wow/">via Conflusions.com</a>
+END-----

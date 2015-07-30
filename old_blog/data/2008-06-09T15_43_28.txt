@@ -1,0 +1,31 @@
+TITLE: The Online Encyclopedia of Integer-Sequences
+AUTHOR: Christian Herenz
+DATE: 09.06.2008 15:43 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ein Fellow von AMD (Fellows, dass sind 
+Wissenschaftler, die bei Konzernen angestellt sind, aber nicht unbedingt
+relevante Forschung für den Konzern sondern eher Grundlagenforschung
+betreiben) hat schon vor langer, langer Zeit dieses Tool ins Netz gestellt.
+Also vor Web2.0 und so....
+
+Als Gymniasiast fand ich das damals noch eher komisch, aber mitlerweile
+ertappe ich mich dabei, dass ich doch öfter mal, wenn ich im Rahmen einer
+Aufgabe auf eine bestimmte Folge oder Reihe stoße, diese "merkwürdige"
+Enzyklopädie konsultiere.
+
+Man gibt zum Beispiel 1,1,2,3,5,8 ein und kriegt dann alle Folgen geliefert,
+die 1,1,2,3,5,8 enthalten. Und da es eine Enzyklopädie ist, findet man
+natürlich z.B. bei dieser berühmten Sequenz (wer den Namen weiß, kriegt ein
+Eis... notfalls selber nachschauen und schämen) soviel Informationen und
+andere Folgen (oder Partialsummen), dass man gleich das nächste Jahr sich
+vertieft in das Studium nur dieser Sequenz und ihrer Ableger vertiefen könnte
+(inkl. Literatur etc.).
+
+Einfach genial!
+
+<http://www.research.att.com/~njas/sequences/>
+END-----

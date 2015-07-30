@@ -1,0 +1,22 @@
+TITLE: 48 Stunden Neukölln 2010 - komplex650
+AUTHOR: Christian Herenz
+DATE: 20.06.2010 13:06 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Bei den 48 Stunden wird jedes Jahr eindrucksvoll demonstriert,
+wieviel Kreativität in Neukölln beheimatet ist. Nächstes Wochende ist
+es dann wieder soweit:
+
+<object width="480" height="385"><param name="movie"
+value="http://www.youtube.com/v/9RfzAtAxs34&hl=de_DE&fs=1&"></param><param
+name="allowFullScreen" value="true"></param><param
+name="allowscriptaccess" value="always"></param><embed
+src="http://www.youtube.com/v/9RfzAtAxs34&hl=de_DE&fs=1&"
+type="application/x-shockwave-flash" allowscriptaccess="always"
+allowfullscreen="true" width="480" height="385"></embed></object>
+
+<http://www.48-stunden-neukoelln.de/>
+END-----

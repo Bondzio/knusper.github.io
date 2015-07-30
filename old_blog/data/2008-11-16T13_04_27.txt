@@ -1,0 +1,10 @@
+TITLE: Quantum Field Theory - Dyson's Lecture Notes
+AUTHOR: Christian Herenz
+DATE: 16.11.2008 13:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Legendary: Dyson's 1951 Lecture Notes on Advanced Quantum Mechanics (QFT) -[ komplett geTeXt @ arxiv.org](http://arxiv.org/abs/quant-ph/0608140)
+END-----

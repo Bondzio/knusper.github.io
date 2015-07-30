@@ -1,0 +1,20 @@
+TITLE: openSUSE Packaging Day II
+AUTHOR: Christian Herenz
+DATE: 02.04.2008 21:41 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ach... Und ich würde so gerne mitmachen, denn im openSUSE Buildservice kann man Binärpakete für zig Distributionen gleichzeitig erstellen. Die Hardware auf denen die Pakete gebaut werden wird übrigens freundlicherweise von AMD zur Verfügung gestellt. Ach, wie gerne wäre ich dabei:
+
+*Friday, April 4th, 2008 through Saturday, April 5th, 2008 in any timezone that you can imagine. That means from the morning in Europe on Friday, through the late afternoon on Saturday in the Americas.*
+
+*We will help new packagers to create packages for software that isn't currently available for openSUSE. We invite people to roll up their sleeves and get involved. If you have this fancy application or tool that isn't packaged yet, and you're not afraid to learn how to do it yourself, then this is for you.*
+
+Das Problem ist allerdings, das ich gerade in der heißen Phase meiner Prüfungsvorbereitung bin. :(
+Naja, das wird schon nicht der letzte Packaging-Day sein:
+
+<http://en.opensuse.org/Packaging/Packaging_Day>
+
+END-----

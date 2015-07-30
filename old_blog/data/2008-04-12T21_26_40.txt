@@ -1,0 +1,37 @@
+TITLE: Barrierefreiheit... Ach, wozu? 
+AUTHOR: Christian Herenz
+DATE: 12.04.2008 21:26 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Da ich die letzten Tage ein bisschen Zeit hatte, bin ich wahrscheinlich auch
+an irgendwelche Orte im Internet gekommen die ich bis dato noch nicht besucht
+hatte.
+
+Gut, die Webseiten von *Pro7.de* oder der *Major Leauge Baseball* sind jetzt
+(letztere zumindest für Europäer) nicht unbedingt Orte, die man öfters im Netz
+aufsuchen möchte. Jedenfalls sind beide Websiten unter Linux unbedienbar,
+wahrscheinlich laufen sie nur richtig gut im Internetexplorer unter Windows
+Vista. Vergleicht man Marktanteil mit Schrottigkeitsgrad der Sendungen die
+dort laufen, weiß man wie es um den Intelekt der Bevölkerung des Landes der
+Dichter und Denker mitlerweile steht.
+
+Gut, aber das ist ein anderes Thema... Grund für die Unbenutzbarkeit der
+Websiten sind irgendwelche Flash Werbungen, die dahinterliegende
+Bedienelemente einfach verdecken und sich auch nicht wegklicken lassen. Noch
+besser wirds dann, wenn man auf die tolle Idee kommt Flash auszusschalten,
+dann gibts nämlich statt nicht wegklickbarem doofem geblinke einfach einen
+nicht weglickbaren doofen weißen Kasten. Bei dem zugehörigen Designbüro ist
+wahrscheinlich die neue Gattung Mensch in der Führungsetage am Werk, bei der Hirnmasse
+durch das braune Zeug ersetzt wurde, welches jeder normale Mensch nach Verrichtung seines
+Geschäftes im Klo runterspült.
+
+Krone der Penetranz sind ja Neuerdings auch diese Flash Werbevideos die auf allen
+Seiten den Leser davon abhalten, den eigentlichen Artikel zu lesen. Derjenige
+der sich das ausgedacht hat gehört meineserachtens genauso geteert und
+gefedert, wie derjenige der da drauf klickt.
+
+Also, ich finde das ziemlich Scheiße... Ihr nich?
+END-----

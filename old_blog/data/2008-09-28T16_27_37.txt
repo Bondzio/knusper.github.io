@@ -1,0 +1,18 @@
+TITLE: RCola - Nuttin A Go So
+AUTHOR: Christian Herenz
+DATE: 28.09.2008 16:27 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Sonntagsbouncer hier....
+
+<http://www.discogs.com/release/363677>
+
+
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/-ZNcrJHr948&hl=en&fs=1&rel=0&color1=0x234900&color2=0x4e9e00&border=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/-ZNcrJHr948&hl=en&fs=1&rel=0&color1=0x234900&color2=0x4e9e00&border=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="349"></embed></object>
+
+
+Sollte einer das gute Scheibchen zu verkaufen haben, bitte melden!
+END-----

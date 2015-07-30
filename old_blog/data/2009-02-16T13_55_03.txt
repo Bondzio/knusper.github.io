@@ -1,0 +1,25 @@
+TITLE: Minimal Smile 
+AUTHOR: Christian Herenz
+DATE: 16.02.2009 13:55 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![Smileys](http://martifnord.ma.ohost.de/projekte/minismile/png/all.png)
+
+Sehr guter Ansatz:
+
+*minimal smile ist eine kleines, flaches, graues und ..äh.. minimales
+smiley-theme | es wurde gestaltet um endlich ansehnliche smileys in
+wirklich einfachem design zu haben, außerdem sollen sie möglicht für
+wichtige text-smileys angemessene äquivalente darstellen, sie sind bis
+16x16 skaliert ziemlich gut erkennbar und passen zu fast jeder
+farbumgebung*
+
+Download & More @
+
+<http://grueneslicht.blogage.de/entries/2008/2/3/minimal-smile-10-veroeffentlichung>
+
+via [green neutrino](http://sofias.soup.io/post/13066820/minimal-smile-1-0)
+END-----

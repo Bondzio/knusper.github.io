@@ -1,0 +1,42 @@
+TITLE: Snes9X Gamepad in Debian
+AUTHOR: Christian Herenz
+DATE: 07.06.2009 21:59 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Für Besitzer eines Gravis-Gamepads die unter Debian auf eben diesem
+die Orginal SNES Tastenbelegung nachempfinen möchten empfiehlt sich
+folgender (undokumentierter) Weg. 
+
+Die Datei /etc/snes9x/snes9x.conf nach ~/.snes9xsnaphsots/ kopieren
+(ggf. muss das Verzeichnis angelegt werden).
+
+Die Sektion [Unix] dieser Datei sollte folgenden Eintrag enthalten:
+
+
+     Joydev1 = /dev/input/js0
+
+
+Unter diesem Port sollte Debian standardmäßig das Gamepad verwalten.
+Jetzt der wichtige Punkt: Das Mapping der Tasten... Leider funktioniert
+der in der Man-page dokumentierte Weg nicht mehr, denn die Option
+-joymap ist mit der aktuellen in Lenny befindlichen Version von Snes9X
+obsolet. Abhilfe schaffen allerdings folgende Zeilen in der Konfigurationsdatei
+unter der Sektion [Unix/X11 Controls]:
+
+
+      J00:Axis0 = Joypad1 Axis Left/Right T=50%
+      J00:Axis1 = Joypad1 Axis Up/Down T=50%
+      J00:B0 = Joypad1 Y
+      J00:B1 = Joypad1 B
+      J00:B2 = Joypad1 A
+      J00:B3 = Joypad1 X
+      J00:B4 = Joypad1 L
+      J00:B5 = Joypad1 R
+      J00:B8 = Joypad1 Select
+      J00:B9 = Joypad1 Start
+
+
+END-----

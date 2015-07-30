@@ -1,0 +1,96 @@
+<div class="item">
+	<a id="e2009-06-03T22_00_57.txt"></a>
+	<h2 class="date">03.06.2009 22:00 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">Spass im Supermarkt</h3>
+		<div class="item-description">
+			<p><em>Die Gemüsewaagen beim Kaufland rufen die Kunden dazu auf ihre Partnerin zu wechseln. :)</em></p>
+
+<p><img src="http://3.bp.blogspot.com/_YYeA-lwcHBA/SiYkjc2hsQI/AAAAAAAAALU/Evf8FPsl9sE/s320/IMAGE_090-709183.jpg" alt="Bild" /></p>
+
+<p>via <a href="http://thetoms-random-thoughts.blogspot.com/2009/06/aufruf-zur-scheidung.html">Tom&rsquo;s Random Thoughts</a></p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2009/06/03/spass_im_supermarkt/index.html">Permanent Link</a>
+| Categories: <!-- Spass --><a href="../../../../archives/spass/index.html">Spass</a>
+<!-- <br /><a href="../../../../archives/2009/06/03/spass_im_supermarkt/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/03/spass_im_supermarkt/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/03/spass_im_supermarkt/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/03/spass_im_supermarkt/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/03/spass_im_supermarkt/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+<h2 class="date">
+	03.06.2009 22:00 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-06-03T22_00_57.txt"></a>
+	<h3 class="title">Spass im Supermarkt</h3>
+	<p><em>Die Gemüsewaagen beim Kaufland rufen die Kunden dazu auf ihre Partnerin zu wechseln. :)</em></p>
+
+<p><img src="http://3.bp.blogspot.com/_YYeA-lwcHBA/SiYkjc2hsQI/AAAAAAAAALU/Evf8FPsl9sE/s320/IMAGE_090-709183.jpg" alt="Bild" /></p>
+
+<p>via <a href="http://thetoms-random-thoughts.blogspot.com/2009/06/aufruf-zur-scheidung.html">Tom&rsquo;s Random Thoughts</a></p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/06/03/spass_im_supermarkt/index.html">Permanent Link</a>
+| Categories: <!-- Spass --><a href="../../../../../archives/spass/index.html">Spass</a>
+<!-- <br /><a href="../../../../../archives/2009/06/03/spass_im_supermarkt/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/03/spass_im_supermarkt/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/03/spass_im_supermarkt/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/03/spass_im_supermarkt/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/03/spass_im_supermarkt/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+<h2 class="date">
+	07.06.2009 21:59 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-06-07T21_59_44.txt"></a>
+	<h3 class="title">Snes9X Gamepad in Debian</h3>
+	<p>Für Besitzer eines Gravis-Gamepads die unter Debian auf eben diesem
+die Orginal SNES Tastenbelegung nachempfinen möchten empfiehlt sich
+folgender (undokumentierter) Weg. </p>
+
+<p>Die Datei /etc/snes9x/snes9x.conf nach ~/.snes9xsnaphsots/ kopieren
+(ggf. muss das Verzeichnis angelegt werden).</p>
+
+<p>Die Sektion [Unix] dieser Datei sollte folgenden Eintrag enthalten:</p>
+
+<pre><code> Joydev1 = /dev/input/js0
+</code></pre>
+
+<p>Unter diesem Port sollte Debian standardmäßig das Gamepad verwalten.
+Jetzt der wichtige Punkt: Das Mapping der Tasten&hellip; Leider funktioniert
+der in der Man-page dokumentierte Weg nicht mehr, denn die Option
+-joymap ist mit der aktuellen in Lenny befindlichen Version von Snes9X
+obsolet. Abhilfe schaffen allerdings folgende Zeilen in der Konfigurationsdatei
+unter der Sektion [Unix/X11 Controls]:</p>
+
+<pre><code>  J00:Axis0 = Joypad1 Axis Left/Right T=50%
+  J00:Axis1 = Joypad1 Axis Up/Down T=50%
+  J00:B0 = Joypad1 Y
+  J00:B1 = Joypad1 B
+  J00:B2 = Joypad1 A
+  J00:B3 = Joypad1 X
+  J00:B4 = Joypad1 L
+  J00:B5 = Joypad1 R
+  J00:B8 = Joypad1 Select
+  J00:B9 = Joypad1 Start
+</code></pre>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2009/06/07/snes9x_gamepad_in_debian/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCount('2009/06/07/snes9x_gamepad_in_debian/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/06/07/snes9x_gamepad_in_debian/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/06/07/snes9x_gamepad_in_debian/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

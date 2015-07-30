@@ -1,0 +1,16 @@
+TITLE: build.last.fm 
+AUTHOR: Christian Herenz
+DATE: 17.03.2008 21:54 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<i>Today we’re pleased to introduce build.last.fm, a gallery of apps and services that take slices of the Last.fm experience into tons of cool new directions. We’ve only just started adding to it, but — with your help, of course — we expect it to grow quickly! (In features too; stay tuned for search, RSS feeds, user comments, and more.)</i>
+<br><br>
+
+Endlich gibt es also mal eine Übersicht der ganzen tollen Sachen, die man mit Last.fm machen kann. <br>
+Mal sehen was ich hier so in das Blog einbauen kann...
+<br><br>
+<a href="http://build.last.fm/">build.last.fm</a>
+END-----

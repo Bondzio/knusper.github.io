@@ -1,0 +1,12 @@
+TITLE: year++
+AUTHOR: Christian Herenz
+DATE: 31.12.2008 16:08 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Guten Rutsch ins neue Jahr! 
+
+Vorsätze: Bachelor in Physik werden... Alles andere würde ich sowieso nach paar Wochen wieder vergessen!
+END-----

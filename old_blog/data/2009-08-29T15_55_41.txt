@@ -1,0 +1,16 @@
+TITLE: Mr. V feat. Miss Patty
+AUTHOR: Christian Herenz
+DATE: 29.08.2009 15:55 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Jackin' Chicago Hiphouse on Louie Vegas Label "Vega Records" from 2006. Killa!
+
+<a href="http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=4274077">Mr.V feat Miss Patty - Da Bump</a><br/><object width="425px" height="360px" ><param name="allowFullScreen" value="true"/><param name="wmode" value="transparent"/><param name="movie" value="http://mediaservices.myspace.com/services/media/embed.aspx/m=4274077,t=1,mt=video"/><embed src="http://mediaservices.myspace.com/services/media/embed.aspx/m=4274077,t=1,mt=video" width="425" height="360" allowFullScreen="true" type="application/x-shockwave-flash" wmode="transparent"></embed></object>
+
+
+@Discogs: [klick!](http://www.discogs.com/Mr-V-Da-Bump/master/133924)
+
+END-----

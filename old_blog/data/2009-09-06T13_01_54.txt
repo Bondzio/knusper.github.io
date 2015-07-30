@@ -1,0 +1,12 @@
+TITLE: SLS - 6.9. // rockin rosenbatz crib - Liveschalte @ Ustream 
+AUTHOR: Christian Herenz
+DATE: 06.09.2009 13:01 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+LIVE from [Sanomats Place](http://sanomat.org/)
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="320" id="utv149229"><param name="flashvars" value="autoplay=false&amp;brand=embed&amp;cid=1401233"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="movie" value="http://www.ustream.tv/flash/live/1/1401233"/><embed flashvars="autoplay=false&amp;brand=embed&amp;cid=1401233" width="400" height="320" allowfullscreen="true" allowscriptaccess="always" id="utv149229" name="utv_n_557399" src="http://www.ustream.tv/flash/live/1/1401233" type="application/x-shockwave-flash" /></object><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video chat rooms at Ustream</a>
+END-----

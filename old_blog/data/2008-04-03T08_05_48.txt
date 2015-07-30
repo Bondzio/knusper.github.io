@@ -1,0 +1,12 @@
+TITLE: So heizt man seinen Pool! 
+AUTHOR: Christian Herenz
+DATE: 03.04.2008 08:05 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*A new computer center in Switzerland is making novel use of the hot air thrown off by its servers and communications equipment: The heat is being funneled next door to warm the local swimming pool.*
+
+[PhysOrg.com](http://www.physorg.com/news126372792.html)
+END-----

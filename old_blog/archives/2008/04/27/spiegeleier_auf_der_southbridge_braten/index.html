@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="generator" content="NanoBlogger 3.3" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="31 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+
+<title>Spiegeleier auf der Southbridge braten... | Knusperfrühstück</title>
+
+<link rel="stylesheet" href="../../../../../styles/nb_steelblue_variant.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../../../../styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="../../../../../images/favicon.ico" />
+<!-- <link rel="alternate" type="application/atom+xml"
+title="Atom 1.0"
+href="../../../../../atom.xml"
+/>
+<link rel="alternate" type="application/rss+xml"
+title="RSS 2.0"
+href="../../../../../rss.xml"
+/>
+ -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="../../../../../index.html" accesskey="1">Knusperfrühstück</a></h1>
+		<span class="description">Der gesunde Start in den Tag</span>
+	</div>
+	<div id="altcontent">
+		<div id="wrap">
+			<a id="top"></a>
+			<div id="menu">
+				<a href="../../../../../index.html">Main</a> &#62;
+				<a href="../../../../../archives/index.html">Archives</a> &#62;
+				<a href="../../../../../archives/2008/index.html">2008</a> &#62;
+				<a href="../../../../../archives/2008/04/index.html">04</a> &#62;
+				<a href="../../../../../archives/2008/04/27/index.html">27</a> &#62;
+				<br />
+<a href="../../../../../archives/2008/04/24/semester_nimmt_fahrt_auf/index.html">&#60;</a>
+				11:26:41
+<a href="../../../../../archives/2008/04/27/pop-culture_eu/index.html">&#62;</a>
+			</div>
+			<div class="archives">
+				<h2 class="date">
+	27.04.2008 11:26 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-04-27T11_26_41.txt"></a>
+	<h3 class="title">Spiegeleier auf der Southbridge braten...</h3>
+	<p>Eigentlich esse ich ja gerne Spiegeleier zum Frühstück&hellip;. Aber das ist ein
+anderes Thema.</p>
+
+<p>Ich hab mir eine neue Festplatte gekauft. Eine Seagate Baracuda 500 GB &ndash;
+ultraschnell und so &ndash; ihr kenn mich ja, vom feinsten eben. Der Zweck dieser
+Platte soll jener sein, das ich einmal pro Woche oder so mein ganzes
+/home/knusper/ Verzeichniss auf diese Platte inkrementell Spiegle (via
+rsync). Aber schon bei den ersten Anläufen &ldquo;kackte&rdquo; der Prozess nach einer
+Weile ab. In der Busybox (für die, die es nicht kennen&hellip; Wenn unter Linux der
+Computer nichts mehr tut, läuft immer noch eine Shell die Fehler und
+Systemmeldungen ausgibt) war folgendes zu lesen.</p>
+
+<pre><code>  ata1.00: exception Emask 0x0 SAct 0x0 SErr 0x180000 action 0x2 frozen
+  ata1.00: cmd 35/00:00:57:72:00/00:04:00:00:00/e0 tag 0 cdb 0x0 data 524288 out
+           res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x4 (timeout)
+  ata1: port is slow to respond, please be patient (Status 0xd0)
+  ata1: port failed to respond (30 secs, Status 0xd0)
+  ata1: soft resetting port
+  ata1: port is slow to respond, please be patient (Status 0xd0)
+  ata1: port failed to respond (30 secs, Status 0xd0)
+  ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+  ATA: abnormal status 0xD0 on port 0xD807
+</code></pre>
+
+<p>Naja, also meine neue Seagate Super-Duper-Baracuda wird ja wohl nicht gleich
+nach dem einbau rumzigen, zumal die obigen Statusmeldungen mir klarmachen, das
+meine alte, normale Segate-Super-Duper Baracuda rumzickt. Eher per Zufall fand
+ich raus, das der Chip welcher auf dem Mainboard direkt unter den SATA
+Anschlüssen sitzt abnormal heiß wird. Ich wette dass, wenn man den 2 Sekunden
+anfässt, man sich ernsthafte Verbrennungen zuzieht. Wie gesagt, da kann man
+Spiegeleier drauf Braten. Dann habe ich gestern Abend, nachdem mein
+Kommolitone bemerkt hat, das ich der einzigste in seinem Bekanntenkreis bin,
+der sich eine Festplatte zu Backupzwecken kauft, mal Probeweise einen
+Gehäuselüfter auf den Chip ausgerichtet und siehe da: &ldquo;Mit super-duper
+Geschwindigkeit lief das Backup einwandfrei&rdquo;. </p>
+
+<p>Da ich ein isoliertes Gehäuse habe, wird es an einigen Stellen wirklich etwas
+warm (zumal auch meine Grafikarte passiv Gekühlt ist). Allerdings ist auch
+nicht wirklich noch irgendwo Platz für einen Lüfter. Mh&hellip;</p>
+
+<p>Wahrscheinlich werde ich mir so einen <a href="http://www.yatego.com/friese-it/p%2C459d688f5e85b%2C459a6d4614c438_8%2Cantec-spot-cool-80mm">Schwanhals-Lüfter hier</a> kaufen
+müssen.. Oder hat vielleicht jemand einen besseren Tip?</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Leben --><a href="../../../../../archives/leben/index.html">Leben</a>
+<!-- <br /><a href="../../../../../archives/2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/27/spiegeleier_auf_der_southbridge_braten/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="menu">
+		<a href="#top">&#47;&#92;</a><br />
+	</div>
+</div>
+
+</body>
+</html>

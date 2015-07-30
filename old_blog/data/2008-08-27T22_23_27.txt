@@ -1,0 +1,16 @@
+TITLE: Muxtape.com aus - jetzt neu: opentape.fm
+AUTHOR: Christian Herenz
+DATE: 27.08.2008 22:23 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Aufgrund Ärger mit der RIAA ist Muxtape.com gezwungen gewesen, seinen Dienst einzustellen.
+Kein Grund zum Heulen, denn schneller als man einen HD Kinofilm aus Bittorrent ist opentape.fm an den Start gegangen.
+Jetzt brauchen wir nur noch Leute die einen opentape.fm Dienst irgendwo in Malaysia hostet.
+
+<http://opentape.fm/>
+
+
+END-----

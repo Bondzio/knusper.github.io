@@ -1,0 +1,28 @@
+TITLE: Blogroll 
+AUTHOR: Christian Herenz
+DATE: 28.12.2010 20:32 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+
+Auf der rechten Seite findet man nun auch endlich einen
+Blogroll. Das Auswahlkriterium "Eine mir persönlich bekannte Person,
+die bloggt." führte dann doch auf eine sehr kurze und überschaubare
+Liste:
+
+* **mikrophon.** - URL: <http://www.mikrophon.net/> - Autor: k.
+* **Das Bullshit-Bulletin** - URL: <http://bsbulletin.wordpress.com/> - Autor: geheim!
+* **Tobi Tobsucht** - URL: <http://www.tobitobsucht.de/wordpress/> - Autor: Tobi Tobsucht
+* **Schweinkram** - URL: <http://schweinkram.com/> - Autor: sanomat
+* **stypeblog** - URL:  <http://www.dissonanzstudien.de/blog/> - Autor: stype
+* **Anything more or less** - URL: <http://diekershoff.homeunix.net/tobias/> - Autor: bavatar
+
+Allesamt sehr empfehlenswerte Orte im Internet, auch wenn ich mir
+persönlich wünschen würde, das sowohl im Bullshit-Bulletin, als auch
+auf Schweinkram im neuen Jahr dann doch mal wieder etwas häufiger
+etwas veröffentlicht wird. Aber diesbezüglich möchte ich mich selbst
+nicht allzu weit aus dem Fenster lehnen.
+
+END-----

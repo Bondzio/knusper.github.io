@@ -1,0 +1,18 @@
+TITLE: Emacs: Zeilenende durch etwas ersetzen (oder umgekehrt)
+AUTHOR: Christian Herenz
+DATE: 09.12.2008 02:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+In Emacs gibt es das tolle Kommando
+
+     replace-string
+
+Damit werden alle Zeichenketten im Buffer oder im Bereich (sofern ein Bereich markiert wurde) ohne Nachfrage einfach ersetzt. Das geht sogar soweit, das man durch drücken von 
+
+    C-q C-j
+
+ein Zeilenstop einfügen kann. Manchmal durchaus praktisch :)
+END-----

@@ -1,0 +1,22 @@
+TITLE: Curses Frontend für Nanoblogger 
+AUTHOR: Christian Herenz
+DATE: 24.05.2008 14:23 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Das kam gerade via Nanoblogger Mailingliste bei mir ins Postfach rein:
+
+*Hi everyone. I just wanted to announce that I've recently made an easy curses
+front-end for Nanoblogger, for those who prefer a GUI-like interface, but
+dont want a GUI :)
+All it depends on is Bash and the dialog command. You can find it [here](http://www.cli-apps.org/content/show.php/Blog.sh?content=80327&PHPSESSID=80e3c27c8a05de30b5532dc88d94b310) at the
+cli-apps.org website. If there's any suggestions or ideas for improvement, let
+me know.*
+
+Ich finde gut:
+"*for those who prefer a GUI-like interface, but dont want a GUI*"
+
+Solls ja geben, solche Leute...
+END-----

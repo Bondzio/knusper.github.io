@@ -1,0 +1,19 @@
+TITLE: Vorlesungsplan - Vorlage für OpenOffice
+AUTHOR: Christian Herenz
+DATE: 14.04.2008 22:00 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Eigentlich bin ich ja nicht so der Fan von Office Anwendungen, aber mit
+OpenOffice mache ich immer meinen Vorlesungsplan, den ich mir an die Wand
+über meinem Schreibtisch klebe - damit ich immer im Bilde bin, wann denn nun
+welche Veranstaltung ist. Irgendwann hatte ich mal im Netz eine schöne Vorlage
+gefunden, mit der man einen sehr attraktiven Plan in OO gestalten kann. Leider
+weiß ich nicht mehr, wo ich die her habe und wer die gemacht hatte, aber ich
+denke mal derjenige wird nichts dagegegen haben, wenn ich sie hier
+weiterverbreite.
+
+[Vorlesungsplan_Vorlage.ots](http://amor.cms.hu-berlin.de/~herenzed/files/Vorlesungsplan_Vorlage.ots)
+END-----

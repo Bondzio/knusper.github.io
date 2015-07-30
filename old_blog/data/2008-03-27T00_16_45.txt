@@ -1,0 +1,18 @@
+TITLE: Screenshots aus der Konsole
+AUTHOR: Christian Herenz
+DATE: 27.03.2008 00:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Klicki-Bunti-Tools sind was für Looser... Unter Linux macht man einen Screenshot so:
+
+       import -window root screenshot.png
+
+Dazu brauch man eigentlich nur ImageMagick, import ist da mitbei.
+
+In meinem Window-Manager kann man den Befehl einfach auf eine Taste bzw. Tastenkombination legen.
+
+Demnächst dann mehr in diesem Kino...
+END-----

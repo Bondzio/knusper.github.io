@@ -1,0 +1,38 @@
+TITLE: Embedded Youtube & Gnash
+AUTHOR: Christian Herenz
+DATE: 31.08.2008 00:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich versuche den Anteil unfreier (Frei im Sinne von Freiheit) Software
+auf meiner Festplatte zu vermeiden. Ich benutze z.B. weder
+Acrobat-Reader noch Flash. Stattdessen leistet
+[Xpdf](http://www.foolabs.com/xpdf/) ([GNU Pdf](http://gnupdf.org/)
+ist noch im in einem so frühen Entwicklunsgstadium, dass es noch
+keinen Viewer gibt) und [Gnash](http://www.gnu.org/software/gnash/)
+bei mir die Arbeit, Inhalte darzustellen, welche sich sonst nur mit
+propritären Anzeigeprogrammen, die in meinen Augen eine starke
+Einschränkung der Freiheit des Benutzers darstellen. Letztendlich muss
+sich doch jeder im klaren darüber sein, wenn Programme zum Anzeigen
+von Inhalten Firmen gehören, dass diese Firmen prinzipiell die
+Möglichkeit besitzen Inhalte bzw. den Zugriff auf diese zu
+kontrollieren und zu regulieren.
+
+Gnash ist im Moment schon ziemlich gut, einige Flash-Games
+funktionieren problemlos, aber auch die Darstellung von Google-Video
+und Youtube Videos sowie Flashbasierter Werbebanner, sofern man kein
+AdBlock einsetzt. Es gibt aber auch noch mindestens genausoviele, wenn
+nicht sogar mehr Inhalte die Gnash nicht darstellen kann (alles was in
+Flash 9 realisiert ist z.B.). Mir reicht es allerdings aus, da ich 'eh
+nicht so der Flash-Fan bin. Einzig und allein stört mich in der
+aktuellen Version 0.8.3 noch ein Bug, der es nicht erlaubt eingebette
+Youtube Videos in anderen Websiten darzustellen. Doch dazu gibt es ein
+schönes [Greasemonkey](http://www.greasespot.net/) Script, das in [Iceape
+bzw. Iceweasel](http://en.wikipedia.org/wiki/IceApe) (die Debian
+Varianten von SeaMonkey bzw. Firerfox) einen wunderbaren
+Workaround bietet:
+
+<http://www.kryogenix.org/days/2008/02/15/fix-embedded-youtube-videos-for-gnash-users>
+END-----

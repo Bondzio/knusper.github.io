@@ -1,0 +1,16 @@
+TITLE: LaTeX - Platzsparend schreiben
+AUTHOR: Christian Herenz
+DATE: 28.09.2008 18:23 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*A fine paper writing strategy is to write as much as possible, and then to shrink the material to the required number of pages. Close to a paper submission deadline, when you and your co-authors have bleary eyes and empty coffee mugs, the following tricks and tips might help you shrink the size of your paper!*
+
+[LaTeX Tips n Tricks for Conference Papers](http://gurmeetsingh.wordpress.com/2008/09/20/latex-tips-n-tricks-for-conference-papers/)
+
+Könnte mal nützlich sein...
+
+[via [Schockwellenreiter](http://www.schockwellenreiter.de/2008/09/25.html#latexTricks) & [Anarchia](http://anarchaia.org/)]
+END-----

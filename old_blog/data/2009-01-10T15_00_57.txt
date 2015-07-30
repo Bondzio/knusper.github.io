@@ -1,0 +1,19 @@
+TITLE: Milkyway Transit Authority
+AUTHOR: Christian Herenz
+DATE: 10.01.2009 15:00 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Hypothetisches intergalaktisches Transportnetz im Stil des schematischen Plans des U-Bahn Sytems der MTA (Pendant zur BVG in New York) als PDF zum Download (und natürlich zum Ausdrucken!):
+
+
+![Image](http://img339.imageshack.us/img339/494/df6db45358336fa2e4a502bwx3.jpg)
+
+
+
+@ <http://arbesman.net/milkyway/>
+
+[via [Spreeblick](http://www.spreeblick.com/2009/01/09/die-milchstrase-als-u-bahn-plan/)]
+END-----

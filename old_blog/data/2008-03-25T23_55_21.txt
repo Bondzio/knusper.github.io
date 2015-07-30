@@ -1,0 +1,16 @@
+TITLE: Wo wir gerade bei guter Musik sind.... 
+AUTHOR: Christian Herenz
+DATE: 25.03.2008 23:55 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+#PFFR - Superfine#
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/zBrkJwBxHiU&rel=0"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/zBrkJwBxHiU&rel=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+
+*P.S. Lieber YOUTUBE, dein Flash-zum-kopieren-in-die-eigene-Website-Kode ist nicht W3C Konform.
+Etwas ist nicht unbedingt deswegen Standard, weil es alle benutzen... (Wenn man den Gedanken weiterführt, wäre Windows Standard... puhä)*
+END-----

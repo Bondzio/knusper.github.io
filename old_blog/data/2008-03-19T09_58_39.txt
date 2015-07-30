@@ -1,0 +1,47 @@
+TITLE: Haloscan Kommentare in Nanoblogger 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 09:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+Es dürfte für den Einen oder Anderen, der gerne mit 
+[Nanoblogger](http://nanoblogger.sourceforge.net) Bloggen möchte 
+durchaus von Interesse sein, zu erfahren wie man in Nanoblogger eine 
+Kommentarfunktion einbauen kann. Die Orginaldokumentation schweigt 
+sich zu dem Thema ja aus, erwähnt nur einige Tools, mit denen das 
+möglich wäre. Da ich auch [Haloscan](http://www.haloscan.com)
+schon von anderen Blogs in denen ich mal was kommentiert habe kenne, 
+habe ich mich dazu entschlossen dieses Tool für die Kommentarfunktion 
+einzusetzen.
+
+Nach der Anmeldung bei Haloscan klickt man auf Install. Im ersten 
+Schritt wählt man "None of the Above / Manual". Nun kriegt man 2 
+Codefetzen präsentiert. Diese muss man im Prinzip nur noch in die 
+richtigen Dateien einfügen. Nanoblogger legt in eurem Blogverzeichnis 
+ein Unterverzeichniss templates an. Der erste Schnipsel geht einfach 
+in die Datei "main_index.htm" und zwar dort zwischen die beiden 
+Head-Tags.
+
+Beim zweiten Schnipsel muss man noch ein bisschen was verändern, ich 
+erklär das am besten mal am Beispiel:
+
+	<a href="javascript:HaloScan('Name');" target="_self"><script 
+	type="text/javascript">postCount('Name');</script></a> | <a 
+	href="javascript:HaloScanTB('Name');" target="_self"><script 
+	type="text/javascript">postCountTB('Name'); </script></a>
+
+So sieht der zweite Schnipsel aus. Dieser muss nun erstmal an der 
+richtigen Stelle in die Datei "entry.htm" eingefügt werden. Am 
+besten natürlich unter den Eintrag. In der Datei "template.htm" 
+ist an der passenden Stelle eine kommentierte Zeile eingefügt, welche 
+allerdings für ein anderes Kommentartool eingerichtet ist. 
+Sinnvollerweise sollte man diese Zeile nun mit dem obigen Schnipsel 
+ersetzen. Jetzt muss Haloscan aber noch eine Zuordnung von Artikel zu 
+Kommentar bekommen - dies geschieht dadurch, dass im obigen 
+Codeschnipsel "Name" durch eine Variable ersezt wird, die für jeden 
+Eintrag einzigartig ist. Da mir nichts besseres eingefallen ist, habe 
+ich die Variable "$NB_EntryPermalink" gewählt. Falls jemand einen 
+besseren Vorschlag hat, so kann er es ja nun in den Kommentaren äußern 
+:-)
+END-----

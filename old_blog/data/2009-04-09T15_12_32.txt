@@ -1,0 +1,14 @@
+TITLE: Knusper @ SLS 29.03.2009, Cologne
+AUTHOR: Christian Herenz
+DATE: 09.04.2009 15:12 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+
+<a href="http://www.flickr.com/photos/knusper/3425793353/" title="Knusper@ SLS 29.03.2009, Cologne  by Knusper, on Flickr"><img src="http://farm4.static.flickr.com/3623/3425793353_3f8fc07220.jpg" width="333" height="500" alt="Knusper@ SLS 29.03.2009, Cologne " /></a>
+
+
+<div style="font-size: 11px;"><object height="81" width="100%">  <param name="movie" value="http://player.soundcloud.com/player.swf?track=knusper-sls-29-03-2009-cologne&amp;show_comments=true&amp;auto_play=false&amp;color=492647"></param>  <param name="allowscriptaccess" value="always"></param>  <param name="wmode" value="transparent"></param>  <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?track=knusper-sls-29-03-2009-cologne&amp;show_comments=true&amp;auto_play=false&amp;color=492647" type="application/x-shockwave-flash" width="100%" wmode="transparent"> </embed> </object> <div style="padding-top: 5px;"><a href="http://soundcloud.com/sundaylivesessions/knusper-sls-29-03-2009-cologne">Knusper @ SLS 29.03.2009, Cologne</a>  by  <a href="http://soundcloud.com/sundaylivesessions">SundayLiveSessions</a></div></div> 
+END-----

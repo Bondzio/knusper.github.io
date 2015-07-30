@@ -1,0 +1,12 @@
+TITLE: The T400 has Landed
+AUTHOR: Christian Herenz
+DATE: 05.03.2009 05:46 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich bin seit heute stolzer Besitzer eines Lenovo Thinkpad T400 Notebooks...
+Darüber gibt es sicherlich die kommenden Tage einiges zu schreiben, denn jetzt bin ich einfach nur müde.
+
+END-----

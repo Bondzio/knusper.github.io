@@ -1,0 +1,16 @@
+TITLE: +1
+AUTHOR: Christian Herenz
+DATE: 15.06.2008 13:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Jedenfalls wurde gestern der Anlass einer weiteren erfolgreichen
+Sonnenumrundung von mir gefeiert. Sind ja immerhin bisschem mehr als
+900.000.000 km (für Kulturwissenschaftler o.ä. 900 Millionen), da kann ja viel passieren zwischendurch und so... Also,
+muss man Feiern. Und in Berlin gibt es meiner Ansicht nach keinen schöneren
+Ort zum Feiern als das "Telecafe".
+
+[Else hat Fotos gemacht](http://www.flickr.com/photos/nadessa/sets/72157605624501901/)
+END-----

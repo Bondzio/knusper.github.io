@@ -1,0 +1,17 @@
+TITLE: Quizfrage 
+AUTHOR: Christian Herenz
+DATE: 20.03.2008 22:19 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+>There is a sad truth to the world today. I am part of a dying breed of people known as "shell users."
+
+Was für eine Gattung Text könnte so anfangen?
+
+Antwort: [Eine Kontaktanzeige](http://www.craigslist.org/about/best/nyc/485967082.html)
+
+>Because there are fewer and fewer of us, I must help keep our lineage alive. I am looking for someone to help me do this. I need a woman (obviously) who is willing to raise a child with me in the method of Unix.
+
+*Herrlich!*
+END-----

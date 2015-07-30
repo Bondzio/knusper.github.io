@@ -1,0 +1,59 @@
+TITLE: openVPN an der HU-Berlin UPDATE
+AUTHOR: Christian Herenz
+DATE: 29.08.2008 01:46 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Derzeit gibt es ein Problem, welches Nutzer von der aktuellsten KVPNC
+Version (0.9 rc1) in Verbindung mit der Verwendung der aktuellsten
+openVPN Version (2.1 rc9) davon abhalten wird, sich mit KVPNC in das
+HU-Netzwerk einzuwählen. Bei hochgesetzem Debug-Level wird folgende
+Meldung zu sehen bekommen:
+
+
+    openvpn_execve: external program may not be
+    called due to setting of --script-security level
+    ...
+    script failed: external program fork failed
+
+
+Details kann man z.B. dem Debian Bugreport
+[#494998](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=494998)
+entnehmen bzw. sollte man Debian Testing verwenden und ein Update
+des openVPN Paketes auf Version 2.1~rc9-3 vorgenommen haben, so finden
+sich auch entsprechende Hinweise in der Datei NEWS.Debian in der
+Dokumentation von openVPN (/usr/share/doc/openvpn/):
+
+
+    Calling of external commands/scripts 
+
+    Starting with version 2.1~rc9, openvpn has a new option to control
+    the
+    ability to execute external commands (--script-security).
+
+    By default (script-security 1) it will only allow the execution of
+    built-in commands (ip, ifconfig, route,...). If you require the
+    execution
+    of external commands, such as /etc/openvpn/update-resolv-conf,
+    you'll have
+    to include the following option in your configuration file:
+    script-security 2
+
+
+Diesen Parameter kennt allerdings die aktuelle Version von KVPNC noch
+nicht, jedoch habe ich heute einen der Entwickler im IRC Channel von
+KVPNC darauf aufmerksam gemacht, und der entsprechende Fehler wurde
+bereits im Entwicklungszweig behoben:
+
+<http://tinyurl.com/6etzxb>
+
+Diese Version habe ich kompiliert und getestet, der Fehler ist mit
+diesem Fix beseitigt. 
+
+In der kommenden Woche soll der zweite Release-Canidate von KVPNC 0.9
+(0.9 RC2) herauskommen. Auf der [Website des Projektes](http://home.gna.org/kvpnc/de_DE/index.html) sind dann auch
+immer Binärversionen für die verschiedensten Betriebssysteme
+verfügbar. In dieser Version wird der Fehler also behoben sein.
+END-----

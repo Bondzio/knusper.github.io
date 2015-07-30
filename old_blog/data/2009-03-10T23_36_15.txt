@@ -1,0 +1,13 @@
+TITLE: Testeintrag
+AUTHOR: Christian Herenz
+DATE: 10.03.2009 23:36 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Dieser Eintrag dient nur zu Testzwecken, speziell möchte ich sicherstellen, dass die Synchronisation meiner (als statisches HTML ausgelieferten) Blogdaten zwischen Notebook und Desktop funktioniert.
+
+**Update:** *Test erfolgreich! - Morgen verate ich die Magie!*
+
+END-----

@@ -1,0 +1,13 @@
+TITLE: KVpnc 0.9.1 RC2 Buggy
+AUTHOR: Christian Herenz
+DATE: 27.09.2008 16:23 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Also ich hab gestern ein wenig  mit der neuen KVPNC Version experimentiert und musste feststellen, dass die leider immer noch nicht so richtig funktioniert. Was eigentlich schade ist, da eine SVN Version zwischen RC1 und RC2 bei mir einwandfrei läuft. Da wurde wohl wieder etwas verschlimmbessert. 
+
+Das Problem, welches bei mir mit dem HU Netz auftritt schildere ich in [diesem Bugreport](https://gna.org/bugs/index.php?12362) (mit Workaround, und blödem Rechtschreibfehler). Im jetzigen Zustand kann man zwar mit de HU Netzwerk verbinden, muss aber nach jedem Start von KVPNC den Workaround anwenden.
+Wollen wir hoffen, das bald eine Version kommt, die man bedenkenlos empfehlen kann. 
+END-----

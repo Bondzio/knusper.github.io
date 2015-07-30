@@ -1,0 +1,19 @@
+TITLE: openVPN an der HU-Berlin - funktioniert!
+AUTHOR: Christian Herenz
+DATE: 18.08.2008 17:28 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe jetzt endlich auch meinen [openVPN Zugang zur HU-Berlin](http://www.cms.hu-berlin.de/dl/netze/vpn/openvpn) am laufen.
+Ein paar Dinge sind unbedingt zu beachten, sonst funktioniert das nämlich nicht.
+
+* Möchte man [KVPNC](http://home.gna.org/kvpnc/de_DE/index.html) benutzen, so muss unbedingt die derzeit akutellste Version 0.9.1-rc1 am laufen sein.
+* zumindest unter Debian muss KVPNC als Root laufen, bzw. muss man der
+  Anleitung auf der KVPNC Website folgen um es als normaler Benutzer ausführen zu können
+
+Am besten, einfach mal selber austesten und schauen obs Probleme gibt, und nicht zögern diese dann dem openVPN Team der HU mitzuteilen, denn wie gesagt, derzeit befindet sich das ganze noch im Testbetrieb:
+
+<http://www.cms.hu-berlin.de/dl/netze/vpn/openvpn>
+END-----

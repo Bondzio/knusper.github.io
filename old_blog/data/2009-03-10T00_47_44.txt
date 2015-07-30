@@ -1,0 +1,29 @@
+TITLE: GNU Robbo
+AUTHOR: Christian Herenz
+DATE: 10.03.2009 00:47 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![GNU Robbo Image](http://img218.imageshack.us/img218/3272/snapshot9.png)
+
+GNU Robbo ist ein freie Variante des Atari XL/XE Klassikers Robbo
+([Geschichtsstunde bei
+Youtube:](http://www.youtube.com/watch?v=LwJXgpsVAIQ) *"I remember the
+times, when my whole family was playing this, and the computer kept on
+running through a couple of days and nights, because there was no SAVE
+option."*). Erhältlich als Windows Installer oder Sourcecode für
+Linux. Besonderer Clou sind die mitgelieferten Makefiles für einige
+Mobilgeräte (z.B. Sharp Zaurus), so dass man ggf. auch unterwegs
+daddeln kann. Definitv ein Spiel nach meinem Geschmack: Zackiges,
+knobliges Gameplay und liebevoll gezeichnete Oldschool-Grafik!
+Angesichts der neuzeitlichen Kurzweiligkeit wurde das Game auch ein
+wenig entschärft. Man hat jetzt unendlich viele Leben und man muss
+nicht jedesmal von vorne anfangen. Weiterhin wurde das Spiel um 82
+Level erweitert, welche von der damaligen Fangemeinde dank eines
+Leveleditors erstellt wurden.
+
+Download und mehr Infos:
+[gnurobbo.sourceforge.net](http://gnurobbo.sourceforge.net/)
+END-----

@@ -1,0 +1,16 @@
+TITLE: Bloghinweis
+AUTHOR: Christian Herenz
+DATE: 11.12.2008 23:19 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Möchte an dieser Stelle noch mal das Blog brandneue Blog eines Kommilitonen anrpeisen:
+
+<http://bsbulletin.wordpress.com/>
+
+Seinen Namen nenne ich jetzt mal hier nicht, weil ich hab den auch auf
+seiner Seite nirgendwo gefunden, vielleicht präferiert er ja die
+Annonymität. Das ganze ist Bi-Lingual... Insofern auch "for your english-speakin' friends" geeignet.
+END-----

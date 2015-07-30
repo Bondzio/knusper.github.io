@@ -1,0 +1,193 @@
+<div class="item">
+	<a id="e2009-03-04T16_08_28.txt"></a>
+	<h2 class="date">04.03.2009 16:08 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">xorg.conf für iMac G3 unter Debian Lenny</h3>
+		<div class="item-description">
+			<p>Die Installation mittels der PowerPC Netinstall-CD von Debian Lenny
+installiert einem noch kein X11 und keinen Windowmanager. Sobald man
+dann allerdings in Aptitude einen Windowmanager auswählt, wird
+automatisch X11 mitinstalliert. Einen Loginmanager sollte man auch
+noch selektieren, so dass gleich eine graphische Anmeldung möglich
+ist. Besonders komfortabel ist natürlich <em>kdm</em>, minimalistischer und
+schlichter ist <em>xdm</em>. Möchte man gar keine KDE Bibliotheken auf seinem
+System haben, sollte man letzteren wählen.</p>
+
+<p>Sobald die Installation dieser Komponenten abgeschlossen ist, kann man
+das System rebooten. Zumindest auf meinem iMac habe ich dann aber
+einen kleinen Schreck bekommen, denn an der Stelle wo der Bootvorgang
+normalerweise abgeschlossen ist und der graphische Loginmanager
+startet, schaltete sich der Bildschirm bei mir schwarz. Dies liegt
+aber nur daran, dass die Standardeinstellungen in der xorg.conf nicht
+mit dem eingebauten iMac Monitor kompatibel sind und diesen in einer
+Grafikauflösung ansteuern, die er nicht mehr mitmacht. Eine
+Schutzvorrichtung sorgt offenbar dafür, dass er sich aus diesem
+Grund einfach abschaltet, was die restliche iMac Hardware offenbar als
+&ldquo;Standby&rdquo; Modus interpretiert, dies wird nämlich vom orangen Leuchten
+des Powerknopfes signalisiert.</p>
+
+<p>Tatsächlich befindet er sich allerdings nicht im Standby, durch
+drücken der Tastenkombination Strg+Alt+F2 kann man sich nämlich noch
+ganz normal im Textmodus anmelden. Somit kann man dann die Datei
+/etc/X11/xorg.conf derart abändern, dass der Monitor
+funktioniert. Folgende Zeilen in den für die Anzeige zuständigen
+Abschnitten führten bei mir zum Erfolg:</p>
+
+<pre><code>Section "Monitor"
+Identifier "Configured Monitor"
+Horizsync 30-65
+Vertrefresh 50-75
+EndSection
+Section "Screen"
+Identifier "Default Screen"
+Monitor "Configured Monitor"
+Device "Configured Video Device"
+SubSection "Display"
+Modes "1024x768" "800x600" "640x480"
+EndSubSection
+EndSection
+</code></pre>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../archives/2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCount('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+<h2 class="date">
+	04.03.2009 16:08 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-03-04T16_08_28.txt"></a>
+	<h3 class="title">xorg.conf für iMac G3 unter Debian Lenny</h3>
+	<p>Die Installation mittels der PowerPC Netinstall-CD von Debian Lenny
+installiert einem noch kein X11 und keinen Windowmanager. Sobald man
+dann allerdings in Aptitude einen Windowmanager auswählt, wird
+automatisch X11 mitinstalliert. Einen Loginmanager sollte man auch
+noch selektieren, so dass gleich eine graphische Anmeldung möglich
+ist. Besonders komfortabel ist natürlich <em>kdm</em>, minimalistischer und
+schlichter ist <em>xdm</em>. Möchte man gar keine KDE Bibliotheken auf seinem
+System haben, sollte man letzteren wählen.</p>
+
+<p>Sobald die Installation dieser Komponenten abgeschlossen ist, kann man
+das System rebooten. Zumindest auf meinem iMac habe ich dann aber
+einen kleinen Schreck bekommen, denn an der Stelle wo der Bootvorgang
+normalerweise abgeschlossen ist und der graphische Loginmanager
+startet, schaltete sich der Bildschirm bei mir schwarz. Dies liegt
+aber nur daran, dass die Standardeinstellungen in der xorg.conf nicht
+mit dem eingebauten iMac Monitor kompatibel sind und diesen in einer
+Grafikauflösung ansteuern, die er nicht mehr mitmacht. Eine
+Schutzvorrichtung sorgt offenbar dafür, dass er sich aus diesem
+Grund einfach abschaltet, was die restliche iMac Hardware offenbar als
+&ldquo;Standby&rdquo; Modus interpretiert, dies wird nämlich vom orangen Leuchten
+des Powerknopfes signalisiert.</p>
+
+<p>Tatsächlich befindet er sich allerdings nicht im Standby, durch
+drücken der Tastenkombination Strg+Alt+F2 kann man sich nämlich noch
+ganz normal im Textmodus anmelden. Somit kann man dann die Datei
+/etc/X11/xorg.conf derart abändern, dass der Monitor
+funktioniert. Folgende Zeilen in den für die Anzeige zuständigen
+Abschnitten führten bei mir zum Erfolg:</p>
+
+<pre><code>Section "Monitor"
+Identifier "Configured Monitor"
+Horizsync 30-65
+Vertrefresh 50-75
+EndSection
+Section "Screen"
+Identifier "Default Screen"
+Monitor "Configured Monitor"
+Device "Configured Video Device"
+SubSection "Display"
+Modes "1024x768" "800x600" "640x480"
+EndSubSection
+EndSection
+</code></pre>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCount('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/03/04/xorg_conf_für_imac_g3_unter_debian_lenny/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+<h2 class="date">
+	06.03.2009 02:52 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-03-06T02_52_51.txt"></a>
+	<h3 class="title">KMail (Kontact) Rant!</h3>
+	<p>Ich habe heute den ganzen Tag versucht auf meinem Laptop die <a href="http://de.wikipedia.org/wiki/KMail">Kontact
+Suite von KDE4</a> benutzbar zu machen. Etliche Abstürze später bin ich zu
+dem Schluss gekommen, dass diese Software offenbar keinen anderen
+Zweck besitzt als gut auszusehen. Mir unklar, wieso dieses Programm
+überhaupt mal einen Preis gewinnen konnte.</p>
+
+<p>Auf den ersten Blick macht es alles einen sehr aufgeräumten Eindruck,
+und nachdem man das Programm gestartet hat, freut man sich direkt
+darauf mit ihm nun arbeiten zu wollen. Die Lust schlägt jedoch bald in
+Frust um. Wo ich in Thunderbird bzw. Seamonkey meine gesamten
+Einstellungen innerhalb weniger Minuten gemacht habe, ist es mir nicht
+gelungen meine 3 Mailaccounts auch nur annähernd funktionsfähig zu
+bekommen. Wer programmiert denn bitteschön solch einen Mist?
+Arbeitslose Hartz 4 Empfänger?</p>
+
+<p>Die gesamte Kontact Suite ist bestimmt ganz nett, nur wenn die
+zentrale Komponente eine deartige &ldquo;piece-of-shit&rdquo; Software ist, dann
+brauch ich den Rest auch nicht.</p>
+
+<p>Ich könnte jetzt hier ins Detail gehen, genausogut könnte ich bestimmt
+10-12 Bugreports schreiben, aber dass lass ich lieber mal bleiben. Ich
+dachte, dass ist ein Programm für Hardcore-Mail User wie mich&hellip; Aber
+mein &ldquo;Usecase&rdquo; mit 3 IMAP Accounts, zig Mailinglisten, Tonnenweise
+Spam ist offensichtlich zuviel für das Programm. Eigentlich hätte ich
+wahrscheinlich schon aufhören müssen, als ich koppfschüttelnd zur
+Kenntniss nahm, das sämtliche den Mailverkehr betreffenden
+Einstellungen in dem selben Dialog &ldquo;KMail Einrichten&rdquo; gleichberechtigt
+mit &ldquo;kosmetischen&rdquo; Einstellungen aufgelistet werden. </p>
+
+<p>Überhaupt, wie konnt ich blos auf die dämliche Idee kommen, das überhaupt auszuprobieren&hellip;</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/03/06/kmail_kontact_rant/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2009/03/06/kmail_kontact_rant/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/03/06/kmail_kontact_rant/index.html');" target="_self"><script type="text/javascript">postCount('2009/03/06/kmail_kontact_rant/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/03/06/kmail_kontact_rant/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/03/06/kmail_kontact_rant/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+<h2 class="date">
+	05.03.2009 05:46 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2009-03-05T05_46_31.txt"></a>
+	<h3 class="title">The T400 has Landed</h3>
+	<p>Ich bin seit heute stolzer Besitzer eines Lenovo Thinkpad T400 Notebooks&hellip;
+Darüber gibt es sicherlich die kommenden Tage einiges zu schreiben, denn jetzt bin ich einfach nur müde.</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2009/03/05/the_t400_has_landed/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Leben --><a href="../../../../../archives/leben/index.html">Leben</a>
+<!-- <br /><a href="../../../../../archives/2009/03/05/the_t400_has_landed/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2009/03/05/the_t400_has_landed/index.html');" target="_self"><script type="text/javascript">postCount('2009/03/05/the_t400_has_landed/index.html');</script></a> | <a href="javascript:HaloScanTB('2009/03/05/the_t400_has_landed/index.html');" target="_self"><script type="text/javascript">postCountTB('2009/03/05/the_t400_has_landed/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

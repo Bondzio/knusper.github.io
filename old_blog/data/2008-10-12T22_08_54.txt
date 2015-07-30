@@ -1,0 +1,17 @@
+TITLE: Wintersemester 2008
+AUTHOR: Christian Herenz
+DATE: 12.10.2008 22:08 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Morgen starte ich in mein 5. Semester an der HU-Berlin. Yihaa...
+
+Was liegt an? 
+Naja, nach einem groben Überblick vermute ich mal, dass ich mich weiter mit Quantenmechanik auseinandersetzen muss - Nachdem das theoretische Grundgerüst nun vorhanden ist, wird es mehr um Methoden und Anwendungen gehen, hochtrabend formuliert "Fortgeschrittene Quantentheorie". Dann gilt es eine "Einführung in die Atom und Molekülphysik" zu verdauen, sowie eine "Einführung in die Kern- u. Elementarteilchenphysik". Im Pflichtplan is weiterhin vorgesehen ein Seminar zu besuchen, gibt sehr viel interessantes wie z.B. "Physikseminar zur Nutzung der Sonnenenergie" oder "Physikseminar - Im Mikrokosmos des Lebens", aber ich denke ich werde mich für was Handfestes entscheiden: "Physikseminar - Weltall und Teilchen" ;)
+
+Das klingt schon alles furchtbar viel, aber der Regelstudienplan sieht es noch vor, dass ich mir die dunklen Winterabende mit Elektronikbastelei (offiziell Elektronikpraktikum) im Institut vertreibe. Alternativ böte sich das, nicht minder Arbeitsintensive "Forschungspraktikum" an - da darf man dann z.B. auch mal selber an einem Elektronenmikroskop (von 1970) rumfummeln.
+
+Sounds like fun to me ![Smiley](http://www.smilies.4-user.de/include/Denken/smilie_denk_28.gif)
+END-----

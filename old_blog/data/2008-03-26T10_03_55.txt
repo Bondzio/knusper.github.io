@@ -1,0 +1,18 @@
+TITLE: Muxtape 
+AUTHOR: Christian Herenz
+DATE: 26.03.2008 10:03 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Mit Web und Musik hab ichs scheinbar heute:
+
+![muxtape.jpg](http://r-echos.net/wordpress/wp-content/uploads/2008/03/cassette-muxtape.jpg)
+
+*Wenn Ihr auf Musik steht und gerne auch mal ein eigenes Mixtape erstellt, hilft Euch Muxtape dabei, Musik mit Euren Freunden zu teilen.
+Nach der Anmeldung könnt Ihr bis zu 12 MP3s hochladen und über eine URL publizieren.*
+[\[via mkswork.de\]](http://www.mkswork.de/mixtape-mit-muxtape/)
+
+<http://muxtape.com/>
+END-----

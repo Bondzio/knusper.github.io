@@ -1,0 +1,19 @@
+TITLE: Kegeln 
+AUTHOR: Christian Herenz
+DATE: 15.03.2008 01:21 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Nicht, dass ihr euch wundert, das ich hier vielleicht ein bisschen 
+sinnloses Zeug die nächsten Tage schreibe, aber ich brauch erstmal 
+"leichten" Content zum testen. Wenn ich hier gleich Pulitzer-Preis 
+verdächtige Essays schreibe und dann geht doch beim basteln irgendwie 
+das Archiv kaputt, da würde ich vor Ärger blau anlaufen.<br><br>
+
+Jedenfalls war ich heute mal Kegeln mit paar Freunden. Ich war mal 
+wieder der schlechteste, nicht in einer Runde konnte ich wenigstens 
+mal den vorletzten Platz belegen. Trotzdem hat ich ein bisschen 
+Spass.
+END-----

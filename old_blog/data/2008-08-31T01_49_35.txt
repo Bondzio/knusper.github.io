@@ -1,0 +1,15 @@
+TITLE: The Matrix Cookbook
+AUTHOR: Christian Herenz
+DATE: 31.08.2008 01:49 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*The Matrix Cookbook is a free desktop reference on matrix identities. *
+
+Also, alles was man so Wissen muss, wenn man mit Matrizen arbeitet und der [Bronstein](http://de.wikipedia.org/wiki/Taschenbuch_der_Mathematik) einem auch nicht mehr auf die Sprünge hilft. 
+
+Download und Mehr auf:
+<http://matrixcookbook.com/>
+END-----

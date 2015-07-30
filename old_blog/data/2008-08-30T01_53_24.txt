@@ -1,0 +1,12 @@
+TITLE: Tagesschau Blog
+AUTHOR: Christian Herenz
+DATE: 30.08.2008 01:53 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Mein neues Lieblingsblog ist das Tagesschau-Blog. Das sind genau die Nachrichten, die ich gerne lese. Nachrichten, wie man Nachrichten macht.
+
+<http://blog.tagesschau.de/>
+END-----

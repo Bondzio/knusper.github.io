@@ -1,0 +1,12 @@
+TITLE: Back from NYC
+AUTHOR: Christian Herenz
+DATE: 11.08.2008 17:43 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade aus NYC heimgekehrt... 
+
+Der Jetlag ist nicht gerade einfach zu verarbeiten, wenn man von Tempelhof noch 5 Minuten mit dem Taxi fährt und dann praktisch direkt ausm Flugzeug ins traute Heim steigt, wobei mich der Geruch von Neukölln sogar kurzeitig zweifeln ließ, ob ich nicht doch einfach nur mit der Subway nach Harlem gefahren bin :)
+END-----

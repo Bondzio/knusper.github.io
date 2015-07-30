@@ -1,0 +1,19 @@
+TITLE: Wilkommen 
+AUTHOR: Christian Herenz
+DATE: 14.03.2008 13:45 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Hallo und Wilkommen auf meinem neuen Blog. Ich habe mich entschlossen,
+bei myblog aufzuh&ouml;ren, da ich nicht so zufrieden mit dem Anbieter
+war und bin. Bei einem kostenlosen Service sollte man allerdings auch
+nicht meckern.
+
+Mein neues Tool der Wahl hei&szlig;t nanoblogger. Ich muss mich erstmal
+ein bisschen einfummeln, aber mit der Zeit kann das Ding glaub ich ganz
+nett werden.
+
+Ich bin gespannt!
+END-----

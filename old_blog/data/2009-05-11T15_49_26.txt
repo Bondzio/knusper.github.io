@@ -1,0 +1,17 @@
+TITLE: Protokoll zum Versuch CARS - Kohärente Anti-Stokes Raman-Streuung (F-Praktikum HU-Berlin)
+AUTHOR: Christian Herenz
+DATE: 11.05.2009 15:49 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+
+<img src="http://people.physik.hu-berlin.de/~herenz/pdf.png" alt="PDF"
+     title=""><a href="http://people.physik.hu-berlin.de/~herenz/fprak/cars.pdf">CARS: Koh&auml;rente Anti-Stokes Raman Streuung</a>(<img src="http://people.physik.hu-berlin.de/~herenz/ps.gif" alt="PS"
+     title=""><a href="http://people.physik.hu-berlin.de/~herenz/fprak/cars.ps">ps</a>) <i><b>Note:</b>
+  1,0 <b>Kommentar:</b> Betreuer hatte nichts auszusetzen, auch wenn wir beim Experimentieren einen kleinen Fehler gemacht hatten. Muss man in diesem Fall einfach gut erkl&auml;ren, was man h&auml;tte machen m&uuml;ssen (siehe hier f&ouml;rderliche Spaltbreite).</i><br>
+<br>
+
+Update auch auf <a href="http://people.physik.hu-berlin.de/~herenz" title="meiner HP am Institut fuer Physik">meiner Hompage am Institut f&uuml;r Physik</a>
+END-----

@@ -1,0 +1,17 @@
+TITLE: Slide Jamboree 2011 Folien
+AUTHOR: Christian Herenz
+DATE: 29.03.2011 20:13 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Im Rahmen des [Slide Jamboree
+2011](http://www.aip.de/People/JForero/jamboree_2.html) am AIP habe ich in 4
+Minuten mit 2 Folien kurz umrissen, woran ich in meiner Masterarbeit
+arbeite. Meine zwei Folien sind unter
+
+<http://amor.cms.hu-berlin.de/~herenzed/herenz_slidejamboree2011.pdf>
+
+abrufbar.
+END-----

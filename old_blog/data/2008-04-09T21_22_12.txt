@@ -1,0 +1,18 @@
+TITLE: Klausur geschafft
+AUTHOR: Christian Herenz
+DATE: 09.04.2008 21:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+So, heute war ja im 2ten Anlauf die E-Dynamik dran.
+
+Ganz kurze Zusammenfassung: ***Bestens!!!!***
+
+Es hat sich wirklich gelohnt, den ganzen Stoff nochmal in Ruhe
+durchzugehen. Ich denke mal das eine Note im guten 2er Bereich drin sein
+dürfte. Laut [Prof. Nolting][1] erfahre ich das am Montag... 
+
+[1]: http://de.wikipedia.org/wiki/Wolfgang_Nolting_(Physiker)
+END-----

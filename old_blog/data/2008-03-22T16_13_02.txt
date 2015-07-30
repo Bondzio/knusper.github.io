@@ -1,0 +1,10 @@
+TITLE: Man gönnt sich ja sonst nichts 
+AUTHOR: Christian Herenz
+DATE: 22.03.2008 16:13 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+![buchung1](http://amor.rz.hu-berlin.de/~herenzed/blog/pix/buchung.png)
+![buchung2](http://amor.rz.hu-berlin.de/~herenzed/blog/pix/buchung2.png)
+END-----

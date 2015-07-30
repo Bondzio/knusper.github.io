@@ -1,0 +1,17 @@
+TITLE: Protokoll zum Versuch Z0-Resonanz (F-Praktikum HU-Berlin)
+AUTHOR: Christian Herenz
+DATE: 04.05.2009 20:34 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<img src="http://people.physik.hu-berlin.de/~herenz/pdf.png" alt="PDF"
+     title=""><a href="http://people.physik.hu-berlin.de/~herenz/fprak/z0_resonanz.pdf">Z0 Resonanz</a>(<img src="http://people.physik.hu-berlin.de/~herenz/ps.gif" alt="PS"
+     title=""><a href="http://people.physik.hu-berlin.de/~herenz/fprak/z0_resonanz.ps">ps</a>) <i><b>Note:</b>
+  1,0 <b>Kommentar:</b> Bis auf kleinere Druckfehler ist alles perfekt. Sehr
+  interessanter, aber extrem arbeitsaufw&auml;ndiger Versuch. Der Arbeitsaufwand
+  wird aber mit einer großen Menge an Wissenszuwachs belohnt.</i><br>
+
+Update auch auf <a href="http://people.physik.hu-berlin.de/~herenz" title="meiner HP am Institut fuer Physik">meiner Hompage am Institut f&uuml;r Physik</a>
+END-----

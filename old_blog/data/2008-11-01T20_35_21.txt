@@ -1,0 +1,16 @@
+TITLE: PPAGER - A small pager for X Window
+AUTHOR: Christian Herenz
+DATE: 01.11.2008 20:35 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*PPager is a small pager for X Window. It display a clock, and can starts differents commands with mouse button. It works under any gnome compliant window manager (eg. E, SawFish, WindowMaker, IceWM, Oroborus).*
+
+![Screenshot](http://hocwp.free.fr/ppager/ppager_3.png)
+
+Notiz an mich: Auschecken!
+
+<http://hocwp.free.fr/ppager/>
+END-----

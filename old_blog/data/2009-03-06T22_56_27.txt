@@ -1,0 +1,23 @@
+TITLE: Tarnvorrichtung einschalten
+AUTHOR: Christian Herenz
+DATE: 06.03.2009 22:56 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+ *The basic idea of cloaking is a device that guides incoming light
+around an interior region such that the light emerges as if it had
+propagated through empty space; any object in the interior region is
+thereby rendered invisible. In a paper appearing in Physical Review
+Letters, Yun Lai and colleagues at the Hong Kong University of
+Science and Technology present a theoretical design for cloaking that
+is far less intuitive than this simple picture. In their design,
+the object to be hidden is placed at a specific position in the
+vicinity of a new type of cloaking device that is tailor-made for the
+object.*
+
+Das haben die Klingonen doch schon lange... ;-)
+
+[Cloaking at a distance @ Physics Viewpoint](http://physics.aps.org/articles/v2/17)
+END-----

@@ -1,0 +1,128 @@
+<h2 class="date">
+	30.03.2008 16:16 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-03-30T16_16_41.txt"></a>
+	<h3 class="title">Meine .emacs</h3>
+	<p>Falls jemand sich dafür interessiert, hier ist meine <strong>.emacs</strong>, und das gute ist, die funktioniert überall.
+Und falls ich irgendwo mal hinkommen sollte, wo ich noch nicht am Rechner gesessen habe, diese Datei und das Verzeichniss /emacs-scripts/ hab ich immer auf einem USB Stick mitbei.</p>
+
+<pre><code> ;;; File Name: ~/.emacs
+ ;;; ---------------------
+ ;;; Christian Herenz http://amor.cms.hu-berlin.de/~herenzed
+ ;;; rev 03.2008
+ ;;; 
+
+
+ ;; Some stuff for mxximum interoperability (thx Werner)
+ (if (string-match "XEmacs\\|Lucid" emacs-version)
+   (progn
+  (if (file-readable-p "~/.xemacs/init.el")
+     (load "~/.xemacs/init.el" nil t))
+   )
+   (if (file-readable-p "~/.gnu-emacs")
+   (load "~/.gnu-emacs" nil t)
+ (if (file-readable-p "/etc/skel/.gnu-emacs")
+ (load "/etc/skel/.gnu-emacs" nil t)))
+   (setq custom-file "~/.gnu-emacs-custom")
+   (load "~/.gnu-emacs-custom" t t)
+ )
+
+
+ ;; Load-Paths:
+ (add-to-list 'load-path (expand-file-name "~/emacs-scripts/"))
+ (add-to-list 'load-path (expand-file-name "~/emacs-scripts/color-theme-6.6.0"))
+ (add-to-list 'load-path (expand-file-name "/usr/local/share/emacs/site-lisp"))
+ ;; (add-to-list 'load-path (expand-file-name "/usr/local/share/emacs/site-lisp/muse"))
+
+ ;; No Menu without X
+ (unless window-system (menu-bar-mode nil))
+
+ ;; Fancy Colors anyone?
+ (require 'color-theme)
+ (color-theme-initialize)
+ (unless window-system (color-theme-arjen))
+
+
+ ;; Things only available @ Home:
+ (cond ((string-match "KnusperStation.site" (system-name))
+    ;; iMaxima - crunching the formulas :-)
+    (add-to-list 'load-path (expand-file-name "/usr/share/maxima/5.14.0/emacs/"))
+    (autoload 'imaxima "imaxima" "Frontend for maxima with Image support" t)
+    (autoload 'maxima "maxima" "Frontend for maxima" t)
+    (autoload 'imath-mode "imath" "Imath mode for math formula input" t)
+    (setq imaxima-fnt-size "Large")
+    ;; w3m 
+    (require 'w3m-load)
+   ))
+
+ ;; Google Calculator Interface (needs at least emacs 22)
+ (if (&gt;= emacs-major-version 22) (autoload 'gcalc "gcalc" "A Google calculator interface." t))
+
+ ;; World Time Clock
+ (require 'wclock)
+
+ ;; Octave Stuff
+
+ (autoload 'octave-mode "octave-mod" nil t)
+ (setq auto-mode-alist
+   (cons '("\\.m$" . octave-mode) auto-mode-alist))
+
+ (add-hook 'octave-mode-hook
+       (lambda ()
+     (abbrev-mode 1)
+     (auto-fill-mode 1)
+     (if (eq window-system 'x)
+         (font-lock-mode 1))))
+
+ ;; HTML-Accent (ä -&gt; &amp;auml; etc.)
+
+ (autoload 'html-accent "html-accent" "Accent HTML" t)
+ (autoload 'accent-html "html-accent" "HTML codes to accent" t)
+
+ ;; markdown mode:
+
+ (autoload 'markdown-mode "markdown-mode.el"
+    "Major mode for editing Markdown files" t)
+ (setq auto-mode-alist
+    (cons '("\\.mdml$" . markdown-mode) auto-mode-alist))
+ (setq auto-mode-alist
+    (cons '("\\nb_edit-newentry-.*\\.txt" . markdown-mode) auto-mode-alist))
+
+ ;; Latex-settings
+
+ (add-hook 'LaTeX-mode-hook 'turn-on-auto-fill)
+
+  ;; For better interoperability save some files in Latin9 rather than UTF-8
+   (setq file-coding-system-alist
+     (append
+     '(("\\.tex\\'" iso-latin-9-unix . iso-latin-9-unix))
+     ;'(("\\.el\\'"  iso-latin-9-unix . iso-latin-9-unix))
+     file-coding-system-alist))
+
+
+ ;; UNUSED AT THE MOMENT:
+ ;; =====================
+ ;; Muse
+ ;; (require 'muse-mode)
+ ;; (require 'muse-publish)
+ ;; (require 'muse-html)  ;; and so on
+ ;; (require 'muse-journal)
+ ;; (require 'muse-xml)
+ ;; (require 'muse-latex)
+
+ ;;      (if (file-readable-p "~/.muse-emacs")
+ ;;         (load "~/.muse-emacs" nil t))
+</code></pre>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/03/30/meine__emacs/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2008/03/30/meine__emacs/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/03/30/meine__emacs/index.html');" target="_self"><script type="text/javascript">postCount('2008/03/30/meine__emacs/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/03/30/meine__emacs/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/03/30/meine__emacs/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

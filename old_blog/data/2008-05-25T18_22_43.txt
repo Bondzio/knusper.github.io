@@ -1,0 +1,42 @@
+TITLE: Nordhell - Doom Level Review 
+AUTHOR: Christian Herenz
+DATE: 25.05.2008 18:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Irgendwie war die Woche ziemlich anstrengend, so dass sich heute bei mir
+irgendwie nicht so richtig "Produktivität" einstellen will. Sollte ja
+eigentlich OK sein, ist nämlich Sonntag und so... Nur dummerweise wird vom
+Fuallenzen die Arbeit nicht weniger.
+
+Jedenfalls habe ich seit langem mal wieder ein bisschen Doom2 gezockt und hab
+da ein ganz nettes Wad von Ende letztem Jahres gefunden.
+
+**Nordhell**
+
+[Screenshot 1](http://www.doomworld.com/php/screenie.php?dir=/images/newstuff/313/&filename=nhell_d201.png)
+- [Screenshot 2](http://www.doomworld.com/php/screenie.php?dir=/images/newstuff/313/&filename=nhell_d202.png)
+
+Der Level ist vom Ende letzten Jahres und der Typ hinter dem Level kommt aus
+Russland. Vielleicht ist deswegen alles so "Wintermäßig", wer
+weiß... Jedenfalls steckt mal wieder viel Liebe im Detail in diesem
+Level. Nach dem Starten (sollte in jedem neueren Sourceport einwandfrei
+funktionieren) gibt es schonmal einen schönen Startupscreen. Dann findet man
+sich vor einem idyllischen Häuschen mitten im Winter wieder. Nun gut, die
+Idylle weilt nicht lange und man muss Ballern was das Zeug hält. Typisch Doom
+halt, macht auch nach fast 15 Jahren genausoviel Spass wie am ersten Tag. Die
+gesamte Architektur dieses Levels ist atemberaubend, unglaublich was man alles
+so aus der Doom Engine mit Geduld rausholen kann. Viele neue Texturen und auch
+einige Monster wurden umtexturiert (siehe Screenshot 2). Der
+Schwierigkeitsgrad ist nicht sehr hoch und erfahrenere Spieler sollten gleich
+auf "Hurt Me Plenty" loslegen. Auf diesem Schwierigkeitsgrad konnte ich den
+Level dann auch im dritten Anlauf komplett durchzocken... Also, nich so schwer
+offensichtlich... Aber macht Spass!
+
+(Ich hab den Level übrigens mit dem [Doom Legacy
+Sourceport](http://legacy.newdoom.com/) gespielt)
+
+[Download und mehr Informationen @ Doomworld.com](http://www.doomworld.com/idgames/?id=15175)
+END-----

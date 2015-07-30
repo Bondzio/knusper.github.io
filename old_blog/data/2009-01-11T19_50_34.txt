@@ -1,0 +1,18 @@
+TITLE: Computerspiel für Heiratsantrag modifiziert
+AUTHOR: Christian Herenz
+DATE: 11.01.2009 19:50 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ach... Was für eine schöne Geschichte:
+
+Da hat ein Typ für seinen Heiratsantrag einfach mal das Lieblingspiel seiner Geliebten um ein Kapitel erweitert, in dem er ihr den Hof macht... Süß!
+
+[I hacked a game to show my girl how much I love her @ greenpixels](http://uk.greenpixels.com/articles/features/2201/I-hacked-a-game-to-show-my-girl-how-much-I-love-her)
+
+Auch das Bild von den Beiden ist niedlich:
+
+![Bild](http://franchisemedia.ign.com/images/02/56/25600_Romance_Feature_-_Annie_and_Phil_Main_normal.jpg)
+END-----

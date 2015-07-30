@@ -1,0 +1,51 @@
+TITLE: Frohes Fest
+AUTHOR: Christian Herenz
+DATE: 23.12.2008 09:40 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Willkommener Weise sind nun erstmal bis zum Anfang des nächsten Jahres
+"akademische Ferien", die hab ich auch nötig um nocheinmal mit voller
+Kraft die letzte Runde dieses Semesters zu meistern.
+
+Anlass für Ferien ist natürlich das Weihnachtsfest, weshalb ich es
+mir an dieser  Stelle nicht nehmen lasse meinen treuen Lesern ein
+frohes Fest zu wünschen.
+
+
+ Normalerweise verschenke ich nichts an meine Verwandten und Eltern,
+denn zum einen bin ich der Meinung meine bloße Anwesenheit sei doch
+schon Geschenk genug und zum anderen bin ich nur ein armer Student,
+der den letzten Cent zusammenkratzen muss, damit es zum Abendbrot
+statt Pizza Mista auch mal Pizza Salami sein kann. Während ersteres
+jeglicher Diskussion entbehrt, so ist letzteres doch des öfteren mit
+dem Hinweis kritisiert worden ich könne ja "...was basteln..." und es
+müsse ja nur von Herzen kommen. Ich habe zwar immer noch nicht
+verstanden, was nun ausgerechnet das Organ, welches in stetigem
+Rhytmus das Blut durch meinen Körper pumpt damit zu tun hat, jedoch
+hab ich dieses Jahr mal was "gebastelt"!
+
+Inspriert von Anselm Lingnaus hervorragendem Buch ["Latex Hacks"
+(O'Reilly)](http://www.oreilly.de/catalog/latexhksger/) habe ich einen
+Kalender mit astrophysikalischen Motiven (allesamt von
+[APOD](http://antwrp.gsfc.nasa.gov/apod/)) gebastelt und diesen dann in der
+Druckerei im Digitaldruckverfahren drucken lassen. Das Ergebnis kann
+sich durchaus sehen lassen (also, bzgl. der Druckqualität meine ich) und pro Geschenk gerechnet war es sogar
+sehr günstig (in der Tat musste ich allerdings 2 Monate Pizza Mista
+statt Salami essen).
+
+Ich häng hier mal einen Link zu dem fertigen PDF ran. Über Kommentare
+würde ich mich freuen!
+
+<http://people.physik.hu-berlin.de/~herenz/calendar_final.pdf>
+
+P.S.: Die verwendeten Bilder sind leider meist nicht unter Creative
+Commons, weshalb ich das PDF bald wieder vom Netz nehmen werde, damit
+ich keienen Ärger bekomme (schöne neue Welt...), falls es dann doch
+noch jemand sehen möchte, möge er mich anmailen.
+
+P.P.S.: Nächste Vorstellung in diesem Theater (noch in diesem Jahr):
+"Kalenderbastelei mit Latex"
+END-----

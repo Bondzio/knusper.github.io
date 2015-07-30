@@ -1,0 +1,12 @@
+TITLE: Au weia...
+AUTHOR: Christian Herenz
+DATE: 24.03.2008 18:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Wenn ich derartiges sehe bekomme ich das Kotzen. Eigentlich sollte es unter Strafe gestellt sein kleinen Kindern hanebüchenen Schwachsinn zu erzählen. Die Kinder in dem folgenden Clip tun mir einfach nur leid.
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/fUeoem1gR3s&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/fUeoem1gR3s&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+END-----

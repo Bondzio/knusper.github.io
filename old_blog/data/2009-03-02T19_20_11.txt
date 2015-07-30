@@ -1,0 +1,19 @@
+TITLE: Debian Lenny auf iMac G3
+AUTHOR: Christian Herenz
+DATE: 02.03.2009 19:20 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe heute auf meinem (ur-)alten iMac G3 Debian Lenny installiert.
+eigentlich hatte das CD-Laufwerk von dem eine Macke, aber die kleine
+Netinstall CD hat er problemlos geladen. Der Rest lief so simpel, dass
+ich es kaum glauben konnte. Als Desktop habe ich ersteinmal Xfce
+installiert, funktioniert auch super (einen kleinen Tip bzgl. der
+xorg.conf werde ich in einem seperaten Post veröffentlichen). Sound
+habe ich noch nicht getestet, aber mal schauen, was der Abend noch so
+bringt. 
+
+Nun weiß ich nicht, was ich mit der Kiste noch machen soll... Ideen? 
+END-----

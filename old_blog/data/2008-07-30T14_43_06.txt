@@ -1,0 +1,21 @@
+TITLE: openDNS
+AUTHOR: Christian Herenz
+DATE: 30.07.2008 14:43 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Die DNS Server von openDNS sind nun meine primäre Wahl. Mit den DNS Servern
+von lokalen Internetprovidern (z.B. Alice / Hansenet) bin ich sehr
+unzufrieden, speziell was die Geschwindigkeit angeht - aber manche URLs sind
+temporär einfach garnicht zu erreichen (sehr ärgerlich!!!). 
+
+Aber auch wenn man nicht von deartigen Problemen behelligt ist, sollte man
+openDNS mal ausprobieren, die Vorteile werden auf der Website erläutert:
+
+<http://www.opendns.com>
+
+Interessant auch der Artikel aus einem NYTimes Blog:
+*"[My wife and I are totally loving the new speed. Don’t tell Open DNS, but we even would have paid for it.](http://pogue.blogs.nytimes.com/2006/11/01/a-faster-web-for-free/)"*
+END-----

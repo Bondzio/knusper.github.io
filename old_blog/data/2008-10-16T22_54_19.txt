@@ -1,0 +1,18 @@
+TITLE: Phlix.tv - AVI/MOV/WMV/MP4 etc. direkt im Web nach Flash exportieren
+AUTHOR: Christian Herenz
+DATE: 16.10.2008 22:54 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![phlix.tv](http://phlix.tv/img/header.png)
+
+*[Phlix.TV](http://phlix.tv/) basically will take any non-flash video file [AVI/MOV/WMV/MP4/Etc, as long as it's on a http server], and convert it to flash on the fly, without [too] much wait [5-15 seconds at most if the server containing the video is slow]. No need to download some random codec to watch videos, as long as you can stand [slightly higher quality than normal] flash video.*
+
+Und laut Aussage des Entwicklers hat die Entwicklung des Web-Services dank [ffmpeg](http://en.wikipedia.org/wiki/Ffmpeg) 1 Wochenende gedauert.
+
+[miskam7 pres. Phlix.tv](http://micksam7.com/blog/2008/phlixtv/)
+
+Dennoch ändert das nichts an der Tatsache, dass ich Flash eigentlich ablehne...
+END-----

@@ -1,0 +1,51 @@
+TITLE: My Discogs Widgets
+AUTHOR: Christian Herenz
+DATE: 25.08.2008 03:06 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+<p><b>My Discogs Profile</b></p><br>
+
+<style tyle="text/css">
+#dpw_main {width:250px;border:solid 1px #777;}
+#dpw_top {border-bottom:5px solid #dda;}
+#dpw_header {border:0px;cellpadding:3px;cellspacing:0px;width:100%;}
+#dpw_search {font-size:9pt;color:#999;}
+#dpw_footer {background:#dda;padding-top:3px;padding-bottom:3px;text-align:center;}
+</style>
+<div id="dpw_main"><div id="dpw_top"><table id="dpw_header"><tr>
+<td align="left"><a href="http://www.discogs.com/">
+<img src="http://www.discogs.com/images/dislogo-sm.gif" border="0" width="70" height="28" /></a></td>
+<td valign="center"><form action="http://www.discogs.com/search" method="get">
+<input id="dpw_search" type="text" name="q" onfocus="this.value='';this.style.color='black';" 
+value="search Discogs" size="10" /></td></tr></form></table></div>
+<iframe src="http://www.discogs.com/users/wprofile/Knusper2000" width="248" height="300" frameborder="0"></iframe>
+<div id="dpw_footer"><a href="http://www.discogs.com/user/Knusper2000">Knusper2000's Profile</a> - 
+<a href="http://www.discogs.com/widgets">Get This Widget</a></div></div>
+
+
+<p><b>My Records for Sale on Discogs</b></p><br>
+
+<style tyle="text/css">
+#dsw_main {width:250px;border:solid 1px #777;}
+#dsw_top {border-bottom:5px solid #dda;}
+#dsw_header {border:0px;cellpadding:3px;cellspacing:0px;width:100%;}
+#dsw_search {font-size:9pt;color:#999;}
+#dsw_footer {background:#dda;padding-top:3px;padding-bottom:3px;text-align:center;}
+</style>
+<div id="dsw_main"><div id="dsw_top"><table id="dsw_header"><tr>
+<td align="left"><a href="http://www.discogs.com/sell/list?seller=Knusper2000&ev=zl">
+<img src="http://www.discogs.com/images/dislogo-sm.gif" border="0" width="70" height="28" /></a></td>
+<td valign="center"><form action="http://www.discogs.com/sell/list" method="get">
+<input type="hidden" name="seller" value="Knusper2000" /><input type="hidden" name="ev" value="zs" />
+<input id="dsw_search" type="text" name="q" onfocus="this.value='';this.style.color='black';" 
+value="search my sales" size="15" /></td></tr></form></table></div>
+<iframe src="http://www.discogs.com/sell/wdata?seller=Knusper2000" width="248" height="300" frameborder="0"></iframe>
+<div id="dsw_footer"><a href="http://www.discogs.com/sell/list?seller=Knusper2000&ev=zp">Seller Profile</a> - 
+<a href="http://www.discogs.com/widgets">Get This Widget</a></div></div>
+
+
+
+END-----

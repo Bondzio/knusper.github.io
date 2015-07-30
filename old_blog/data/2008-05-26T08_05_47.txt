@@ -1,0 +1,16 @@
+TITLE: Der Phoenix ist gelandet 
+AUTHOR: Christian Herenz
+DATE: 26.05.2008 08:05 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Das habe ich gerade über meine Startseite [APOD](http://antwrp.gsfc.nasa.gov/apod/) erfahren.
+
+Na, da freue ich mich aber mal, dass das geklappt hat. :)
+
+*Touching down shortly after 7:30pm Eastern Time, Phoenix made the first successful soft landing on Mars, using rockets to control its final speed, since the Viking landers in 1976.*
+
+[APOD: 2008 May 26 - A New Horizon for Phoenix:](http://antwrp.gsfc.nasa.gov/apod/ap080526.html)
+END-----

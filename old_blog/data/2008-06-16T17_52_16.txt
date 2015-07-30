@@ -1,0 +1,20 @@
+TITLE: freiesMagazin 
+AUTHOR: Christian Herenz
+DATE: 16.06.2008 17:52 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Bin da gerade drübergestolpert, weil sich ein Interview mit Henrik Kinunnen in
+dieser "freien" (frei wie in Freiheit) Zeitschrift befindet, dem Entwickler
+von [Fluxbox](http://www.fluxbox.org), was ja der Windowmanager meiner Wahl
+ist. Schön dass es sowas gibt... Ab in die Bookmarks damit!
+
+*freiesMagazin ist ein monatlich erscheinendes Magazin, welches sich von einem
+ losen Newsletter zu einem selbständigen Magazin mit Interessantem und
+ Wissenswertem aus der Welt von GNU/Linux und Freier Software entwickelt
+ hat. Wir sind ständig auf der Suche nach weiteren Autoren.*
+
+<http://www.freiesmagazin.de/>
+END-----

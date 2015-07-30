@@ -1,0 +1,16 @@
+TITLE: rsyncing 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 22:11 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Nachdem ich mit ascopy irgendwie nicht so den Erfolg hatte, hab ich 
+jetzt ein bisschen mit [rsync](http://de.wikipedia.org/wiki/Rsync) rumgespielt... Das gefällt mir noch 
+besser, ich glaube ich habe jetzt die ideale Variante gefunden mein 
+Blog zu führen... Weiteres dann im nächsten Post!
+
+
+
+END-----

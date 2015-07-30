@@ -1,0 +1,17 @@
+TITLE: Public Key 
+AUTHOR: Christian Herenz
+DATE: 12.04.2008 18:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+In Zukunft würde ich es sehr begrüßen, wenn die Übermittlung von Informationen
+an meine eMail Adresse *christian.herenz <at> student.hu-berlin.de* verschlüsselt stattfindet. Den zu verwendenden PGP Key
+findet ihr entweder direkt unter folgender URL:
+
+<http://amor.cms.hu-berlin.de/~herenzed/christian.herenz_pub.asc>
+
+Oder er müsste sich auch bald auf sämtlichen Keyservern verteilt haben, so
+dass ihr ihn auch von dort importieren könnt.
+END-----

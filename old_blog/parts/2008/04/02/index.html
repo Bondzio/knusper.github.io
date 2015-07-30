@@ -1,0 +1,106 @@
+<div class="item">
+	<a id="e2008-04-02T22_30_25.txt"></a>
+	<h2 class="date">02.04.2008 22:30 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">Discount - immer noch Buggy </h3>
+		<div class="item-description">
+			<p>Heute <a href="http://amor.cms.hu-berlin.de/%7Eherenzed/blog/archives/2008/04/02/discount_markdown_in_c_-_neue_version/index.html">Vormittag erst darüber berichtet</a>, das es eine neue Version 
+von Discount gibt, dem Markdown-Parser in C, so hab ich nach bisschen Testen gerade
+den nächsten Bug gefunden. String-Parsing in C ist Hölle! Es geht immer noch
+um eingebetteten HTML Code innerhalb von reinem Markdown:</p>
+
+<p>Folgendes:</p>
+
+<pre><code> &lt;img src="./sad.gif" alt=":("&gt;
+</code></pre>
+
+<p>produziert fälschlicherweise (aber nur wenn Smartypants angeschaltet ist,
+lässt sich beim kompilieren aber disablen und wenns mitkompiliert wurde mit
+durch starten mit dem Flag -F 0x4):</p>
+
+<pre><code>&lt;p&gt;&lt;img src="./sad.gif" alt=":(&amp;ldquo;&gt;&lt;/p&gt;
+</code></pre>
+
+<p>Still some work to do! Innerhalb des HTML-Blocks sollte Smartypants eigentlich
+nicht &ldquo; nach \$ldquo; und \$rdquo; umwandeln, was bei normalem Text durchaus ein
+typographisch besseres Schriftbild liefert. Normalerweise klappt das in der
+neuen Version auch, aber sobald man innerhalb des alt-Attributs eine Klammer
+hat, kommt der durcheinander  <img src="../../../../moods/smilies/sad.gif" alt=":(" /></p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2008/04/02/discount_-_immer_noch_buggy/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../archives/2008/04/02/discount_-_immer_noch_buggy/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/02/discount_-_immer_noch_buggy/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/02/discount_-_immer_noch_buggy/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/02/discount_-_immer_noch_buggy/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/02/discount_-_immer_noch_buggy/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+<div class="item">
+	<a id="e2008-04-02T21_41_29.txt"></a>
+	<h2 class="date">02.04.2008 21:41 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">openSUSE Packaging Day II</h3>
+		<div class="item-description">
+			<p>Ach&hellip; Und ich würde so gerne mitmachen, denn im openSUSE Buildservice kann man Binärpakete für zig Distributionen gleichzeitig erstellen. Die Hardware auf denen die Pakete gebaut werden wird übrigens freundlicherweise von AMD zur Verfügung gestellt. Ach, wie gerne wäre ich dabei:</p>
+
+<p><em>Friday, April 4th, 2008 through Saturday, April 5th, 2008 in any timezone that you can imagine. That means from the morning in Europe on Friday, through the late afternoon on Saturday in the Americas.</em></p>
+
+<p><em>We will help new packagers to create packages for software that isn&rsquo;t currently available for openSUSE. We invite people to roll up their sleeves and get involved. If you have this fancy application or tool that isn&rsquo;t packaged yet, and you're not afraid to learn how to do it yourself, then this is for you.</em></p>
+
+<p>Das Problem ist allerdings, das ich gerade in der heißen Phase meiner Prüfungsvorbereitung bin.  <img src="../../../../moods/smilies/sad.gif" alt=":(" />
+Naja, das wird schon nicht der letzte Packaging-Day sein:</p>
+
+<p><a href="http://en.opensuse.org/Packaging/Packaging_Day">http://en.opensuse.org/Packaging/Packaging_Day</a></p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2008/04/02/opensuse_packaging_day_ii/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../archives/2008/04/02/opensuse_packaging_day_ii/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/02/opensuse_packaging_day_ii/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/02/opensuse_packaging_day_ii/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/02/opensuse_packaging_day_ii/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/02/opensuse_packaging_day_ii/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>
+<div class="item">
+	<a id="e2008-04-02T11_04_16.txt"></a>
+	<h2 class="date">02.04.2008 11:04 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">Discount (Markdown in C) - Neue Version </h3>
+		<div class="item-description">
+			<p>Gerade erreichte mich eine Email:</p>
+
+<pre><code>The new version is out!  (and it's got the fix for the &lt;html tag&gt;
+defect in it -- thanks again for pointing it out to me.
+-david parsons
+</code></pre>
+
+<p>Dann kann ich ja heute abend auch wieder die Smartypants-Erweiterung mitkompilieren,
+die verursachte nämlich einen Fehler sobald man von Markdown-Syntax auf HTML-Syntax geswitched
+ist, was aber in der laut Markdown Spezifikation nicht so sein sollte.</p>
+
+<p><a href="http://www.pell.portland.or.us/%7Eorc/Code/discount/">Discount &ndash; Markdown in C</a></p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2008/04/02/discount_markdown_in_c_-_neue_version/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../archives/2008/04/02/discount_markdown_in_c_-_neue_version/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/04/02/discount_markdown_in_c_-_neue_version/index.html');" target="_self"><script type="text/javascript">postCount('2008/04/02/discount_markdown_in_c_-_neue_version/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/04/02/discount_markdown_in_c_-_neue_version/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/04/02/discount_markdown_in_c_-_neue_version/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>

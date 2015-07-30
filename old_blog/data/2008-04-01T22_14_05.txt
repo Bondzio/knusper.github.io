@@ -1,0 +1,29 @@
+TITLE: So muss es an der Tafel aussehen... 
+AUTHOR: Christian Herenz
+DATE: 01.04.2008 22:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Dann klappts auch mit Mathe:
+
+![math](http://farm1.static.flickr.com/130/418180402_d5fb8a8713_d.jpg)
+*Quelle: [Flickr! User Shonk](http://www.flickr.com/photos/shonk/418180402/) (CC-Lizenz)*
+
+Och Mensch... Wo ich jetzt auf halbem Weg zu meiner (Nach-)Prüfung schon einen
+beachtlichen Stapel an Papier durchforsten muss um mir die eine oder andere
+mathematische Raffiniertheit nocheinmal zu vergegenwärtigen, da wünschte ich
+mir doch eine Tafel in meinem Zimmerchen. Auch in den Gruppenarbeitsräumen der
+Bibliothek wäre sowas nett.
+
+Aber im ernst, eine Tafel daheim - das ist bisschen zu geekig oder? Ich wüsste
+auch garnicht wo ich die Aufhängen sollte, kein Platz. 
+
+Es gibt aber zwei wesentliche Vorteile beim arbeiten an der Tafel gegenüber
+dem Papier:
+
+1. Man kann einen Fehler durch wischen korrigieren...
+2. Man hat ultra viel Platz und kann durch einen Schritt zurück sich
+nocheinmal eine lange Rechnung überblicken.
+END-----

@@ -1,0 +1,15 @@
+TITLE: DIY Daft Punk
+AUTHOR: Christian Herenz
+DATE: 02.10.2008 21:39 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Macht der Typ hier nicht schlecht...
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/0rD1q47Hu3s&hl=de&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/0rD1q47Hu3s&hl=de&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+
+[[via](http://www.spreeblick.com/feeder/?FeederAction=clicked&feed=Articles+%28RSS2%29&seed=http%3A%2F%2Fwww.spreeblick.com%2F2008%2F10%2F01%2Fwie-man-einen-hit-von-daft-punk-nachbastelt%2F&seed_title=Wie+man+einen+Hit+von+Daft+Punk+nachbastelt)
+
+END-----

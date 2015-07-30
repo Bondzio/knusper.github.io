@@ -1,0 +1,16 @@
+TITLE: ReBirth (Roland TB-303, 909, 808 Emulator) kostenlos zum Download
+AUTHOR: Christian Herenz
+DATE: 04.05.2008 12:08 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade bei [Eric](http://thepassenger.playz.it/) gelesen:
+
+*...der nette kleine Rebirth ist ab sofort nur noch im Online Museum zu bewundern .... doch das gute daran ist das gute darin, denn die Software gibts auf dieser Seite komplett umsonst und legal zum download!!!!*
+
+Dieses Online Museum sollte ich mir mal reinziehen...
+
+<http://www.rebirthmuseum.com/>
+END-----

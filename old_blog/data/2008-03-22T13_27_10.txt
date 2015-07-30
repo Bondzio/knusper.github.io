@@ -1,0 +1,27 @@
+TITLE: STIX Fonts 
+AUTHOR: Christian Herenz
+DATE: 22.03.2008 13:27 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+>The mission of the Scientific and Technical Information Exchange (STIX) font creation project is the preparation of a comprehensive set of fonts that serve the scientific and engineering community in the process from manuscript creation through final publication, both in electronic and print formats. Toward this purpose, the STIX fonts will be made available, under royalty-free license, to anyone, including publishers, software developers, scientists, students, and the general public.
+
+Das Projekt läuft schon seit 1996, der Beta Test ist bereits beendet und laut Timeline auf der [Website][1] 
+soll diesen Monat Releasetermin sein.
+
+Die Website wirbt mit einem Auszug aus der New York Times:
+
+![New York Times Zitat](http://www.stixfonts.org/images/nytquote.gif)
+
+Was ist das besondere an dem STIX Fonts Projekt? Ich zitiere einfach mal aus einer Presseinformation:
+
+>There is currently a clear need for a new font set for mathematical and other scientific symbols, especially in the area of on-screen display in electronic publishing. Today, scientists must assemble scientific symbols and special characters from a variety of fonts, many of which may vary in character style, positioning, or size.  The resulting documents typically have an unsatisfactory, jumbled appearance.  Even more importantly, when posted to a web site, these documents may not be properly rendered unless the viewers of the document have all of the same specialized fonts available on the computer workstations they are using.  This new set of fonts, known as the STIX Fonts, will solve both of these problems, serving the scientific and engineering community in the process from manuscript creation all the way through to final publication, both in electronic and print formats.  It will unify support for all special symbols and alphabets into a single, comprehensive font set.
+
+Bin ja mal gespannt! Sobald die Fonts draußen sind, werd ich mir einen Eindruck davon verschaffen ob die hochgesteckten Ziele auch erreicht werden können.
+
+<http://www.stixfonts.org/>
+
+[1]: http://www.stixfonts.org/ 
+END-----

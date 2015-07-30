@@ -1,0 +1,13 @@
+TITLE: Icke - Photographiert vorm Institut
+AUTHOR: Christian Herenz
+DATE: 08.05.2008 19:09 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Kommolitone hat einen Schnappschuss von mir vorm Physikinstitut
+geknipst. Ganz nettes Foto, wie ich finde
+
+![Flickr! Foto](http://farm3.static.flickr.com/2041/2475725113_0df2680866.jpg)
+END-----

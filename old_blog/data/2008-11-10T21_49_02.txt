@@ -1,0 +1,30 @@
+TITLE: Astrophysics Stuff Nov. 2008
+AUTHOR: Christian Herenz
+DATE: 10.11.2008 21:49 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade bemerkt, dass die erste Veröffentlichung meines Betreuers am AIP bereits gedruckt wurde. Lustigerweise in der selben Ausgabe von "[Astronomy & Astrophysics](http://de.wikipedia.org/wiki/Astronomy_and_Astrophysics)" in der auch eine Arbeit über den Supernovaüberrest von Keplers Supernova (AD1604) enthalten ist, welcher mit dem [HESS](http://de.wikipedia.org/wiki/H.E.S.S.)  Cherenkov-Teleskop (an dem auch ein Professor der HU beteiligt ist) untersucht wurde. Diese Untersuchung legt eine obere Grenze für die Distanz zu dem Supernovaüberrest von 6,4 kpc nahe. Im Rahmen meines Vortrages "Supernovae" im Seminar "[Weltall und Teilchen](http://www-eep.physik.hu-berlin.de/~lacker/exp_physik_seminar_ws0809.html)" am 28. November werde ich auch einige Kernpunkte dieser Untersuchung vermitteln.
+
+In der selben Ausgabe auch noch ein Letter, welcher sich mit der direkten photographischen Abbildung von extrasolaren Planeten beschäftigt. Spannender Kram...
+
+*A&A 488, L9-L12 (2008)*
+
+**Wavefront error correction and Earth-like planet detection by a self-coherent camera in space** *(Labadie et. al.)*
+
+DOI: [10.1051/0004-6361:200810356](http://dx.doi.org/10.1051/0004-6361:200810356)
+
+*A&A 488, 145-149 (2008)*
+
+**Extended emission-line regions in low-redshift quasars - Dependence on nuclear spectral properties** *(Husemann et. al.)*
+
+DOI: [10.1051/0004-6361:200810276](http://dx.doi.org/10.1051/0004-6361:200810276)
+
+*A&A 488, 219-223 (2008)*
+
+**HESS upper limits for Kepler's supernova remnant** *(H.E.S.S. Collaboration=*
+
+DOI: [10.1051/0004-6361:200809401](http://dx.doi.org/10.1051/0004-6361:200809401)
+END-----

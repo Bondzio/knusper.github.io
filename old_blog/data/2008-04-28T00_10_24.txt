@@ -1,0 +1,12 @@
+TITLE: iRiver S10 - kaputt :( 
+AUTHOR: Christian Herenz
+DATE: 28.04.2008 00:10 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade hat mein iriver S10 seinen Dienst aufgegeben...
+Toll! :( 
+Hoffentlich tauschen die vom [Cyberport Store](http://www.cyberport.de/) ihn problemlos um!
+END-----

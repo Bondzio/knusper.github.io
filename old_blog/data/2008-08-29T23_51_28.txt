@@ -1,0 +1,12 @@
+TITLE: Wolfenflickr 3D - Wolfenstein3D - Flickr! Mashup in Javascript
+AUTHOR: Christian Herenz
+DATE: 29.08.2008 23:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Genial! Läuft im aktuellen Seamonkey ziemlich Lahm, aber im Firefox 3 rockt es massiv!
+
+<http://www.nihilogic.dk/labs/wolfenflickr/>
+END-----

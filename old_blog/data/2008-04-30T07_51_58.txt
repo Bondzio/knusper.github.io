@@ -1,0 +1,14 @@
+TITLE: Kaputter iriver S10 - Update
+AUTHOR: Christian Herenz
+DATE: 30.04.2008 07:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Hab den gestern im Store abgeben lassen (konnte leider nicht selber).
+Mal schauen, was so passiert...
+
+    Unser Serviceteam wird sich schnellstmoeglich um eine Garantie- bzw.
+    Gewaehrleistungsabwicklung kuemmern.
+END-----

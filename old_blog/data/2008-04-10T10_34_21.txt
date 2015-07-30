@@ -1,0 +1,15 @@
+TITLE: nfoview - .NFO Viewer für Linux
+AUTHOR: Christian Herenz
+DATE: 10.04.2008 10:34 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Wenn man mal unter Linux eine .NFO Datei in ihrer vollen Pracht
+ betrachten will, ist dieses Tool erste Wahl.
+
+Aber wer hat schon solche Dateien...
+
+<http://home.gna.org/nfoview/>
+END-----

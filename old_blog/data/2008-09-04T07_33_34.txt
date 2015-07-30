@@ -1,0 +1,16 @@
+TITLE: Wer braucht Google Chrome?
+AUTHOR: Christian Herenz
+DATE: 04.09.2008 07:33 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Google natürlich, um profite zu maximieren. Sonst Niemand...
+
+Nochmehr fundierte Analysen zu Chrome (äh, wie heißt nochmal die
+[Benutzeroberfläche bei
+Mozilla](http://www.firefox-browser.de/wiki/Chrome)) liefert Peter Kröner in
+seinem Rundumschlag "[V8 ist lahm, Google durchschäublet euch alle und
+das Interface ist geklaut](http://www.firefox-browser.de/wiki/Chrome)"
+END-----

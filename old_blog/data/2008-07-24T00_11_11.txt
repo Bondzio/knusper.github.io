@@ -1,0 +1,18 @@
+TITLE: Bearbeitete Übungen zu Computational Physics 1 
+AUTHOR: Christian Herenz
+DATE: 24.07.2008 00:11 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich habe mal die von mir besonders erfolgreich bearbeiteten Aufgaben im Kurs
+"CP1 - Computational Physics 1" gehalten von Prof. Ulli Wolf im SS 2008 auf
+meine Physik-HP hochgeladen. Kann ja dem einen oder anderen ggf. als
+Anschauungsmaterial bzw. Musterlösung dienen:
+
+[http://people.physik.hu-berlin.de/~herenz/](http://people.physik.hu-berlin.de/~herenz/)
+
+(ganz nach unten Scrollen - Dateien im PDF und PS Format - TeX Quellen und
+einzelne Diagramme gibts auf Anfrage)
+END-----

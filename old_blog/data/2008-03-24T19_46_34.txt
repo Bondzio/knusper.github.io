@@ -1,0 +1,50 @@
+TITLE: Bug in Markdown (Discount)
+AUTHOR: Christian Herenz
+DATE: 24.03.2008 19:46 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Und ich hab ihn gefunden* :)
+
+Hier die Kopie meiner eMail Korospondenz:
+
+> Hi,
+> > 
+> > If I have text like:
+> > 
+> >      <img src="test.gif" alt="test.gif" />
+> >    
+> >         ![test.gif](test.gif)|
+> > 
+> > Shouldnt markdown then generate:
+> > 
+> >      <img src="test.gif" alt="test.gif" />
+> >	 <img src="test.gif" alt="test.gif" />
+> > 
+> > ??
+> > 
+> > Here discount generates:
+> > 
+> >     <p><img src=&ldquo;test.gif&rdquo; /></p>
+> >       
+> >     <p><img src="test.gif" alt="test.gif" /></p>
+> > 
+> > ||???
+> > 
+> > I understand that these are smartypants translations, which I normally 
+> > would like, but not inside html elements.
+> > Do I miss something here??
+> 
+> No, you've found a bug in how I handle the contents of a html element.
+> Thanks for pointing it out to me -- I'll try and fix that bug in the
+> next release of the code.
+> 
+> 
+>     -david parsons
+>
+
+Ich sag Bescheid, wenn die neue Version draußen ist:
+<http://www.pell.portland.or.us/~orc/Code/markdown/> 
+END-----

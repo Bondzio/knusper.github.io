@@ -1,0 +1,30 @@
+<h2 class="date">
+	05.08.2008 13:06 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-08-05T13_06_53.txt"></a>
+	<h3 class="title">openDNS mit Debian in einem DHCP Netzwerk</h3>
+	<p>Unter openSUSE hat man sowas innerhalb mit 3 Klicks in YAST erledigt &ndash;
+in Debian ist es aber genauso einfach.</p>
+
+<p>Einfacht die Datei</p>
+
+<pre><code> /etc/dhcp3/dhcp.conf
+</code></pre>
+
+<p>öffnen, und an das Ende der Datei folgende Zeile hängen:</p>
+
+<pre><code>prepend domain-name-servers 208.67.222.222, 208.67.220.220;
+</code></pre>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../../archives/2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html');" target="_self"><script type="text/javascript">postCount('2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/08/05/opendns_mit_debian_in_einem_dhcp_netzwerk/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>

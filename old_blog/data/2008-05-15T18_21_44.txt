@@ -1,0 +1,12 @@
+TITLE: Vorlesungsfolien zur "Geschichte der Physik" - jetzt auch online
+AUTHOR: Christian Herenz
+DATE: 15.05.2008 18:21 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hab von Prof. Ebeling die Folien zur Vorlesungsreihe "Geschichte der Physik" erhalten. In Zukunft wird es die Folien zu den aktuellen Vorlesungen mit etwas Verzögerungen immer auf der von mir für die Veranstaltung betreuten Seite geben:
+
+<http://people.physik.hu-berlin.de/~herenz/geschichte/>
+END-----

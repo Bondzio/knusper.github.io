@@ -1,0 +1,14 @@
+TITLE: Doom Videos
+AUTHOR: Christian Herenz
+DATE: 07.01.2009 22:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Lust auf Doom, aber keine Lust selber zu spielen? Erfahrenen Spielern kann man nun in verschiedensten Versionen von Doom auf den verschiedensten Plattformen über die Schulter schauen, denn das Videoportal [Doomvideos](http://www.doomvideos.com/) ist da!
+
+<http://www.doomvideos.com/>
+
+[via [newdoom.com](http://www.newdoom.com/index.php#newsitemEkFEFyppApEXOjEdqt)]
+END-----

@@ -1,0 +1,14 @@
+TITLE: So funktioniert Demokratie 
+AUTHOR: Christian Herenz
+DATE: 30.09.2008 00:55 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Diese Graphik hier zeigt doch mal wieder deutlich, warum Demokratie nicht funktionieren kann...
+
+<http://ptrace.fefe.de/uselection.png> <<-- Klickidicklick
+
+(Ob ich mit dem Ausspruch jetzt in der Rasterfahndung gelandet bin)
+END-----

@@ -1,0 +1,23 @@
+TITLE: Spiral Sequencer
+AUTHOR: Christian Herenz
+DATE: 11.10.2008 18:32 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ihr errinnert euch noch an die [KrazyDads](http://www.krazydad.com/) [Whitney Music Box](http://www.krazydad.com/blog/2006/04/23/visual-harmony/)?
+
+Nicht... [Dann noch mal hier klicken](http://www.coverpop.com/whitney/)!
+
+Jetzt hat Native Instruments daraus sogar ein professionelles Werkzeug für den PC Soundtüftler gemacht.
+
+![Image](http://img504.imageshack.us/img504/5306/nispiralthumboq4.jpg)
+
+[REAKTOR ANIMATED CIRCUITS @ Native Instruments](http://www.native-instruments.com/index.php?reaktoranimatedcircuits)
+
+Standalone: 49 €
+Für Reaktor 5 benutzer Gratis.
+
+Genial!
+END-----

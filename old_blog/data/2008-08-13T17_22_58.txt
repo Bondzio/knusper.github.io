@@ -1,0 +1,17 @@
+TITLE: New York Fotos
+AUTHOR: Christian Herenz
+DATE: 13.08.2008 17:22 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+[Hier](http://people.physik.hu-berlin.de/~herenz/Bilder/album/index.html) sind sie nun, die versprochenen [New York
+Fotos](http://people.physik.hu-berlin.de/~herenz/Bilder/album/index.html)
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/de/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/StillImage" property="dc:title" rel="dc:type">Fotos New York</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="http://knusper.says.it" property="cc:attributionName" rel="cc:attributionURL">Christian Herenz</a> steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/de/">Creative Commons Namensnennung-Keine kommerzielle Nutzung 3.0 Deutschland Lizenz</a>.<br />Beruht auf einem Werk unter <a xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://people.physik.hu-berlin.de/~herenz/Bilder/album/index.html" rel="dc:source">people.physik.hu-berlin.de</a>.
+
+
+END-----

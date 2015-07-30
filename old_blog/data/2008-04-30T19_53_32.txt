@@ -1,0 +1,18 @@
+TITLE: Ein PDF aus mehreren PNG Grafiken erzeugen...
+AUTHOR: Christian Herenz
+DATE: 30.04.2008 19:53 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Bei [Novell Cool Solutions](http://www.novell.com/communities/coolsolutions) findet man tatsächlich immer wieder praktische Überaschungen. Zum Beispiel wird dieses kleine Shell Skript mir noch öfter gute Dienste erweisen:
+
+***Creating one pdf file from a directory of multiple .png scans***
+
+*What it does:
+First it takes .png scans from the current directory and creates a .pdf file for each one with imagemagick.
+Then, with pdftk, all the .png scans are rolled into one larger .pdf file.*
+
+[makepdf.sh @ Novell Cool Solutions](http://www.novell.com/coolsolutions/tools/17083.html?rnd=149547.72942653805)
+END-----

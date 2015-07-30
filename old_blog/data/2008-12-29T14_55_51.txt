@@ -1,0 +1,22 @@
+TITLE: Desktop Summer / Fall 2008
+AUTHOR: Christian Herenz
+DATE: 29.12.2008 14:55 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Meine heutige produktivität wird sich darauf beschränken meinem
+Desktop ein neues Kleid überzustülpen (d.h. neue Fluxbox
+Fensterdekorationen und neues Hintergrundbild).
+
+Mit der alten Zusammenstellung habe ich das letzte halbe Jahr
+verbracht und eigentlich gibt es keinen Grund diese zu ändern, aber es
+ist irgendwie zur Gewohnheit für mich geworden, dass ich aller halben
+Jahre meinem Desktop einen neuen Look verpasse.
+
+In Gedenken an meinen alten Desktop (R.I.P.) poste ich hier einen
+Screenshot:
+
+<a href="http://img261.imageshack.us/my.php?image=screengq8.png" target="_blank"><img src="http://img261.imageshack.us/img261/9804/screengq8.th.png" border="0" alt="Free Image Hosting at www.ImageShack.us" /></a><br /><br /><a href="http://img604.imageshack.us/content.php?page=blogpost&files=img261/9804/screengq8.png" title="QuickPost"><img src="http://imageshack.us/img/butansn.png" alt="QuickPost" border="0"></a>
+END-----

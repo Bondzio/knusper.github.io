@@ -1,0 +1,16 @@
+TITLE: Online Skript zum Thema "Teilchen und Kerne"
+AUTHOR: Christian Herenz
+DATE: 07.11.2008 00:28 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gerade beim herumgooglen [dieses](http://www.e18.physik.tu-muenchen.de/skript/index.html) hervorragende Skript zum Kurs Teilchen und Kerne gefunden.
+
+Nicht, das die [Folien](http://www-eep.physik.hu-berlin.de/lectures/strumac/strumac_ws0809.html) und Tafelbilder unseres Professors in Verbindung mit [einschlägiger](http://www.viewegteubner.de/index.php;do=show/sid=85598d9a8930b88adfc2ad8845a6e7c4/site=v/book_id=13094) [Literatur](http://www.springer.com/physics/elementary/book/978-3-540-68075-8) den Stoff etwa unzureichend vermitteln.
+
+Aber manches wird zumindest mir einfach klarer, wenn man den selben Inhalt nochmal sich in anderer Formulierung zu Gemüte führt.
+
+<http://www.e18.physik.tu-muenchen.de/skript/index.html>
+END-----

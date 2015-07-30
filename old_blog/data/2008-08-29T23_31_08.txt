@@ -1,0 +1,14 @@
+TITLE: Mein altes Blog gelöscht...
+AUTHOR: Christian Herenz
+DATE: 29.08.2008 23:31 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+So, habe heute mein altes Blog gelöscht. Wer jetzt nocht nicht mitbekommen hat, das es hier weitergeht, der ist selber schuld!
+
+Natürlich sind alle Einträge für alle Ewigkeiten bei der Wayback Machine von Archive.org archiviert!
+
+<http://web.archive.org/web/*/http://myblog.de/knusper>
+END-----

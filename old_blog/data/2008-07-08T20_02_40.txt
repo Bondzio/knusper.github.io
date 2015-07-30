@@ -1,0 +1,17 @@
+TITLE: Wörter zählen in Emacs
+AUTHOR: Christian Herenz
+DATE: 08.07.2008 20:02 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich war ja ein bisschen erstaunt, dass diese Fähigkeit nicht von Hause aus in
+dem Editor meiner Wahl eingebaut ist, aber natürlich kann man das ganz leicht
+nachrüsten (zumindest unter Linux) - einfach folgende Zeilen in die .emacs
+einfügen:
+
+
+    (defun word-count nil "Count words in buffer" (interactive)
+    (shell-command-on-region (point-min) (point-max) "wc -w"))	
+END-----

@@ -1,0 +1,17 @@
+TITLE: Kein Linux mehr bei Lenovo
+AUTHOR: Christian Herenz
+DATE: 14.09.2008 10:45 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+[Lenovo hat bekanntgegeben](Lenovo hat bekanntgegeben), zumindest
+durch ihren Webshop keine Notebooks mehr mit vorinstalliertem Linux
+auszuliefern. Das heißt, das man als Linuxanwender gezwungen wird Geld
+für das [schlechteste Betriebsystem aller
+Zeiten](http://badvista.fsf.org/) aus dem Fenster zu schmeißen.
+
+Nachdem ich am AIP nun schon einige in Action gesehen habe, ist für
+mich der Groschen gefallen. [Ein Dell mit Ubunutu bitteschön](http://www1.euro.dell.com/content/topics/topic.aspx/emea/segments/gen/client/de/ubuntu_landing?c=de&l=de&s=dhs)... 
+END-----

@@ -1,0 +1,18 @@
+TITLE: Stream Selector 
+AUTHOR: Christian Herenz
+DATE: 27.07.2008 17:11 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hab ein kleines Bash-Script geschrieben, mit dem ich die Radio-Streams aus
+dem [robotsforrobots.net](http://www.robotsforrobots.net) ganz einfach mittels
+Mausklick starten kann. 
+
+![radio_sh.png](http://people.physik.hu-berlin.de/~herenz/radiosh/radio_sh.png)
+
+Benötigt: [Xdialog](http://xdialog.free.fr/) & [Bash](http://www.gnu.org/software/bash/)
+
+<http://people.physik.hu-berlin.de/~herenz/radiosh/radio.sh>
+END-----

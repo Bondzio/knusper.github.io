@@ -1,0 +1,20 @@
+TITLE: Sicherheitslücke im VLC 0.8.6e 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 14:02 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Durch speziell präparierte Untertiteldateien kann es zu einem 
+Bufferoverflow kommen, was einem Angreifer ermöglichen kann 
+, schadhaften Code auszuführen. Ein Update gibts noch nicht. Kritisch 
+ist, das Untertiteldateien automatisch geöffnet werden, wenn der 
+Dateiname mit dem des Videos übereinstimmt.
+
+Untertiteldateien aus nicht Vertrauenswürdigen Quellen sollten daher 
+vor dem öffnen des Videos umbenannt werden und auch dann am besten 
+auch nicht manuell in den Player geladen werden.
+
+[securityvulns.com](http://securityvulns.com/Tdocument429.html)
+END-----

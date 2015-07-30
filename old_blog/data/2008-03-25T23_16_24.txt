@@ -1,0 +1,53 @@
+TITLE: gcalc.el - Google Calculator Interface für Emacs 
+AUTHOR: Christian Herenz
+DATE: 25.03.2008 23:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Als dieses Skript das erste mal in [gnu.emacs.sources](news://gnu.emacs.sources) auftauchte,
+konnte ich nicht anders, als rumzumotzen.
+
+*Wer bitte braucht sowas?*
+
+Irgendwann hab ich den Emacs-Lisp-Fetzen dann doch spaßeshalber mal installiert, und mittlerweile 
+benutze ich es fast täglich. Ein paar Beispiele:
+
+
+	M-x  gcalc population Iceland
+
+
+und prompt kommt die Antwort (im Emacs):
+
+
+    	Population: 301,931 (July 2007 Est.)
+
+
+Es gehen natürlich alle Kommandos die im [Google Calculator](http://www.google.com/help/calculator.html)
+auch gehen würden. Auf der Website hab ich das Nie benutzt, aber in Emacs
+macht es wirklich Nutzen... Die Währungsumrechnung mit dem aktuellen Kurs ist
+auch äußerst nett:
+
+
+     M-x gcalc 1 eur in rub
+
+
+Nichtmal einen Augenblick später steht da:
+
+
+	 1 Euro = 36.6779451 Russian rubles
+
+
+Also, ich find das nützlich... Hab mal die aktuelle Version bei mir hier auf den Webspace gepackt,
+weil gibt es ja sonst nur im Usenet:
+
+<strike><http://people.physik.hu-berlin.de/~herenz/gcalc.el></strike>
+
+ **Update**
+
+Die neue Version (4) wurde nichtmal im Usenet bekanntgegeben, sondern wurde mir eben von Autthor persönlich gemailt:
+
+<http://bigwalter.net/daniel/elisp/gcalc.el>
+
+END-----

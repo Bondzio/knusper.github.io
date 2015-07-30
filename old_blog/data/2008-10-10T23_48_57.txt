@@ -1,0 +1,54 @@
+TITLE: Sidney Bradford
+AUTHOR: Christian Herenz
+DATE: 10.10.2008 23:48 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Bei Wikipedia kann man viel entdecken. Ich habe zum Beispiel heute die Geschichte von Sidney Bradford entdeckt, derzeit nur auf Englisch. Die Geschichte ist so faszinierend, dass ich Sie in die deutsche WP überseztzen werde.
+
+Rohfassung:
+
+*Sidney Bradford (30 Mai 1906 - 2 August 1969) erblindete im Alter von
+10 Monaten, konnte allerdings sein Sehvermögen im Alter von 52 Jahren durch
+eine Hornhauttransplantation wieder zurück erlangen. Er stand im Zentrum
+vieler wissenschaftlicher Studien des Neuropsychologen Richard
+Gregory, die sich mit der visuellen Wahrnehmung befassten.
+
+Die Operation ermöglichte es Veranlagungen des visuellen Systems des
+Menschen aufzuklären. Dadurch daß er ohne Sichtvermögen aufwuchs, war
+es ihm beispielsweise unmöglich die mehrdeutigkeit des Necker Kubus
+wahrzunhemen, des weiteren wahr ihm eine perspektivische
+Interpretation zwei-dimensionaler Zeichnung unmöglich.
+
+Unbeindruckt dessen konnte er jedoch eine akkurate
+Entfernungsabschätzung zu Gegenständen in einem Raum treffen, da er in
+Folge Durchlaufens des Raumes mit den Distanzen vor Wiedererlangung
+des Sichtvermögens vertraut war. In ähnlicher Analogie zwischen
+visueller und non-visueller (ausschließlich haptischer) Wahrnehmung
+war es ihm möglich optisch die Uhr im Operationsraum direkt nach
+seiner Operation zu lesen.
+
+Berauscht durch die neue Welt aus Farben und Bewegung wurde Bradford
+entsetzt von Anblicken, die er in den meisten Fällen unfähig war zu
+verstehen. Weder konnte er Menschen, noch viele andere Dinge erkennen
+die er bis zu diesem Zeitpunkt nur durch erfühlen wahrnahm.
+
+Vor der Operation war Bradford ein geschickter Machinist, aber
+nachdehm er das Sehvermögen erlangte wurde er verwirrt und war nicht
+fähig zu arbeiten. Zwei Jahre nach der Operation begang er Selbstmord.*
+
+Original: <http://en.wikipedia.org/wiki/Sidney_Bradford>
+
+interssanter Link:
+[Die gesamte Studie von Richard Gregory als PDF](http://www.richardgregory.org/papers/recovery_blind/recovery-from-early-blindness.pdf)
+
+Auf Seite 35 steht dort:
+His story is in some ways tragic. He suffered one of the greatest
+handicaps, and yet he lived with energy and enthusiasm. When his
+handicap was apparently swept away, as by a miracle, he lost his peace
+and his self-respect.
+
+
+END-----

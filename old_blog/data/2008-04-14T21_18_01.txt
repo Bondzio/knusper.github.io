@@ -1,0 +1,91 @@
+TITLE: Samsung ML-2010 unter Linux (openSUSE 10.2)
+AUTHOR: Christian Herenz
+DATE: 14.04.2008 21:18 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich hatte ja in diesem Blog [schon berichtet](http://amor.cms.hu-berlin.de/~herenzed/blog/archives/2008/03/20/druckprobleme_pt__2/index.html), dass mein HP-Laserjet irgendwie
+zickig geworden ist, deswegen habe ich mir heute pünktlich zu Semesterbegin
+einen neuen Low-Budget SW Laser geholt. Super günstig ist derzeit bei HD-Computer am
+Hermannplatz, dem Hardwaredealer meiner Wahl, der Laserdrucker Samsung
+ML-2010. Für unter 70 Euro konnte das gute Teil heute Vormittag direkt mit
+nach Hause nehmen. Da ich heute Nachmittag schon die erste Veranstaltung des
+neuen Semesters hatte, musste ich allerdings bis jetzt warten um das Gerät
+einem kurzen Test zu unterziehen.
+
+Im Karton befindet sich neben dem Drucker eine Kurzanleitung, ein Toner, ein
+Netzwerkabel und 2 CDs, wovon eine Treiber für WindowsVista enthält. Auf der
+Box und auf der Website von HD-Computer stand etwas von mitgeliefertem
+USB-Kabel, welches dann aber irgendwie seinen Weg zumindest nicht in meine
+Kiste gefunden hat. Nun gut, ein USB-Kabel hab ich natürlich immer auf
+Vorrat, insofern sollte die Installation daran bei mir nicht
+scheitern. Desweiteren bietet der Drucker auch noch, ganz Oldschool, einen
+Centronix Anschluss, mit dem man ihn ggf. auch an eine parallele Schnittstelle
+klemmen könnte.
+
+Der Aufbau ist super Einfach, wahrscheinlich würde das mit den großen Bildern der
+Kurzanleitung sogar ein Schimpanse hinbekommen (jedenfalls fühle ich mich
+immer so, wenn ich irgendwelche Geräte vor der Inbetriebnahme zusammensetzen muss).
+
+Nachdem man den Drucker aufgebaut und mit Papier gefüttert hat, muss man an
+der Hinterseite einen Kippschalter umlegen um das Gerät in
+Betriebsbereitschaft zu versetzen.  Hier kam es bei mir zu einer kurzen
+Schrecksekunde, da sofort das Lämpchen "On Line / Error" durch rotes Leuchten
+"Error" signalisierte. Der Fehler lag allerdings bei mir -  beim Einsetzen des
+Toners hatte ich beim schließen die Abdeckung nicht richtig eingerastet,
+weshalb der Sensor wohl noch von einer geöffneten Klappe ausging, beim
+erneuten schließen wandelte sich dann ampelartig das rote in ein grünes
+Lämpchen und signalisierte "On Line".
+
+Ich weiß natürlich mitlerweile, wie man mittels CUPS einen Drucker unter jeder
+ Linux Variante zum laufen bekommen kann, aber unter openSUSE nimmt einem YAST
+die ganze Arbeit ab. Der Drucker wird automatisch erkannt und der Testdruck
+verläuft sofort positiv. Leider sind die Ränder nicht 100 prozentig richtig
+voreingestellt, ein Problem das ich auch mit dem HP hatte, aber es fällt
+wirklich nur auf, wenn man den vollen Druckbereich ausnutzen will, da es sich
+um ca 0,5 mm links und 0,5 mm oben handelt. openSUSE setzt standardmäßig auf
+eine PPD Datei für den GDI-Treiber, damit kann man maximal mit 600x600 DPI
+drucken. Der Drucker könnte aber theoretisch mit 1200x1200 drucken. Ich hatte
+im letzten Semester allerdings mal ausgerechnet, das aufgrund des beugungsbegrenzten
+Auflösungsvermögens eines Auges bei normalem Leseabstand 600x600 dpi wirklich
+genug sind. Es ist allerdings durchaus möglich unter Linux mit höheren
+Auflösungen auf dem ML-2010 zu drucken, da der Drucker SPIL (Samsung
+Printer Language) unterstützt und man dafür die SPLIX Treiber installieren
+müsste. Wie gesagt, ein Aufwand der sich zumindest für meine Ansprüche nicht
+lohnt.
+
+Die Druckqualität bei 600x600 dpi ist einwandfrei, Graustufen werden gut
+dargestellt und Schwarz ist eben sattes Schwarz. Selbst im sparsammen
+Economy-Modus ist das Druckbild definitiv noch ansprechend. Beim Druck selbst
+ist der Samsung unwahrscheinlich schnell macht aber auch eine Menge krach. Da
+die Walzen sehr heiß werden, drehen auch nach einer Seite (was ca. 5 Sekunden
+dauert) die Lüfter noch gut 5-10 Minuten nach, was mir als
+eher geräuschempfindlichen Mensch nicht so gut gefällt.
+
+Durch die Hitze der Walzen ist das Papier nach dem Druck relativ stark gewellt, was
+sich aber schnell legt. Für hochwertige Korrospondenz (mit dem Papst, oder was
+weiß ich) sollte man dann allerdings stärkeres Papier als normales
+Kopierpapier benutzen, da ein kleiner feiner Schönheitsmakel bei normalem
+Kopierpapier übrigbleibt.
+
+Als Nachfülltoner werde ich natürlich immer bei [Toner-Dumping.de][2]
+"wiederaufbereitete" statt orginale Neuware kaufen - dennoch sind diese mit
+ca. 50 € etwas teurer als beispielsweise solche für HP Laserjets. Mit 3000
+Seiten pro Toner sollte man aber eine ganze Menge drucken können. Eine kleine
+Fießheit ist hier allerdings von Samsung, dass sie den mitgelieferten Toner nur zu
+1/3 befüllen, womit man also mit dem Starttoner "nur" 1000 Seiten bedrucken
+kann.
+
+[2]: http://www.toner-dumping.de/
+
+ **Fazit**
+
+Der Samsung ML-2010 ist ein unschlagbar günstiger Laserdrucker der
+herrvorragend unter Linux unterstützt wird. Für private Vieldrucker, die hohe
+Anschaffungskosten meiden wollen definitv geeignet. Auch im Büro kann er
+aufgrund des guten Druckbildes sicherlich eine gute Figur machen. Lediglich
+die doch sehr hohe Geräuschentwicklung und leichte Wellung normalen
+Kopierpapiers könnten gegen die Anschaffung dieses Gerätes sprechen.
+END-----

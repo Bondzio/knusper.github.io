@@ -1,0 +1,37 @@
+TITLE: Druckprobleme 
+AUTHOR: Christian Herenz
+DATE: 20.03.2008 13:53 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Von Gestern auf Heute hat mein guter [HP Laserjet
+6P](http://www.druckerchannel.de/artikel.php?ID=1168) aufgehört
+zudrucken. Stattdessen leuchtet nur ein komisches Muster an der
+Stelle, wo es immer sonst schön grün geleuchtet hat. Da ich kein
+Handbuch hatte, konnte ich damit nichts anfangen. Nach ein bisschen
+googlen habe ich heute  [diese Seite][1] im Netz gefunden. Laut dieser
+Anleitung bedeuteten die Leuchten, das irgendwas mit meinem
+Druckerkabel nicht stimmt. Komisch...
+Jedenfalls hab ich Testweise das Kabel rausgezogen und wieder reingesteckt (bei
+ausgeschaltetem Rechner und Drucker natürlich) - mit dem Ergebniss das
+jetzt garnichts mehr geht. Jetzt leuchtet zwar schön die grüne Lampe,
+aber mehr macht er nicht mehr. Ich kanns mir zwar nicht erklären, aber
+irgendwie sieht es so aus, als ob tatsächlich ein Problem mit dem
+Kabel vorliegen würde :(
+
+
+[Murphys Gesetz](http://de.wikipedia.org/wiki/Murphys_Gesetz) gilt
+natürlich mal wieder, denn ausgerechnet heute muss ich eine größere
+Menge drucken. Hoffentlich geht das Kabel, welches ich gleich beim
+Conrad kaufen werde!
+
+
+*Update folgt...*
+
+
+Links: [Anleitung zum HP Laserjet 6P][1]
+
+[1]: http://www.nefec.org/UPM/printers/mhpl6p.htm
+END-----

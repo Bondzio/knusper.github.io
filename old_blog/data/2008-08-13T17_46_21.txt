@@ -1,0 +1,13 @@
+TITLE: Foto in die Wikipedia eingefügt
+AUTHOR: Christian Herenz
+DATE: 13.08.2008 17:46 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich bin ja so stolz auf mich... Ich habe einem Wikipedia-Artikel ein Foto hinzugefügt:
+
+<a href="http://en.wikipedia.org/wiki/Teterboro_(NJT_station)">Teterboro (NJT Station)</a>
+
+END-----

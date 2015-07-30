@@ -1,0 +1,12 @@
+TITLE: Kommentarfunktion eingebaut 
+AUTHOR: Christian Herenz
+DATE: 17.03.2008 14:15 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+So... Bitte fleißig die Kommentarfunktion testen! <br>
+
+Ist eigentlich ziemlich einfach, das einzubauen. Wäre noch einfacher, wenn es eine ordentliche Dokumentation dazu gäbe. Gibts aber nicht... Und ich hab auch kein Bock das zu erklären!
+END-----

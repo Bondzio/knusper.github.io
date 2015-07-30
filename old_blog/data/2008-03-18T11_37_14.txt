@@ -1,0 +1,20 @@
+TITLE: SPAM SPAM SPAM 
+AUTHOR: Christian Herenz
+DATE: 18.03.2008 11:37 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+
+Am Institutsrechenzentrum des Instituts für Physik macht der Spam mal 
+wieder Probleme.
+<br><br>
+<i>Nachdem unser Mailserver unter der SPAM-Last am 17.03.2008 
+zusammengebrochen ist, erfolgte an diesem Tag die Umstellung.</i>
+<br><br>
+Es wurden ein paar Dinge geändert, genaueres kann man <a 
+href="http://www.physik.hu-berlin.de/irz/aktuell/irznews/irz_080307">hier</a> 
+nachlesen. Bemerkbar macht sich die Änderung insbesondere in der 
+Betreffzeile erkannten Spams, man muss also ggf. seine Filter etwas 
+abändern.
+END-----

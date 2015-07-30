@@ -1,0 +1,18 @@
+TITLE: Klassische Atarijoysticks mit USB
+AUTHOR: Christian Herenz
+DATE: 16.10.2008 19:57 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+![image](http://img133.imageshack.us/img133/4712/classicusbjoystickai9.jpg)
+
+Preis: 14,95 $
+
+Allerdings eine stark limitierte Auflage! Funktioniert laut der Website aber mit Linux, insofern ein "haben wollen". Bleibt nur die Frage, ob 1 oder 2 Sticks?
+
+Buy @ [legacyengineer.com](http://www.legacyengineer.com/store.html)
+
+[via [ClassicGaming.gamespot.com](http://classicgaming.gamespy.com/fullstory.php?id=154421)]
+END-----

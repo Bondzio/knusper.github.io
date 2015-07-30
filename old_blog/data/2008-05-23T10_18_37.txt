@@ -1,0 +1,19 @@
+TITLE: iRiver S10 Back
+AUTHOR: Christian Herenz
+DATE: 23.05.2008 10:18 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Gestern ist mein iRiver S10 aus der *Reperatur* gesendet wurden.
+Angeblich hat man ein Firmware Update gemacht, allerdings ist die Firmware
+auf dem Teil noch die gleiche, wie ich im Advanced Menü erkennen kann. 
+
+Ich denke eher, das man einen Reset gemacht hat. Ich Trottel hatte nämlich
+nicht gesehen, das an der linken Seite ein ganz kleines Loch ist, in das man
+z.B. mit einem Pinwandpin reinstecken könnte um einen Reset auszulösen (steht
+nämlich Reset drüber).
+
+Endlich wieder Musik unterwegs :)
+END-----

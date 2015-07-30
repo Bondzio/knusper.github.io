@@ -1,0 +1,57 @@
+TITLE: Markdown 
+AUTHOR: Christian Herenz
+DATE: 20.03.2008 01:03 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Was ist eigentlich Markdown?
+-
+
+Markdown ist ein Markup-Sprache... :-) Sowas wie BBCode, nur viel
+besser, da einfacher!
+Für Interessierte sei als erste Anlaufstelle die [Wikipedia-Seite
+(en.)](http://en.wikipedia.org/wiki/Markdown) zu empfehlen.
+ Die Grundidee von Markdown ist nun, dass man einen Text in einem Editor
+schreibt und dieser wird dann von einem Programm nach HTML (oder eine
+andere "hohe" Markupsprache) übersetzt. Der
+Witz dabei ist, dass die grundlegenden Gestaltungsmerkmale
+schon im reinen Text sichtbar sind. Eine Überschrift schreibt man
+Beispielsweise so:
+
+
+      Das ist eine Überschrift 
+      ========================
+
+
+Das Ergebnis sieht dann so aus:
+
+Das ist eine Überschrift 
+========================
+
+
+Man damit man sich nicht auf der =-Taste totdrückt geht auch:
+
+
+    Das ist eine Überschrift 
+    =
+
+
+Das ist natürlich nur dann empfehlenswert, wenn man nur an der
+HTML-Datei interessiert ist.
+
+Ein Anwendungsbeispiel (neben diesem Blog) wäre eine README Datei. Für
+die Website eines Programmes könnte man diese README Datei  mit
+Markdown optimieren, damit eine schicke leserliche Darstellung im
+Browser gewährleistet ist, aber dieselbe Datei kann auch einfach in
+einem Textbetrachter angezeigt werden... Naja, ihr wisst schon was ich
+meine :-)
+
+
+Auch noch interessant, für Leute die öfter mal eine Formel in ihre
+HTML-Dokumente einfügen müssen:
+[TeXDown](http://wwwth.mppmu.mpg.de/members/jgrosse/texdown/TeXdown-Readme.html)
+
+Das muss ich also auch mal abchecken!
+END-----

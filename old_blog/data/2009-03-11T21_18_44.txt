@@ -1,0 +1,23 @@
+TITLE: Live Video-Stream aus dem Weltraum
+AUTHOR: Christian Herenz
+DATE: 11.03.2009 21:18 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Live streaming video is now available every day of the week from the
+ International Space Station. The video will show views of Earth and
+ the exterior structure of the station, as seen from cameras mounted
+ outside the ISS, and other times, activities going on inside the
+ station. If you regularly watch [NASA
+ TV](http://www.nasa.gov/multimedia/nasatv/index.html) online, just go
+ to the same website, and now there's another choice of channels. Just
+ click on the "[Live Space Station
+ Video](http://www.nasa.gov/multimedia/nasatv/index.html)" tab to
+ enjoy.*
+
+[via [Universe Today](http://www.universetoday.com/2009/03/10/live-from-space-streaming-webcam-now-available/)]
+
+Funktioniert auch wunderbar hier unter Linux (Konqueror mit Kaffeine Plugin - Codecs von [debian-multimedia](http://debian-multimedia.org/), und das statische Rauschen ist auch beruhigend :-)
+END-----

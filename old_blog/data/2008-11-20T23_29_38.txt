@@ -1,0 +1,14 @@
+TITLE: Encoding in Emacs
+AUTHOR: Christian Herenz
+DATE: 20.11.2008 23:29 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ein sehr nützliches Kommando in Emacs ist
+
+     set-buffer-file-coding-system
+
+Damit kann man ruck-zuck umschalten, in welcher Zeichenkodierung die Datei beim nächsten Speichern gespeichert werden soll. Nur leider fällt es mir nie ein, wenn ich es brauche und dann muss man nämlich ersteinmal die richtige Stelle in der Hilfe finden... Gegen das Vergessen schreibe ich das jetzt hier hin.
+END-----

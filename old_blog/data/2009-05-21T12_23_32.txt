@@ -1,0 +1,13 @@
+TITLE: Awkward Family Photos
+AUTHOR: Christian Herenz
+DATE: 21.05.2009 12:23 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Unbeschreiblich gut... seht selbst:
+<http://awkwardfamilyphotos.com/>
+
+Mein Favorit ist [dieses](http://awkwardfamilyphotos.com/?p=1122) hier.
+END-----

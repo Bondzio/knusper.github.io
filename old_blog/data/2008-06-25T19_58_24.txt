@@ -1,0 +1,18 @@
+TITLE: openVPN an der HU-Berlin
+AUTHOR: Christian Herenz
+DATE: 25.06.2008 19:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+An der HU-Berlin gibt es jetzt endlich (seit dem 16.06.) einen openVPN Server, derzeit noch im
+Testbetrieb, aber wird hoffentlich auf lange Sicht die CiscoVPN Server
+ersetzen.
+
+<http://www.cms.hu-berlin.de/dl/netze/vpn/openvpn/>
+
+Es werden Tester gesucht, die über ihre Erfahrungen den Mitarbeitern des CMS
+berichten. Da ich nächste Woche meine Klausur in Astrophysik 2 schreibe, werde
+ich definitiv nicht zu den "early adopters" zählen.
+END-----

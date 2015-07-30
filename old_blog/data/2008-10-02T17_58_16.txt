@@ -1,0 +1,19 @@
+TITLE: Äh... Wofür werden die eigentlich bezahlt?
+AUTHOR: Christian Herenz
+DATE: 02.10.2008 17:58 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Landeszentrum für Datenschutz Schleswig-Hollstein:
+--------------------------------------------------
+
+Voratsdatenspeicherung: Ist unbedenklich...
+
+Fluggastdatenübermittlung: Datenschutzrechtlich unbedenklich
+
+Google-Street-View Germany: Rechtswiedrig
+
+Äh... Gehts noch?
+END-----

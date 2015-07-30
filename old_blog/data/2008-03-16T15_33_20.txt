@@ -1,0 +1,9 @@
+TITLE: Ich bin der Programmierer von Donkey Kong 
+AUTHOR: Christian Herenz
+DATE: 16.03.2008 15:33 Uhr
+DESC: 
+FORMAT: raw
+-----
+BODY:
+Interesannter Artikel, der tiefen Einblick in die Geschichte der Entwicklung von Computerspielen bei Atari gewährt: <br><a href="http://www.dadhacker.com/blog/?p=987">Link</a>
+END-----

@@ -1,0 +1,12 @@
+TITLE: Bachelor-Arbeit mit 1,0 abgeschlossen
+AUTHOR: Christian Herenz
+DATE: 07.11.2009 02:10 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Diese Woche Dienstag hatte ich meine mündliche Abschlussprüfung (Verteidigung) über meine Bachelorarbeit "Statistische Eigenschaften von Lyman Alpha-Emittern bei hoher Rotverschiebung".
+
+Der Vortrag lief ganz OK und die Fragen konnte ich auch zur Zufriedenheit der Gutachter beantworten. Die schriftliche Arbeit wurde ebenso wie die mündliche Leistung mit "Sehr Gut" bewertet, so dass ich schließlich die bestmögliche Bewertung erhielt, eine 1,0 :D
+END-----

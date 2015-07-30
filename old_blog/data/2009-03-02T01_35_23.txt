@@ -1,0 +1,21 @@
+TITLE: Mathematische Symbole im Emacs Menü
+AUTHOR: Christian Herenz
+DATE: 02.03.2009 01:35 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ein Beitrag aus der Reihe "Neben Kaffekochen kann mein Texteditor auch
+andere tolle Sachen":
+
+*Die Auctex-Variable LaTeX-math-menu-unicode sorgt dafür, dass im
+(minor) Math-Mode von (major) Auctex, sämtliche Symbole neben ihrem
+Befehl auch als Vorschau angezeigt werden*
+
+Um es auszuprobieren, einfach in die .emacs
+
+    (setq LaTeX-math-menu-unicode t)
+
+einfügen.
+END-----

@@ -1,0 +1,21 @@
+TITLE: Emacs 22.2 Release
+AUTHOR: Christian Herenz
+DATE: 27.03.2008 09:51 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Das ist ja kaum zu glauben, denn das ging ja wirklich mal schnell.
+Werden wir jetzt nie wieder 5 Jahre Ruhe zwischen zwei Releases haben? Wer weiß...
+
+> In addition to many bugfixes, Emacs 22.2 includes new support for the
+> Bazaar, Mercurial, Monotone, and Git version control systems, new
+> major modes for editing CSS, Vera, Verilog, and BibTeX style files,
+> and improved scrolling support in Image mode.  See etc/NEWS for a more
+> complete list of changes.
+
+Mehr Infos gibts im [NEWS File](http://www.gnu.org/software/emacs/NEWS.22.2).
+
+<http://www.gnu.org/software/emacs/>
+END-----

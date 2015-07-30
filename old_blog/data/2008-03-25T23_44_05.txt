@@ -1,0 +1,26 @@
+TITLE: Musik Podcasts - Gemixt und nicht Geschüttelt
+AUTHOR: Christian Herenz
+DATE: 25.03.2008 23:44 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ich mag ja gemixte, von mir aus moderierte, aber am besten zeitgemäße und vorallem gute Musik.
+[Bashpodder][1] ist ja der Podcatcher meiner Wahl, ich hab 2 Verzeichnisse in denen das Skript seinen Dienst tut,
+eines für Musik und eines für die ganzen Talkshows.
+
+Heute teile ich meine *bp.conf* mit euch, dacht ich mir mal so... Ich hoffe doch allerdings stark, dass wenigstens
+einer mal meine Kommentarfunktion für den sinnvollen Akt nutzt, mich auf weitere gute Musikpodcasts aufmerksam macht.
+
+
+	http://feeds.feedburner.com/TraxsourceCyberjamz
+	http://feeds.feedburner.com/netzklang
+	http://www.beatsinspace.net/feed.xml
+	http://www.redfm.ie/audio/godeep/podcast.xml
+	http://feeds.feedburner.com/dsoh
+	http://feeds.feedburner.com/rhythmincursions
+
+
+Nummer 1,4 und 6 senden irgendwie nicht mehr (das was dort aber noch so "podcatchbar" ist, kann sich durchaus hören lassen!!)... Schade eigentlich. Deswegen, ich brauch wirklich dringend Material :)
+END-----

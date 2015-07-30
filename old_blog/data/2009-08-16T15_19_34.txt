@@ -1,0 +1,21 @@
+TITLE: Sistars - Inspirations
+AUTHOR: Christian Herenz
+DATE: 16.08.2009 15:19 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Unglaublich stylishes Video der polnischen Formation "Sistars"...
+
+<object width="445" height="364"><param name="movie" value="http://www.youtube.com/v/aY0yrW-vtBs&hl=de&fs=1&rel=0&color1=0x402061&color2=0x9461ca&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aY0yrW-vtBs&hl=de&fs=1&rel=0&color1=0x402061&color2=0x9461ca&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="445" height="364"></embed></object>
+
+
+Ist von 2007 und als Vinyl auf "Compost" erschienen. Neben dem Orginal ist da auch noch der "Innocent Sorcerers Remix" drauf und der ist 'ne Bombe:
+
+<object width="445" height="364"><param name="movie" value="http://www.youtube.com/v/3kKwcbGPpaU&hl=de&fs=1&rel=0&color1=0x402061&color2=0x9461ca&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3kKwcbGPpaU&hl=de&fs=1&rel=0&color1=0x402061&color2=0x9461ca&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="445" height="364"></embed></object>
+
+<http://www.discogs.com/release/943209>
+
+Schöne Woche euch...
+END-----

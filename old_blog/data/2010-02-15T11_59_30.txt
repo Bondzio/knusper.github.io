@@ -1,0 +1,14 @@
+TITLE: Erste Prüfungen im Master
+AUTHOR: Christian Herenz
+DATE: 15.02.2010 11:59 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+So, diese Woche Freitag steht die Klausur in "Fortgeschrittene
+Elektrodynamik" an, und nächste Woche Montag ist dann mündliche
+Abschlussprüfung zum Modul "Fortgeschrittene Theoretische Physik". Es
+wird also irgendwie meine Fortgeschrittenheit geprüft - wünscht mir
+deshalb Glück und drückt mir die Daumen.
+END-----

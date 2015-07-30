@@ -1,0 +1,20 @@
+TITLE: Cause' the LHC is Supa-Dupa-Fly  
+AUTHOR: Christian Herenz
+DATE: 03.08.2008 15:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+<object width="400" height="302">	<param name="allowfullscreen"
+value="true" />	    <param name="allowscriptaccess" value="always" />	<param
+name="movie"
+value="http://www.vimeo.com/moogaloop.swf?clip_id=1431471&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"
+/> <embed
+src="http://www.vimeo.com/moogaloop.swf?clip_id=1431471&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1"
+type="application/x-shockwave-flash" allowfullscreen="true"
+allowscriptaccess="always" width="400" height="302"></embed></object><br /><a
+href="http://www.vimeo.com/1431471?pg=embed&sec=1431471">CERN Rap</a> from <a
+href="http://www.vimeo.com/user640443?pg=embed&sec=1431471">Will Barras</a> on
+<a href="http://vimeo.com?pg=embed&sec=1431471">Vimeo</a>.
+END-----

@@ -1,0 +1,22 @@
+TITLE: Darf ich vorstellen: knusper.soup.io
+AUTHOR: Christian Herenz
+DATE: 11.07.2010 16:44 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Da ich in Zukunft mein Tumblr!-Blog <http://knusper.tumblr.com>
+ausschließlich für das Posten einiger meiner Fotos verwenden möchte,
+habe ich beschlossen noch ein weiteres
+[Tumbleblog](http://jaypeeonline.net/internet/tumbleblogs/) (im
+klassischen Sinne) zu eröffnen.
+
+Konservierungswürdige Bits'n'Pieces denen ich so auf meinen
+Prokrastinationsstreifzügen im Netz begegne, hefte ich in Zukunft
+unter
+
+<http://knusper.soup.io/>
+
+ab.
+END-----

@@ -1,0 +1,29 @@
+TITLE: Smiley Test 
+AUTHOR: Christian Herenz
+DATE: 24.03.2008 15:07 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+
+:) = smilies/smiley.gif
+:( = smilies/sad.gif
+;) = smilies/wink.gif
+:D = smilies/grin.gif
+:cry: = smilies/cry.gif
+:laugh: = smilies/laugh.gif
+:P = smilies/tongue.gif
+:* = smilies/kiss.gif
+8) = smilies/cool.gif
+:huh: = smilies/huh.gif
+:O = smilies/shocked.gif
+:roll: = smilies/rolleyes.gif
+:embarassed: = smilies/embarassed.gif
+:angry: = smilies/angry.gif
+:cheesey: = smilies/cheesy.gif
+:sealed: = smilies/lipsrsealed.gif
+:X = smilies/lipsrsealed.gif
+
+
+END-----

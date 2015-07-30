@@ -1,0 +1,20 @@
+TITLE: Songbird 0.5 Release 
+AUTHOR: Christian Herenz
+DATE: 27.03.2008 10:05 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+<a href="http://songbirdnest.com/partners"><img src="http://songbirdnest.com/files/images/button_mac.png" border="0" alt="Get Songbird"/></a>
+
+Songbird ist zwar nicht so "my cup of tea" wenn es um einen Mediaplayer geht,
+aber ich kenne einige, die den Vogel jetzt schon lieben und es gibt auch wirklich ein
+paar äußerst innovative Features. Die Integration von *Web* und *Musik* ist in keiner anderen
+Software so gut gelungen, schließlich wollen die Macher ja den "Firefox für Musik" erschaffen.
+
+Das neue Release hat wieder tonnenweise Bugfixes und einige neue Features. Details dazu gibts im [Songbird Blog](http://blog.songbirdnest.com/2008/03/26/songbird-05-final-released-all-aboard/).
+
+Download, Dokumentation und der ganze Rest:
+<http://www.songbirdnest.com>
+END-----

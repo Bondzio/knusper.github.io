@@ -1,0 +1,42 @@
+<div class="item">
+	<a id="e2008-07-10T19_54_06.txt"></a>
+	<h2 class="date">10.07.2008 19:54 Uhr</h2>
+	<div class="blogbody">
+		<h3 class="title">2 Zeilen Abstand in LaTeX</h3>
+		<div class="item-description">
+			<p>Ich mach ja zur Zeit als BZQ (Berufsfeldbezogene Zusatzqualifikation) einen
+Englischkurs am Sprachzentrum. Da ich meinen ganzen Schreibkram nur noch mit
+LaTeX mache, hab ich natürlich auch meine Essays damit geschrieben. Dabei lege
+ich erst eine normale Textdatei an, in der ich mich voll und ganz auf den
+Inhalt konzentriere. Wichtig ist nur, das Absätze durch eine Leerzeile
+getrennt werden, damit der LaTeX das am Ende auch richtig formatiert. Nachdem
+ich meinen Textbeendet habe, füge ich noch ein simples LaTeX gerüst drum und
+fertig ist ein ansprechend formatiertes Essay &ndash; denn Word ist was für Pussies!</p>
+
+<pre><code>   \documentclass[a4paper,DIV14]{scrartcl}
+   \usepackage[latin9]{inputenc}
+   \linespread{2}
+   \begin{document}
+   \title{ --- Title goes here ---}
+   \author{ --- Name &amp; Mat.-Nr. ---}
+   --- Text ---
+   \end{document}
+</code></pre>
+
+<p>Die Dozentin möchte zum Kopieren in jedem Falle 2 Zeilen Abstand haben &ndash; dies
+lässt sich einfach mit <em>\linespread{Faktor}</em> realisieren, wobei der Faktor
+nicht unbedingt ganzzahlig gewählt werden muss.</p>
+		</div>
+	</div>
+
+	<div class="posted">
+		<br />Posted by <span class="item-creator">Christian Herenz</span>
+| <a class="link" href="../../../../archives/2008/07/10/2_zeilen_abstand_in_latex/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../archives/computing/index.html">Computing</a>
+<!-- <br /><a href="../../../../archives/2008/07/10/2_zeilen_abstand_in_latex/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/07/10/2_zeilen_abstand_in_latex/index.html');" target="_self"><script type="text/javascript">postCount('2008/07/10/2_zeilen_abstand_in_latex/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/07/10/2_zeilen_abstand_in_latex/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/07/10/2_zeilen_abstand_in_latex/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+	</div>
+</div>

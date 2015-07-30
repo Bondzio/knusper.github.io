@@ -1,0 +1,21 @@
+TITLE: Doch kein BVG Streik
+AUTHOR: Christian Herenz
+DATE: 01.04.2008 09:14 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Eine besonders erfreuliche Nachricht für mich, da ich derzeit keinen Spind in
+der Bibliothek mieten konnte. Und zwei dicke Bücher jeden Tag 3 km hin und her
+schleppen würde eher nicht soviel Spass machen:
+
+*Nach der kurzfristigen Absage des ursprünglich für heute geplanten Streiks
+ bei den Berliner Verkehrsbetrieben (BVG) fahren Busse und Bahnen am Morgen
+ wieder planmäßig. Dies sagte ein Sprecher der Verkehrsleitzentrale. Ein
+ Treffen von Finanzsenator Thilo Sarrazin (SPD) und den Spitzen der BVG und
+ der Gewerkschaft ver.di hatten kurz nach Ablauf der Frist um Mitternacht die
+ seit langem gesuchte Annäherung im Tarifstreit gebracht, wie ver.di- Sprecher
+ Andreas Splanemann mitteilte.*
+[Welt Newsticker](http://newsticker.welt.de/index.php?channel=beb&module=dpa&id=17353148)
+END-----

@@ -1,0 +1,15 @@
+TITLE: Neue Netzklang Episode Online 
+AUTHOR: Christian Herenz
+DATE: 21.03.2008 21:43 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Tobi Tobsucht hat eine neue Sendung seines Netzklang Podcasts online gestellt.
+Und wie ich gerade an seinem "Listener Counter" erkenne, hat er schon 99 Abonennten.
+
+In diesem Sinne *"Einer geht noch, einer geht noch..."*
+
+<http://netzklang.twoday.net/>
+END-----

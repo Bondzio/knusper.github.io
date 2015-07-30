@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="$BLOG_CHARSET"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="$BLOG_MIMETYPE; charset=$BLOG_CHARSET" />
+<meta name="generator" content="NanoBlogger $VERSION" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="7 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+<title>$BLOG_TITLE</title>
+
+<link rel="stylesheet" href="${BASE_URL}$BLOG_CSS" type="text/css" media="all" />
+<link rel="stylesheet" href="${BASE_URL}styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="${BASE_URL}$BLOG_ICON" />
+
+<!-- $NB_AtomAltLink
+$NB_RSS2AltLink
+$NB_RSSAltLink -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="${BASE_URL}$NB_INDEX" accesskey="1">$BLOG_TITLE</a></h1>
+		<span class="description">$BLOG_DESCRIPTION</span>
+	</div>
+	<div id="links">
+		<div class="calendar">
+			$NB_Calendar
+		</div>
+<!-- Artikel auskommentiert ... benutze diese Funktion derzeit nicht
+		$NB_ArticleLinks 
+ 		<div class="sidetitle"> 
+ 			$template_links
+ 		</div> 
+-->
+		<div class="side">
+			$NB_MainLinks
+		</div>
+<!-- und jetzt kommt die Werbum!-->
+                <div class="sidetitle">
+		  Partner
+		</div>
+		<div class="side">
+		  <center><a href="http://www.asienbuchservice.de/"><img src="http://amor.cms.hu-berlin.de/~herenzed/asienbuchservice.jpg"
+		  alt="Asienbuchservice" /></a></center>
+		</div>
+<!-- ende Werbum -->
+<!-- Jabber-Status -->
+                <div class="sidetitle">
+		  Jabber-Status
+		</div>
+		<div class="side">
+		  <center>
+		  <img src="http://js.linuxlovers.at/pic/knusper/jabber.ccc/de" 
+		       style="border: 0px solid;" alt="Jabber Online Status" />
+		  <br>
+		  <a href="xmmp:knusper@jabber.ccc.de">knusper@jabber.ccc.de</a>
+		</div>
+<!-- Ende Jabber Status -->
+		<div class="sidetitle">
+			$template_rentries
+		</div>
+		<div class="side">
+			$NB_RecentEntries
+		</div>
+		<div class="sidetitle">
+			$template_category
+		</div>
+		<div class="side">
+			$NB_CategoryLinks
+		</div>
+		<div class="sidetitle">
+			$template_archives
+		</div>
+		<div class="side">
+			<a href="${BASE_URL}$ARCHIVES_DIR/$NB_INDEX">$template_archiveindex</a><br />
+			$NB_YearLinks
+			<!-- $NB_MonthLinks -->
+		</div>
+		<div class="sidetitle">
+			$template_syndicate
+		</div>
+		<div class="side">
+			$template_syndicate_main
+                <!-- auch hier orginal auskommentiert -->
+                <!--	(<a href="${BASE_URL}rss.$NB_SYND_FILETYPE" class="feed-small">RSS</a>,
+			<a href="${BASE_URL}atom.$NB_SYND_FILETYPE" class="feed-small">Atom</a>)<br />
+			$NB_CategoryFeeds -->
+                <p><a href="http://feeds.feedburner.com/Knusperfruehstck" rel="alternate"
+                type="application/atom+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png"
+                alt=""
+                style="vertical-align:middle;border:0"/></a>&nbsp;
+		<a href="http://feeds.feedburner.com/Knusperfruehstck"
+                rel="alternate" type="application/atom+xml">Feed
+                abbonieren</a></p>
+		</div>
+		<div class="sidetitle">
+			$template_contact
+		</div>
+		<div class="side">
+			$BLOG_CONTACT
+		</div>
+		<!-- Start Buttons-->
+		<div class="sidetitle">
+		        Buttons
+		</div>
+		<div class="side">
+<a href='http://www.mozilla.com/?from=sfx&amp;uid=0&amp;t=580'><img src='http://sfx-images.mozilla.org/firefox/3.6/80x15_square_blue.png' alt='Spread Firefox Affiliate Button' border='0' /></a>
+		  <a href="http://www.downthemall.net/"><img src="http://www.downthemall.net/images/buttons/8015_6.gif"
+		  alt="DownTHEMall: Firefox Download Manager" /></a>
+		</div>
+		<!-- Ende Buttons -->
+		<!-- Beginn Last.fm -->
+		<div class="sidetitle">
+		  Last.FM
+		</div>
+		<div class="side">
+		 <a href="http://www.lastfm.de/user/Knusper/?chartstyle=lastfmblue"><img src="http://imagegen.last.fm/lastfmblue/artists/Knusper.gif" border="0" alt="Knusper's Profile Page" /></a>
+		</div>
+		<!-- Ende Last.fm -->
+		<div class="sidetitle">
+			$template_status
+		</div>
+		<div class="side">
+			$NB_BlogStatus
+		</div>
+	</div>
+	<div id="content">
+		<div id="wrap">
+			<a id="top"></a>
+			<div class="blog">
+				$NB_MetaBody
+			</div>
+		</div>
+		<div class="pagenav" align="center">
+			$NB_PageLinks
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="metainfo">
+		$template_powered
+		<a href="http://nanoblogger.sourceforge.net">nb $VERSION</a>
+	</div>
+	<div class="menu">
+		<a href="#top">$NB_TopPage</a><br />
+	</div>
+</div>
+
+</body>
+</html>
+

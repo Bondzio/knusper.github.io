@@ -1,0 +1,76 @@
+TITLE: Kosmisches Rätsel
+AUTHOR: Christian Herenz
+DATE: 11.04.2010 17:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*Der folgende Bericht entstand im Rahmen des Kurses "Journalistisches Arbeiten" am [Career Center](http://www2.hu-berlin.de/kooperation/career_center/) der [Humboldt-Universität zu Berlin](http://www.hu-berlin.de/).*
+
+Kosmisches Rätsel
+=================
+
+Zu wenig MACHOs bringen WIMPs ins Spiel 
+--------------------------------------
+
+
+1933 macht der schweizerische Astronom [Fritz Zwicky](http://de.wikipedia.org/wiki/Fritz_Zwicky) eine
+eigentümliche Entdeckung. Er beobachtete den
+[Coma-Galaxienhaufen](http://de.wikipedia.org/wiki/Coma-Haufen), eine 300 Mill. Lichtjahre entfernte
+Ansammlung von über 1000 Galaxien. Insbesondere vermaß er
+deren Geschwindigkeiten. Im Vergleich zur Haufenmasse, die
+er aus der Helligkeit abschätzte, waren ihm diese aber zu
+hoch.  Eigentlich hätten sich die Galaxien schon lange
+voneinander wegkatapultieren müssen. Dennoch schien der
+Haufen stabil. Er folgerte, dass ein großer Anteil
+nicht-leuchtender Masse im Coma-Haufen existiere.
+
+Historisch kann Zwickys Entdeckung als das erste Indiz
+gewertet werden, dass ein wesentlicher Bestandteil unseres
+Universums die *Dunkle Materie* ist. Tatsächlich deutet
+mittlerweile vieles darauf hin, dass normale Materie (im
+wesentlichen Atome) nur einen Anteil von ca. 17 % an der
+Gesamtmaterie trägt. Was ist nun aber "Dunkle Materie"?
+
+Zunächst wurde vermutet, dass es sich dabei einfach um
+massive nichtleuchtende Objekte handele. Diese
+sogenannten [MACHOs](http://de.wikipedia.org/wiki/MACHO) bestünden aus "normaler" Materie, die
+lediglich für Astronomen nicht sichtbar ist. 
+
+Zur Überprüfung dieser Hypothese beobachtete man von 1992
+bis 1999 am [Mount Stromlo Observatorium](http://en.wikipedia.org/wiki/Mount_Stromlo_Observatory) (Australien) einige
+Millionen Sterne. Genauestens wurde der zeitliche
+Helligkeitsverlauf jedes einzelnen Sterns vermessen.
+Einsteins Allgemeine Relativitätstheorie besagt, das massive
+Objekte den Raum krümmen. Würde ein MACHO die Sichtlinie
+zwischen Stern und Beobachter passieren, so wirkte diese
+Raumkrümmung wie eine lichtbündelnde Linse. Der Stern müsste
+dann für einen gewissen Zeitraum heller aufleuchten. Nach
+Auswertung der Daten war man sich sicher: Es gibt MACHOS,
+aber zu wenig, um die Effekte der Dunklen Materie zu erklären.
+
+Eine zweite Hypothese postuliert deshalb, dass die Dunkle
+Materie im wesentlichen aus [WIMPs](http://de.wikipedia.org/wiki/WIMP) besteht. WIMPs, so die
+Theorie, sind schwere Teilchen, die mit normaler Materie
+fast nie interagieren.  Dadurch wird es sehr schwierig,
+diese im Falle ihrer Existenz überhaupt nachzuweisen. Nur
+einige wenige könnten sich durch einen Zusammenstoß mit
+einem Atom verraten. Um den winzigen Effekt zu messen, muss
+man die Detektoren sehr stark kühlen. Ebenfalls müssen diese
+tief unter die Erde, um vor hochenergetischen, aus dem All
+kommenden, "normalen" Teilchen geschützt zu sein.
+
+Beides setzt man derzeit beim *CDMS II*-Experiment in einer
+ausgedienten Miene in Minnesota um. Die Messgeräte dort
+laufen seit 9 Jahren und [im Februar](http://www.sciencemag.org/cgi/content/abstract/science.1186112?ijkey=RVTKiEZ5rRmf2&keytype=ref&siteid=sci) teilte man mit, das man
+bereits 2 Zusammenstöße mit WIMPS gemessen habe. Leider, so
+räumen die Wissenschaftler ein, reichen 2 Datenpunkte nicht
+aus, um fundamentale Aussagen bezüglich der WIMP-Hypothese
+zu formulieren. Kritiker zweifeln indes die Messung an,
+denn diese käme statistisch einer Nullaussage gleich. 
+
+Wie geht es nun also weiter mit dem Rätsel "Dunkle
+Materie? In Minnesota ist man sich zumindest sicher, in 5
+Jahren genug gemessen zu haben, um Licht ins Dunkel zu bringen. 
+END-----

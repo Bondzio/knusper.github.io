@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="generator" content="NanoBlogger 3.3" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="31 days" />
+<!-- Haloscan Comments -->
+<script type="text/javascript" src="http://www.haloscan.com/load/knusper"> </script>
+<!-- End Comments Head -->
+
+<title>python-markdown2 und Nanoblogger  | Knusperfrühstück</title>
+
+<link rel="stylesheet" href="../../../../../styles/nb_steelblue_variant.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../../../../styles/print.css" type="text/css" media="print" />
+<link rel="shortcut icon" href="../../../../../images/favicon.ico" />
+<!-- <link rel="alternate" type="application/atom+xml"
+title="Atom 1.0"
+href="../../../../../atom.xml"
+/>
+<link rel="alternate" type="application/rss+xml"
+title="RSS 2.0"
+href="../../../../../rss.xml"
+/>
+ -->
+<!-- Orginal Feeds auskommentiert, verweise hier direkt auf den Feedburner Feed -->
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0 via Feedburner" href="http://feeds.feedburner.com/Knusperfruehstck">
+</head>
+
+<body>
+
+<div id="container" class="clearfix">
+	<div id="header" class="clearfix">
+		<h1><a href="../../../../../index.html" accesskey="1">Knusperfrühstück</a></h1>
+		<span class="description">Der gesunde Start in den Tag</span>
+	</div>
+	<div id="altcontent">
+		<div id="wrap">
+			<a id="top"></a>
+			<div id="menu">
+				<a href="../../../../../index.html">Main</a> &#62;
+				<a href="../../../../../archives/index.html">Archives</a> &#62;
+				<a href="../../../../../archives/2008/index.html">2008</a> &#62;
+				<a href="../../../../../archives/2008/03/index.html">03</a> &#62;
+				<a href="../../../../../archives/2008/03/19/index.html">19</a> &#62;
+				<br />
+<a href="../../../../../archives/2008/03/19/ascopy/index.html">&#60;</a>
+				19:36:17
+<a href="../../../../../archives/2008/03/19/markdown_in_c/index.html">&#62;</a>
+			</div>
+			<div class="archives">
+				<h2 class="date">
+	19.03.2008 19:36 Uhr
+</h2>
+<div class="blogbody">
+	<a id="e2008-03-19T19_36_17.txt"></a>
+	<h3 class="title">python-markdown2 und Nanoblogger </h3>
+	<p>Ich habe mal ein bisschen mit 
+<a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> rumgespielt. Da ich 
+großer Fan von Python bin, dacht ich mir probier ich doch mal 
+<a href="http://code.google.com/p/python-markdown2/">Python-markdown2</a> aus&hellip; 
+Problematisch allerdings, dass dieses nur Dateien parsen kann. 
+Allerdings kann man innerhalb nanoblogger alles anpassen, so auch das 
+markdown Plugin&hellip;</p>
+
+<pre><code>MARKDOWN="/home/physik/herenzed/scripts/markdown2.py"
+MARKDOWN_OPTS="--extras code-friendly"
+
+NB_EntryBody=$(echo "$NB_EntryBody" &gt; /tmp/foo.txt &amp;&amp;  ${MARKDOWN} 
+${MARKDOWN_OPTS} /tmp/foo.txt &amp;&amp; rm /tmp/foo.txt
+</code></pre>
+
+<p>Ist jetzt vielleicht nicht gerade hübsch, aber funktioniert!</p>
+</div>
+
+<div class="posted">
+	<br />Posted by Christian Herenz
+| <a class="link" href="../../../../../archives/2008/03/19/python-markdown2_und_nanoblogger/index.html">Permanent Link</a>
+| Categories: <!-- Computing --><a href="../../../../../archives/computing/index.html">Computing</a>,
+<!-- Nanoblogging --><a href="../../../../../archives/nanoblogging/index.html">Nanoblogging</a>
+<!-- <br /><a href="../../../../../archives/2008/03/19/python-markdown2_und_nanoblogger/index.html#comments">Comments</a> -->
+<!-- Haloscan Comments -->
+<br />
+<a href="javascript:HaloScan('2008/03/19/python-markdown2_und_nanoblogger/index.html');" target="_self"><script type="text/javascript">postCount('2008/03/19/python-markdown2_und_nanoblogger/index.html');</script></a> | <a href="javascript:HaloScanTB('2008/03/19/python-markdown2_und_nanoblogger/index.html');" target="_self"><script type="text/javascript">postCountTB('2008/03/19/python-markdown2_und_nanoblogger/index.html'); </script></a>
+<!-- End Haloscan Comments Entry -->
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" style="clear:both;">
+	<div class="menu">
+		<a href="#top">&#47;&#92;</a><br />
+	</div>
+</div>
+
+</body>
+</html>

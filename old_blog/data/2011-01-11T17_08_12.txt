@@ -1,0 +1,20 @@
+TITLE: Vortragsfolien: Elements of Group Theory / Lie Groups
+AUTHOR: Christian Herenz
+DATE: 11.01.2011 17:08 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Im Rahmen der Lehrveranstaltung "Theoretische Einführung in das
+Standardmodell der Elementarteilchen" an der Humboldt-Universität
+Berlin bei Prof. Müller-Preußker
+([Link](http://www-pha.physik.hu-berlin.de/lehre/SModell2011/index.html))
+hielt ich heute einen Vortrag zu dem Thema "Elemente der
+Gruppentheorie / Lie-Gruppen".
+
+Die Vortragsfolien stehen ab sofort in einer Handout-Version unter
+folgendem Link zum Download bereit:
+
+[presentation_handout.pdf](http://people.physik.hu-berlin.de/~herenz/Group_Theory_2010_smodell/presentation_handout.pdf)
+END-----

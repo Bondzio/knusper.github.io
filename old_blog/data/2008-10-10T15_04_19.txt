@@ -1,0 +1,17 @@
+TITLE: Latex-Beamer Tutorial
+AUTHOR: Christian Herenz
+DATE: 10.10.2008 15:04 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Vernünftiges Tutorial für alle die, die auf keinen Fall einen Vortrag mit PowerPoint Folien durchziehen möchten. 
+
+
+[How to make a presentation with Latex - Introduction to Beamer @ Math-Linux.com](http://www.math-linux.com/spip.php?article77)
+
+Sehr nützlich für mich, denn im kommenden Semester müssen Vorträge in den Seminaren gehalten werden.
+
+[[via](http://www.schockwellenreiter.de/2008/10/10.html#lebenOhnePowerpoint)]
+END-----

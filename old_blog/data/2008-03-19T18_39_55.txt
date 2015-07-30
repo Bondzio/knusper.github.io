@@ -1,0 +1,15 @@
+TITLE: AScopy 
+AUTHOR: Christian Herenz
+DATE: 19.03.2008 18:39 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+![Ascopy Logo](http://ascopy.sourceforge.net/ascopy.png)
+
+>A site maintenance utility completely written in Bash.
+
+Muss ich unbedingt mal abchecken!
+
+<http://ascopy.sourceforge.net>
+END-----

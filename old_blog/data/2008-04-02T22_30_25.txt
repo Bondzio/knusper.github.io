@@ -1,0 +1,33 @@
+TITLE: Discount - immer noch Buggy 
+AUTHOR: Christian Herenz
+DATE: 02.04.2008 22:30 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Heute [Vormittag erst darüber berichtet](http://amor.cms.hu-berlin.de/~herenzed/blog/archives/2008/04/02/discount_markdown_in_c_-_neue_version/index.html), das es eine neue Version 
+von Discount gibt, dem Markdown-Parser in C, so hab ich nach bisschen Testen gerade
+den nächsten Bug gefunden. String-Parsing in C ist Hölle! Es geht immer noch
+um eingebetteten HTML Code innerhalb von reinem Markdown:
+
+
+Folgendes:
+
+	 <img src="./sad.gif" alt=":("> 
+
+produziert fälschlicherweise (aber nur wenn Smartypants angeschaltet ist,
+lässt sich beim kompilieren aber disablen und wenns mitkompiliert wurde mit
+durch starten mit dem Flag -F 0x4):
+
+
+	<p><img src="./sad.gif" alt=":(&ldquo;></p>
+
+
+Still some work to do! Innerhalb des HTML-Blocks sollte Smartypants eigentlich
+nicht " nach \$ldquo; und \$rdquo; umwandeln, was bei normalem Text durchaus ein
+typographisch besseres Schriftbild liefert. Normalerweise klappt das in der
+neuen Version auch, aber sobald man innerhalb des alt-Attributs eine Klammer
+hat, kommt der durcheinander :(
+
+END-----

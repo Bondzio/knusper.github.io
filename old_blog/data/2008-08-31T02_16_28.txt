@@ -1,0 +1,14 @@
+TITLE: Physics
+AUTHOR: Christian Herenz
+DATE: 31.08.2008 02:16 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+*APS has launched a new, free, online publication called Physics: physics.aps.org . Each week Physics will highlight a few important papers from the family of Physical Review journals, with commentaries written by prominent physicists and designed to be understood by non-specialists.*
+
+"Non-Specialists" oder eben auch Studenten in den Anfangssemestern...
+
+<http://physics.aps.org/>
+END-----

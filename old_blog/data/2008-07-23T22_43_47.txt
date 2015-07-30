@@ -1,0 +1,22 @@
+TITLE: Da fehlt ein H
+AUTHOR: Christian Herenz
+DATE: 23.07.2008 22:43 Uhr
+DESC: 
+FORMAT: markdown
+-----
+BODY:
+
+Ist denn noch keinem Aufgefallen, dass in meiner Blogüberschrift ein "H"
+fehlt... Peinlich Peinlich... Naja, mir ist es nichtmal selber
+aufgefallen. Prüfung war heute auch nich so pralle... 
+
+Kurz zusammengefasst:
+Aufgaben Einfach - Knusper Doof 
+
+Gut OK... So einfach isses dann doch nicht, wenn man im Prinzip vom
+experimentellen Teil in Physik 0 Ahnung hat und in theoretischer Physik sich
+darauf ausruht das man ja "immer" ("was ich mir gut vorlügen kann") die
+Aufgaben bearbeitet hat. Naja, sollte ich bestanden haben, dann würde das
+bedeuten, dass man mit "Keine Ahnung von Quantenmechanik" eine Prüfung in
+Quantenmechanik bestehen kann... Das würde mich dann aber arg wundern.
+END-----
