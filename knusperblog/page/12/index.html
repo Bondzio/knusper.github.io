@@ -32,6 +32,67 @@
     
         <article>
     <header>
+        <time datetime="2014-01-13">13.01.2014, 15:59</time>
+        <h1>
+            <a href="/knusperblog/2014/iop-science-rss-feeds-broken-affects-apj-apjs-aj/" rel="bookmark canonical">IOP Science RSS Feeds Broken (affects ApJ, ApJS & AJ)</a>
+        </h1>
+    </header>
+    <p>Since some time now the RSS Feeds of the high impact astronomy
+journals &ndash; The Astrophysical Journal, The Astrophysical Journal
+Supplement &amp; The Astronomical Journal- do not work for me in KDEs feed
+reader <a href="http://userbase.kde.org/Akregator">Akregator</a>. I believe the
+reason for this is, that the RSS feeds from the publisher (<a href="http://iopscience.iop.org/">IOPScience</a>)
+are not well formed. In particular I suspect the following malformed
+structure at the beginning of the feeds</p>
+
+<p>  <channel rdf:about="http://iopscience.iop.org/0004-637X/?rss=1"></p>
+
+<pre><code>&lt;title&gt;The Astrophysical Journal - latest papers&lt;/title&gt;
+&lt;link&gt;http://iopscience.iop.org/0004-637X/?rss=1&lt;/link&gt;
+&lt;description&gt;Latest articles for The Astrophysical
+Journal&lt;/description&gt;
+&lt;items&gt;
+  &lt;rdf:Seq&gt;
+    &lt;rdf:li /&gt;
+    ...
+    &lt;rdf:li /&gt;
+  &lt;/rdf:Seq&gt;
+&lt;/items&gt;
+</code></pre>
+
+<p>  </channel></p>
+
+<p>According to the <a href="http://web.resource.org/rss/1.0/spec">RSS 1.0
+Specification</a> the <code>&lt;rdf:li /&gt;</code>
+elements needs to be formed like <code>&lt;rdf:li resource="{item_uri}" /&gt;</code> were
+<code>{item_uri}</code> refers to the same value specified in each item element&rsquo;s
+<code>rdf:about={item_uri}</code>.</p>
+
+<p>So this list is something like a &ldquo;Table of Contents&rdquo; of the RSS file,
+and apparently Akregator evaluates this list. I informed IOPScience
+about the issue&hellip; Lets see what happens.</p>
+
+<p>At the moment a possible workaround would be, to use a feed converter
+(e.g. Googles <a href="https://feedburner.google.com/">Feedburner</a>) to convert
+the feeds to RSS 2.0 and then feed those converted feeds to
+Akregator. But I really hope, that IOPScience fixes the problem.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/work/" rel="tag">work</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
         <time datetime="2014-01-01">01.01.2014, 01:30</time>
         <h1>
             <a href="/knusperblog/2014/knuspermix-2014-01-happy-new-year-trackheads/" rel="bookmark canonical">Knuspermix 2014-01 - Happy New Year Trackheads!</a>
@@ -410,44 +471,6 @@ Repository</a>.</p>
         
             <p>tags:
                 <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
-                
-            </p>
-        
-    </footer>
-    <div class="comments"></div>
-</article>
-    
-        <article>
-    <header>
-        <time datetime="2013-09-16">16.09.2013, 11:36</time>
-        <h1>
-            <a href="/knusperblog/2013/spring-tempelhofer-feld-wallpaper/" rel="bookmark canonical">Spring @ Tempelhofer Feld (Wallpaper)</a>
-        </h1>
-    </header>
-    <p>Fine Desktop Wallpaper created using an old school camera.</p>
-
-<p><img src="http://knusper.net/old_hu/walls/spring_tempelhofer_field_800x600.jpeg" alt="Spring Tempelhofer Feld Wallpaper 800x600 preview"/></p>
-
-<p>Taken in Berlin (June 2010) with an Ihagee Exa-1 using a Carl-Zeis
-Flektogon 2,8/35 Lens on Fuji Superia 200 Film.</p>
-
-<p><em>Download:</em></p>
-
-<p><a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_800x600.jpeg">800x600</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1024x768.jpeg">1024x768</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1280x1024.jpeg">1280x1024</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1440x900.jpeg">1440x900</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1600x1200.jpeg">1600x1200</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1680x1050.jpeg">1680x1050</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_1920x1200.jpeg">1920x1200</a>
-<a href="http://knusper.net/old_hu/walls/spring_tempelhofer_field_2560x1600.jpeg">2560x1600</a></p>
-
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.0/88x31.png"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License</a>.</p>
-    <footer>
-        
-        
-            <p>tags:
-                <a href="/knusperblog/tag/photo/" rel="tag">photo</a>
                 
             </p>
         
