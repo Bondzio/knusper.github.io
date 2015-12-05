@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>IOP Science RSS Feeds Broken</title>
+  <link media="all" href="/knusperblog/style.css" rel="stylesheet" />
+<!--  <link href="http://knusper.net/cookies.ico" rel="shortcut icon" /> -->
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+  <link href="/knusperblog/" rel="home start" />
+  <link href="/knusperblog/atom/" type="application/atom+xml" rel="alternate" title="Atom Feed" />
+  <link href="/knusperblog/rss/" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <meta name="description" content="Since some time now the RSS Feeds of the high impa..." />
+    <meta name="keywords" content="work, english" />
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans'
+	rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Enriqueta:400,700'
+      rel='stylesheet' type='text/css'>
+  <link rel="icon" href="http://knusper.net/cookies.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <h1><a href="/knusperblog/" rel="home start" class="blogtitle">Knusperblog</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/knusperblog/" rel="home start">blog</a></li>
+        <!-- <li><a href="/knusperblog/rss/" rel="alternate">rss</a></li> -->
+        <li><a href="/knusperblog/articles/" rel="contents">archiv</a></li>
+        <li><a href="/knusperblog/atom/" rel="alternate">feed</a></li>
+      </ul>
+    </nav>
+  </header>
+    
+        <article>
+    <header>
+        <time datetime="2014-01-13">13.01.2014, 15:59</time>
+        <h1>
+            <a href="/knusperblog/2014/iop-science-rss-feeds-broken/" rel="bookmark canonical">IOP Science RSS Feeds Broken</a>
+        </h1>
+    </header>
+    <p>Since some time now the RSS Feeds of the high impact astronomy
+journals &ndash; The Astrophysical Journal, The Astrophysical Journal
+Supplement &amp; The Astronomical Journal- do not work for me in KDEs feed
+reader <a href="http://userbase.kde.org/Akregator">Akregator</a>. I believe the
+reason for this is, that the RSS feeds from the publisher (IOPScience)
+are not well formed. In particular I suspect the following malformed
+structure at the beginning of the feeds</p>
+
+<p>  <channel rdf:about="http://iopscience.iop.org/0004-637X/?rss=1"></p>
+
+<pre><code>&lt;title&gt;The Astrophysical Journal - latest papers&lt;/title&gt;
+&lt;link&gt;http://iopscience.iop.org/0004-637X/?rss=1&lt;/link&gt;
+&lt;description&gt;Latest articles for The Astrophysical
+Journal&lt;/description&gt;
+&lt;items&gt;
+  &lt;rdf:Seq&gt;
+    &lt;rdf:li /&gt;
+...
+    &lt;rdf:li /&gt;
+  &lt;/rdf:Seq&gt;
+&lt;/items&gt;
+</code></pre>
+
+<p>  </channel></p>
+
+<p>According to the <a href="http://web.resource.org/rss/1.0/spec">RSS 1.0
+Specification</a> the <code>&lt;rdf:li /&gt;</code>
+elements should be formed <code>&lt;rdf:li resource="{item_uri}" /&gt;</code> were
+<code>{item_uri}</code> refers to the same value specified in each item element&rsquo;s
+<code>rdf:about={item_uri}</code>.</p>
+
+<p>This list is quasi a &ldquo;Table of Contents&rdquo; of the RSS file, and
+apparently Akregator evaluates this list. I informed IOPScience about the
+issue&hellip; Lets see what happens.</p>
+
+<p>At the moment a possible workaround would be, to use a feed converter
+(e.g. Googles <a href="https://feedburner.google.com/">Feedburner</a>) to convert
+the feeds to RSS 2.0 and then feed those converted feeds to
+Akregator. But I really hope, that IOPScience fixes the problem.</p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/work/" rel="tag">work</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+    
+        <a href="/knusperblog/2014/knuspermix-2014-01-happy-new-year-trackheads//" class="page floatright">
+        Knuspermix 2014-01 - Happy New Year Trackheads! &raquo;
+        </a>
+    
+    
+<footer>
+    <!-- 
+     -->
+    <!-- <p>written by <a href="mailto:cherenz@aip.de">Christian Herenz</a></p> -->
+    <!-- <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license"> -->
+    <!--     <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" /> -->
+    <!-- </a> -->
+    <!-- 
+    
+ -->
+  </footer>
+</body>
+</html>
