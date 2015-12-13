@@ -25,7 +25,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/6/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/12/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -100,7 +100,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/16/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/7/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -275,12 +275,12 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/3/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/13/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -468,12 +468,18 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/10/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//2014/david-moleon-disco-revenge-moop-up/</loc>
     <lastmod>2015-06-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://knusper.net/knusperblog//2015/knuspermix-2015-12-berlin-x-t-c/</loc>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url>
@@ -514,17 +520,17 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/14/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/9/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/4/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -589,7 +595,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/6/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -605,12 +611,12 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//atom/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/11/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -620,7 +626,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/8/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -715,7 +721,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -737,7 +743,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//articles/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -754,7 +760,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/15/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -764,7 +770,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/2/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -792,7 +798,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/5/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -826,12 +832,12 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/3/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -912,7 +918,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/9/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -935,7 +941,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/5/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -975,7 +981,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/7/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1004,7 +1010,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/17/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1091,7 +1097,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/4/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1102,7 +1108,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//2015/knuspermix-2015-11-2-thanksgivin-house-reprise/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1114,7 +1120,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/knuspermix/2/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1202,7 +1208,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/8/</loc>
-    <lastmod>2015-12-05</lastmod>
+    <lastmod>2015-12-13</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
