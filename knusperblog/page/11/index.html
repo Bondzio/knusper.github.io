@@ -32,6 +32,56 @@
     
         <article>
     <header>
+        <time datetime="2014-05-16">16.05.2014, 23:54</time>
+        <h1>
+            <a href="/knusperblog/2014/convert-list-of-png-files-to-mjpeg-using-mencoder/" rel="bookmark canonical">Convert List of PNG Files to MJPEG using mencoder</a>
+        </h1>
+    </header>
+    <p>Suppose you have list of single frames</p>
+
+<pre><code>0001.png
+0002.png
+...
+4203.png
+</code></pre>
+
+<p>from which you want to generate a
+<a href="https://en.wikipedia.org/wiki/Motion_JPEG">Motion JPEG</a> (MJpeg)
+movie.</p>
+
+<p>Assuming you have <a href="https://en.wikipedia.org/wiki/MEncoder">mencoder</a>
+(part of mplayer), the following command does the trick:</p>
+
+<pre><code>mencoder mf://*png -ovc lavc -lavcopts vcodec=mjpeg -mf fps=35 -o movie.mjpg
+</code></pre>
+
+<p>Explanation:</p>
+
+<ul>
+<li><code>mf://*png</code> &ndash; expands to an ordered list of png files</li>
+<li><code>-ovc lavc</code> &ndash; use libavc for encoding (note: <code>-ovc help</code> lists available encoders)</li>
+<li><code>-lavcdopts vcodec=mjpeg</code> &ndash; tell libavc to encode in MJpeg</li>
+<li><code>-mf fps=35</code> &ndash; use 35 input files for one second (i.e. framerate will be 35 frames per second)</li>
+<li><code>-o movie.mjpg</code> &ndash; save output to <code>movie.mjpg</code></li>
+</ul>
+
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/playground/" rel="tag">playground</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
         <time datetime="2014-05-12">12.05.2014, 21:46</time>
         <h1>
             <a href="/knusperblog/2014/hot-in-the-mix-2014-week-19/" rel="bookmark canonical">Hot In The Mix - 2014 Week 19</a>
@@ -389,55 +439,6 @@ hauptsache es grooved! Alle drei Tracks sind Bomben, welche auch schon in meinen
         
             <p>tags:
                 <a href="/knusperblog/tag/videomix/" rel="tag">videomix</a>
-                
-            </p>
-        
-    </footer>
-    <div class="comments"></div>
-</article>
-    
-        <article>
-    <header>
-        <time datetime="2014-04-27">27.04.2014, 01:40</time>
-        <h1>
-            <a href="/knusperblog/2014/hot-in-the-mix-2014-week-17/" rel="bookmark canonical">Hot In The Mix - 2014 Week 17</a>
-        </h1>
-    </header>
-    <p><strong>stype &ndash; &ldquo;Hürdenlauf&rdquo; &ndash; techno, breaks, dubsptep &ndash; 2h36m</strong></p>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/135718629&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
-
-
-<p>49 Tracks in verzwirbelter Abelton Live Session vermixt.</p>
-
-<hr />
-
-<hr />
-
-<p><strong>Finn Johannsen &ndash; &ldquo;Hot Wax 016&rdquo; &ndash; breaks, chicago house, techno, acid &ndash; 1h49m</strong></p>
-
-<iframe scrolling="no" id="hearthis_at_track_35354_light" width="100%" height="150" src="//hearthis.at/embed/35354/transparent/" frameborder="0" allowtransparency></iframe>
-
-
-<p>Vinyl Club Live Mix: &ldquo;Recorded live at Lost Tapes, Channel Zero,
-Ljubljana, April 4, 2014.&rdquo; Nice Vibe &ndash; pure Energy &ndash; war bestimmt heiß
-aufm Tanzflur :&ndash;)</p>
-
-<hr />
-
-<hr />
-
-<p><strong>Armando Ponte &ndash; &ldquo;CyBoRgS(VINYL deep mix april14)&rdquo; &ndash; deep tech house &ndash; 1h01m</strong></p>
-
-<iframe src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Farmandoponte7%2Fcyborgsvinyl-deep-mix-april14%2F&amp;embed_uuid=ee63fb56-33b5-425a-8f1e-ba5275272085&amp;replace=0&amp;hide_cover=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" width="100%" frameborder="0" height="180"></iframe><div style="clear: both; height: 3px; width: auto;"></div><p style="display: block; font-size: 11px; font-family: 'Open Sans',Helvetica,Arial,sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;"><a href="http://www.mixcloud.com/armandoponte7/cyborgsvinyl-deep-mix-april14/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">CyBoRgS(VINYL deep mix april14)</a><span> by </span><a href="http://www.mixcloud.com/armandoponte7/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Armando Ponte</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a></p><div style="clear: both; height: 3px; width: auto;"></div>
-
-
-<p>Schöne After-Hour Session &ndash; Angenehm Deep und trozdem genug Energie!</p>
-    <footer>
-        
-        
-            <p>tags:
-                <a href="/knusperblog/tag/djmix/" rel="tag">djmix</a>
                 
             </p>
         
