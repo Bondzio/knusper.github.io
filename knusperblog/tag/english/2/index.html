@@ -32,78 +32,36 @@
     
         <article>
     <header>
-        <time datetime="2013-03-24">24.03.2013, 18:41</time>
+        <time datetime="2013-07-22">22.07.2013, 23:05</time>
         <h1>
-            <a href="/knusperblog/2013/wie-war-eigentlich-dein-trip-zum-calar-alto/" rel="bookmark canonical">Wie war eigentlich dein Trip zum Calar Alto?</a>
+            <a href="/knusperblog/2013/matplotlib-animation-as-animated-gif/" rel="bookmark canonical">Matplotlib Animation as Animated GIF</a>
         </h1>
     </header>
-    <p>Frag nich&hellip;</p>
+    <p>First save <a href="http://wiki.scipy.org/Cookbook/Matplotlib/Animations">matplotlib animation</a> in python code with:</p>
 
-<p>Zum Beispiel so:</p>
+<p><code>ani.save('animation.mp4', fps=10)</code></p>
 
-<p><img src="http://img705.imageshack.us/img705/648/img2599sn.jpg" alt="Abgeschleppt"/></p>
+<p>Use <a href="http://ffmpeg.org/">ffmpeg</a> to decode single frames to gif:</p>
 
-<p>Weitere Highlights:</p>
+<p><code>mkdir gifs &amp;&amp; ffmpeg -i animation.mp4 -r 10 gifs/%04d.gif</code></p>
 
-<ul>
-<li>Teleskopkuppel konnte wegen zu hoher Luftfeuchtigkeit nicht geöffnet werden,
-d.h. Beobachtungsausbeute gleich 0 %.</li>
-<li>Reifenpanne am Mietwagen.</li>
-</ul>
+<p>Use <a href="http://www.lcdf.org/gifsicle/">gifsicle</a> to create animated gif:</p>
 
+<p><code>gifsicle --use-colormap 'bw' --delay=10 --loop ./*gif &gt; animation.gif</code></p>
+
+<p>See also <a href="http://dtbaker.net/random-linux-posts/convert-video-avi-mpeg-mp4-to-a-gif-animation-on-linux/">this
+entry</a>
+at
+<a href="http://dtbaker.net/random-linux-posts/">dtbaker.net/random-linux-posts</a>.</p>
     <footer>
         
         
             <p>tags:
-                <a href="/knusperblog/tag/life/" rel="tag">life</a>
+                <a href="/knusperblog/tag/just-playing/" rel="tag">just playing</a>,
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
                     and
                     
-                <a href="/knusperblog/tag/work/" rel="tag">work</a>
-                
-            </p>
-        
-    </footer>
-    <div class="comments"></div>
-</article>
-    
-        <article>
-    <header>
-        <time datetime="2013-03-23">23.03.2013, 19:59</time>
-        <h1>
-            <a href="/knusperblog/2013/truck-vs-synth/" rel="bookmark canonical">Truck vs. Synth</a>
-        </h1>
-    </header>
-    <p><img src="http://img203.imageshack.us/img203/3412/16427747518827586949510.jpg" alt="If you can afford a truck, you can afford a synthesizer."/></p>
-    <footer>
-        
-        
-            <p>tags:
-                <a href="/knusperblog/tag/fun/" rel="tag">fun</a>
-                
-            </p>
-        
-    </footer>
-    <div class="comments"></div>
-</article>
-    
-        <article>
-    <header>
-        <time datetime="2013-03-17">17.03.2013, 23:09</time>
-        <h1>
-            <a href="/knusperblog/2013/knusperblogging/" rel="bookmark canonical">Knusperblogging</a>
-        </h1>
-    </header>
-    <p>NEU! Knusperblog. NEU!</p>
-
-<p>Statisch, HTML5 und gut, dank
-<a href="http://posativ.org/acrylamid/">Acrylamid</a>!</p>
-
-<p>Kommentare? <a href="http://blog.shaneliesegang.com/2013/02/avoid-comments/">Nö!!</a></p>
-    <footer>
-        
-        
-            <p>tags:
-                <a href="/knusperblog/tag/blog/" rel="tag">blog</a>
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
                 
             </p>
         
@@ -113,7 +71,7 @@ d.h. Beobachtungsausbeute gleich 0 %.</li>
     
     
     
-        <a href="/knusperblog/page/16//" class="page floatleft">
+        <a href="/knusperblog/tag/english//" class="page floatleft">
         &laquo; Next
         </a>
 <footer>
