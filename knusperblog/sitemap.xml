@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/software-i-use/3/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -60,7 +60,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/12/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -112,7 +112,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/16/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -140,7 +140,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/7/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -181,7 +181,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/english/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -221,7 +221,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/english/2/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -256,7 +256,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//2015/knuspermix-2015-12-2-trabrennbahn-karlshorst/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
   </url>
@@ -302,9 +302,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://knusper.net/knusperblog//page/13/</loc>
-    <lastmod>2015-12-19</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>http://knusper.net/knusperblog//2015/lolcat/</loc>
+    <lastmod>2015-12-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//2014/knuspermix-2014-11-my-disco-ain-t-dirty/</loc>
@@ -491,7 +492,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/10/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -505,6 +506,11 @@
     <lastmod>2015-12-19</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://knusper.net/knusperblog//page/13/</loc>
+    <lastmod>2015-12-22</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//2014/knuspermix-2014-11-3-uplifting-vocals/</loc>
@@ -543,12 +549,12 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/14/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/9/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -618,7 +624,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/6/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -634,12 +640,12 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//atom/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/11/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -738,7 +744,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -760,7 +766,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//articles/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -777,7 +783,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/15/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -787,7 +793,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/2/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -810,7 +816,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/software-i-use/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -849,7 +855,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/3/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -958,7 +964,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/5/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1027,7 +1033,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/17/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1103,7 +1109,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/software-i-use/2/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1114,7 +1120,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/4/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1214,7 +1220,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//tag/just-playing/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1225,7 +1231,7 @@
   </url>
   <url>
     <loc>http://knusper.net/knusperblog//page/8/</loc>
-    <lastmod>2015-12-19</lastmod>
+    <lastmod>2015-12-22</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>

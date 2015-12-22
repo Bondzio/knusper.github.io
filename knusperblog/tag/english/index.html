@@ -32,6 +32,34 @@
     
         <article>
     <header>
+        <time datetime="2015-12-22">22.12.2015, 12:52</time>
+        <h1>
+            <a href="/knusperblog/2015/lolcat/" rel="bookmark canonical">lolcat</a>
+        </h1>
+    </header>
+    <p>I can tastes the rainbows on ma shell.</p>
+
+<p><img src="http://knusper.net/images/lolcat.png" alt="Rainbows on the shell"/></p>
+
+<p><a href="https://github.com/busyloop/lolcat/">https://github.com/busyloop/lolcat/</a></p>
+    <footer>
+        
+        
+            <p>tags:
+                <a href="/knusperblog/tag/just-playing/" rel="tag">just playing</a>,
+                <a href="/knusperblog/tag/software-i-use/" rel="tag">software I use</a>
+                    and
+                    
+                <a href="/knusperblog/tag/english/" rel="tag">english</a>
+                
+            </p>
+        
+    </footer>
+    <div class="comments"></div>
+</article>
+    
+        <article>
+    <header>
         <time datetime="2015-12-19">19.12.2015, 11:50</time>
         <h1>
             <a href="/knusperblog/2015/m-x-fireplace/" rel="bookmark canonical">M-x fireplace</a>
@@ -373,67 +401,6 @@ movie.</p>
                     and
                     
                 <a href="/knusperblog/tag/blog/" rel="tag">blog</a>
-                
-            </p>
-        
-    </footer>
-    <div class="comments"></div>
-</article>
-    
-        <article>
-    <header>
-        <time datetime="2014-01-13">13.01.2014, 15:59</time>
-        <h1>
-            <a href="/knusperblog/2014/iop-science-rss-feeds-broken-affects-apj-apjs-aj/" rel="bookmark canonical">IOP Science RSS Feeds Broken (affects ApJ, ApJS & AJ)</a>
-        </h1>
-    </header>
-    <p>Since some time now the RSS Feeds of the high impact astronomy
-journals &ndash; The Astrophysical Journal, The Astrophysical Journal
-Supplement &amp; The Astronomical Journal- do not work for me in KDEs feed
-reader <a href="http://userbase.kde.org/Akregator">Akregator</a>. I believe the
-reason for this is, that the RSS feeds from the publisher (<a href="http://iopscience.iop.org/">IOPScience</a>)
-are not well formed. In particular I suspect the following malformed
-structure at the beginning of the feeds</p>
-
-<p>  <channel rdf:about="http://iopscience.iop.org/0004-637X/?rss=1"></p>
-
-<pre><code>&lt;title&gt;The Astrophysical Journal - latest papers&lt;/title&gt;
-&lt;link&gt;http://iopscience.iop.org/0004-637X/?rss=1&lt;/link&gt;
-&lt;description&gt;Latest articles for The Astrophysical
-Journal&lt;/description&gt;
-&lt;items&gt;
-  &lt;rdf:Seq&gt;
-    &lt;rdf:li /&gt;
-    ...
-    &lt;rdf:li /&gt;
-  &lt;/rdf:Seq&gt;
-&lt;/items&gt;
-</code></pre>
-
-<p>  </channel></p>
-
-<p>According to the <a href="http://web.resource.org/rss/1.0/spec">RSS 1.0
-Specification</a> the <code>&lt;rdf:li /&gt;</code>
-elements needs to be formed like <code>&lt;rdf:li resource="{item_uri}" /&gt;</code> were
-<code>{item_uri}</code> refers to the same value specified in each item element&rsquo;s
-<code>rdf:about={item_uri}</code>.</p>
-
-<p>So this list is something like a &ldquo;Table of Contents&rdquo; of the RSS file,
-and apparently Akregator evaluates this list. I informed IOPScience
-about the issue&hellip; Lets see what happens.</p>
-
-<p>At the moment a possible workaround would be, to use a feed converter
-(e.g. Googles <a href="https://feedburner.google.com/">Feedburner</a>) to convert
-the feeds to RSS 2.0 and then feed those converted feeds to
-Akregator. But I really hope, that IOPScience fixes the problem.</p>
-    <footer>
-        
-        
-            <p>tags:
-                <a href="/knusperblog/tag/work/" rel="tag">work</a>
-                    and
-                    
-                <a href="/knusperblog/tag/english/" rel="tag">english</a>
                 
             </p>
         
